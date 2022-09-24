@@ -1,0 +1,2427 @@
+Type,Date,Code_Departement,Commune,Area (ha),Cause,ID_new
+Foret,2020-03-31,26,CURNIER,1.0,Accidentelle,1
+Foret,2020-04-02,13,FARE-LES-OLIVIERS (LA),0.1,Vehicules,2
+Foret,2020-04-02,13,SAINT-CANNAT,0.12,Travaux (Particuliers),4
+Foret,2020-04-03,26,GRIGNAN,0.3,Malveillance,8
+Foret,2020-04-04,26,VINSOBRES,1.53,Travaux Agricoles,10
+Foret,2020-04-04,26,AUTICHAMP,1.1,Travaux Agricoles,11
+Foret,2020-04-05,34,SALVETAT-SUR-AGOUT (LA),0.2736,Travaux Industriels/Publics,13
+Foret,2020-04-05,2A,OTA,0.01,Depot d'Ordures,14
+Foret,2020-04-06,7,SAINT-PIERREVILLE,0.05,Jet D'Objets Incandescents,15
+Foret,2020-04-06,48,SAINT-PIERRE-DES-TRIPIERS,1.0,Reprise Incendie,16
+Foret,2020-04-07,83,FAYENCE,0.6,Travaux (Particuliers),20
+Foret,2020-04-07,66,LATOUR-DE-FRANCE,0.5,Travaux Agricoles,22
+Foret,2020-04-07,34,LAGAMAS,0.7092,Travaux Agricoles,23
+Foret,2020-04-09,7,LANARCE,1.0,Travaux Agricoles,27
+Foret,2020-04-09,34,SAINT-JEAN-DE-CUCULLES,1.2673,Travaux Industriels/Publics,31
+Foret,2020-04-10,26,VENTEROL,0.5,Malveillance,36
+Foret,2020-04-10,13,TARASCON,0.2,Travaux (Particuliers),37
+Foret,2020-04-11,48,SAINT-ANDEOL-DE-CLERGUEMORT,0.79,Pyromanie,41
+Foret,2020-04-12,2A,ZONZA,0.01,Travaux (Particuliers),45
+Foret,2020-04-13,84,VALREAS,0.86,Vehicules,47
+Foret,2020-04-13,83,CADIERE-D'AZUR (LA),0.01,Travaux (Particuliers),48
+Foret,2020-04-14,2A,APPIETTO,0.008,Travaux Agricoles,49
+Foret,2020-04-14,26,AULAN,0.34,Malveillance,50
+Foret,2020-04-15,48,MOLEZON,9.34,Jet D'Objets Incandescents,51
+Foret,2020-04-15,83,ENTRECASTEAUX,0.35,Travaux Forestiers,52
+Foret,2020-04-15,83,LUC (LE),0.002,Loisirs (Particuliers),53
+Foret,2020-04-15,7,JOANNAS,0.4,Travaux (Particuliers),54
+Foret,2020-04-16,2A,SARTENE,0.003,Travaux (Particuliers),55
+Foret,2020-04-16,2A,OLIVESE,0.15,Depot d'Ordures,59
+Foret,2020-04-17,2A,ARBORI,0.05,Travaux (Particuliers),61
+Foret,2020-04-18,2A,BOCOGNANO,0.04,Travaux (Particuliers),64
+Foret,2020-04-18,83,NANS-LES-PINS,0.0002,Loisirs (Particuliers),65
+Foret,2020-04-18,2A,BOCOGNANO,0.0001,Reprise Incendie,66
+Foret,2020-04-24,83,SEILLANS,0.15,Travaux (Particuliers),67
+Foret,2020-05-05,2A,CARGESE,0.003,Travaux (Particuliers),71
+Foret,2020-05-06,2A,COZZANO,0.01,Travaux (Particuliers),72
+Foret,2020-05-08,2A,PIANA,0.003,Travaux (Particuliers),74
+Foret,2020-05-08,83,SAINT-ANTONIN-DU-VAR,0.185,Travaux (Particuliers),75
+Foret,2020-05-10,2A,AMBIEGNA,0.01,Travaux Agricoles,76
+Foret,2020-05-10,2A,OTA,0.01,Travaux (Particuliers),77
+Foret,2020-05-19,34,VENDEMIAN,1.2191,Travaux Forestiers,78
+Foret,2020-05-21,7,SAINT-ANDEOL-DE-VALS,0.2,Loisirs (Particuliers),80
+Foret,2020-05-23,2A,SAINTE-LUCIE-DE-TALLANO,0.04,Travaux (Particuliers),81
+Foret,2020-05-24,83,COLLOBRIERES,0.016,Conflit,83
+Foret,2020-05-25,13,MARTIGUES,0.02,Malveillance,84
+Foret,2020-05-25,48,CHANAC,0.006,Travaux Agricoles,85
+Foret,2020-05-25,13,SAINT-MARTIN-DE-CRAU,0.0012,Vehicules,86
+Foret,2020-05-26,13,EGUILLES,0.001,Vehicules,87
+Foret,2020-05-26,2A,APPIETTO,0.01,Travaux (Particuliers),88
+Foret,2020-05-29,13,LAMBESC,0.02,Loisirs (Particuliers),91
+Foret,2020-05-29,83,BRIGNOLES,0.0002,Travaux (Particuliers),92
+Foret,2020-05-30,7,MONTSELGUES,0.2,Travaux (Particuliers),93
+Foret,2020-05-31,7,FAUGERES,0.01,Lignes Electriques,94
+Foret,2020-06-03,48,SAINT-ETIENNE-VALLEE-FRANCAISE,0.04,Foudre,99
+Foret,2020-06-05,2B,AGHIONE,89.82,Malveillance,101
+Foret,2020-06-06,5,SAINT-ANDRE-D'EMBRUN,0.05,Reprise Incendie,102
+Foret,2020-06-07,13,PORT-DE-BOUC,0.0142,Vehicules,103
+Foret,2020-06-08,66,RIVESALTES,0.7,Malveillance,104
+Foret,2020-06-10,2A,COGGIA,1.374,Travaux (Particuliers),107
+Foret,2020-06-10,13,MARTIGUES,0.1,Malveillance,109
+Foret,2020-06-10,13,SALON-DE-PROVENCE,0.002,Malveillance,110
+Foret,2020-06-11,13,SALON-DE-PROVENCE,0.001,Jet D'Objets Incandescents,111
+Foret,2020-06-12,66,RIVESALTES,1.0,Chemin De Fer,113
+Foret,2020-06-12,66,RIVESALTES,0.25,Chemin De Fer,115
+Foret,2020-06-14,2A,VICO,0.0475,Travaux (Particuliers),120
+Foret,2020-06-15,13,MARTIGUES,0.021,Malveillance,122
+Foret,2020-06-15,66,CORNEILLA-LA-RIVIERE,0.5,Travaux Forestiers,123
+Foret,2020-06-15,84,PIOLENC,0.26,Involontaire (particulier),125
+Foret,2020-06-16,2A,SERRIERA,0.03,Depot d'Ordures,126
+Foret,2020-06-17,83,CROIX-VALMER (LA),0.005,Travaux Industriels/Publics,127
+Foret,2020-06-17,34,LODEVE,0.2008,Loisirs (Particuliers),128
+Foret,2020-06-17,13,PENNES-MIRABEAU (LES),0.05,Jet D'Objets Incandescents,130
+Foret,2020-06-17,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.0463,Malveillance,131
+Foret,2020-06-19,2A,SOTTA,0.008,Involontaire (particulier),135
+Foret,2020-06-19,2A,CAURO,0.03,Travaux (Particuliers),136
+Foret,2020-06-19,2A,APPIETTO,0.1,Travaux Industriels/Publics,137
+Foret,2020-06-19,34,JONCELS,0.0236,Vehicules,138
+Foret,2020-06-20,2A,PORTO-VECCHIO,0.05,Vehicules,139
+Foret,2020-06-20,83,CARNOULES,0.3,Involontaire (particulier),140
+Foret,2020-06-21,2A,ZOZA,0.01,Travaux (Particuliers),144
+Foret,2020-06-22,13,BOUC-BEL-AIR,0.0005,Jet D'Objets Incandescents,147
+Foret,2020-06-22,13,VITROLLES,0.001,Loisirs (Particuliers),148
+Foret,2020-06-22,6,CANNES,0.1,Travaux Forestiers,150
+Foret,2020-06-22,2A,LECCI,0.3,Travaux (Particuliers),151
+Foret,2020-06-22,2A,PIANA,0.0215,Travaux (Particuliers),152
+Foret,2020-06-23,2B,AGHIONE,0.1,Travaux Agricoles,154
+Foret,2020-06-24,13,TARASCON,0.001,Vehicules,156
+Foret,2020-06-24,2A,FOZZANO,0.02,Travaux (Particuliers),157
+Foret,2020-06-24,13,CHARLEVAL,0.0002,Jet D'Objets Incandescents,158
+Foret,2020-06-24,2A,VERO,0.0001,Travaux (Particuliers),159
+Foret,2020-06-24,13,EGUILLES,0.2,Chemin De Fer,162
+Foret,2020-06-24,13,SALON-DE-PROVENCE,0.004,Malveillance,163
+Foret,2020-06-25,13,PUY-SAINTE-REPARADE (LE),0.015,Jet D'Objets Incandescents,165
+Foret,2020-06-26,13,MIMET,0.002,Vehicules,167
+Foret,2020-06-26,13,PORT-DE-BOUC,6.2,Travaux Agricoles,168
+Foret,2020-06-26,26,BAUME-DE-TRANSIT (LA),1.04,Involontaire (particulier),169
+Foret,2020-06-26,2A,ALATA,0.25,Travaux Industriels/Publics,170
+Foret,2020-06-26,13,PENNES-MIRABEAU (LES),0.002,Jet D'Objets Incandescents,172
+Foret,2020-06-26,13,PUYLOUBIER,0.15,Jet D'Objets Incandescents,173
+Foret,2020-06-27,48,CHANAC,0.015,Loisirs (Particuliers),176
+Foret,2020-06-28,13,AIX-EN-PROVENCE,0.0005,Jet D'Objets Incandescents,177
+Foret,2020-06-28,13,JOUQUES,0.005,Malveillance,178
+Foret,2020-06-28,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.7478,Malveillance,179
+Foret,2020-06-28,2B,CANARI,0.4,Interet,180
+Foret,2020-06-29,13,GEMENOS,0.02,Travaux Agricoles,184
+Foret,2020-06-29,13,ROVE (LE),0.002,Loisirs (Particuliers),185
+Foret,2020-06-29,13,FOS-SUR-MER,0.03,Malveillance,187
+Foret,2020-06-29,13,LANCON-PROVENCE,0.3,Jet D'Objets Incandescents,188
+Foret,2020-06-29,13,MARTIGUES,0.01,Malveillance,189
+Foret,2020-06-29,13,MARTIGUES,0.01,Malveillance,190
+Foret,2020-06-29,13,GARDANNE,0.06,Lignes Electriques,191
+Foret,2020-06-30,13,MARTIGUES,0.005,Depot d'Ordures,192
+Foret,2020-07-01,4,AIGLUN,0.2,Accidentelle,196
+Foret,2020-07-02,2A,ZONZA,0.0001,Travaux (Particuliers),198
+Foret,2020-07-02,4,CHATEAUNEUF-VAL-SAINT-DONAT,0.001,Foudre,199
+Foret,2020-07-03,13,ARLES,0.008,Malveillance,201
+Foret,2020-07-03,34,SAINT-JEAN-DE-FOS,2.3931,Travaux Forestiers,202
+Foret,2020-07-03,6,DALUIS,1.3,Foudre,203
+Foret,2020-07-03,7,LAURAC-EN-VIVARAIS,1.0,Foudre,204
+Foret,2020-07-03,13,AUBAGNE,0.002,Jet D'Objets Incandescents,205
+Foret,2020-07-04,34,CASTRIES,0.0099,Travaux Forestiers,207
+Foret,2020-07-04,66,BARCARES (LE),10.0,Malveillance,208
+Foret,2020-07-04,13,PENNES-MIRABEAU (LES),0.2,Jet D'Objets Incandescents,213
+Foret,2020-07-04,66,CLAIRA,1.0,Malveillance,214
+Foret,2020-07-04,48,VIGNES (LES),0.015,Loisirs (Particuliers),215
+Foret,2020-07-05,2A,FIGARI,0.005,Travaux (Particuliers),218
+Foret,2020-07-05,30,COMPS,8.605,Vehicules,219
+Foret,2020-07-05,2A,ZONZA,0.006,Travaux (Particuliers),221
+Foret,2020-07-05,34,PAULHAN,1.5462,Malveillance,222
+Foret,2020-07-06,30,NIMES,0.3,Malveillance,224
+Foret,2020-07-06,34,NISSAN-LEZ-ENSERUNE,0.6316,Malveillance,225
+Foret,2020-07-06,13,CASSIS,0.001,Jet D'Objets Incandescents,226
+Foret,2020-07-06,34,LODEVE,0.0069,Involontaire (travaux),227
+Foret,2020-07-06,83,ROQUEBRUNE-SUR-ARGENS,0.01,Travaux Industriels/Publics,230
+Foret,2020-07-06,13,MARTIGUES,1.66,Travaux (Particuliers),231
+Foret,2020-07-06,13,MARTIGUES,1.43,Depot d'Ordures,232
+Foret,2020-07-06,26,SAINT-BARTHELEMY-DE-VALS,0.8,Malveillance,233
+Foret,2020-07-06,13,PLAN-D'ORGON,4.0,Malveillance,234
+Foret,2020-07-06,13,AIX-EN-PROVENCE,0.01,Jet D'Objets Incandescents,235
+Foret,2020-07-06,13,MEYREUIL,0.001,Jet D'Objets Incandescents,236
+Foret,2020-07-06,13,CASSIS,0.001,Depot d'Ordures,238
+Foret,2020-07-06,13,MARTIGUES,0.198,Malveillance,239
+Foret,2020-07-06,6,TRINITE (LA),0.04,Malveillance,240
+Foret,2020-07-06,13,CABRIES,0.3,Depot d'Ordures,242
+Foret,2020-07-07,13,VITROLLES,0.0005,Jet D'Objets Incandescents,244
+Foret,2020-07-07,84,CHEVAL-BLANC,0.049,Lignes Electriques,245
+Foret,2020-07-07,13,VITROLLES,0.8,Travaux Agricoles,246
+Foret,2020-07-07,66,SAINT-ESTEVE,8.0,Travaux Industriels/Publics,248
+Foret,2020-07-07,2B,GHISONACCIA,0.5,Involontaire (travaux),250
+Foret,2020-07-07,7,DESAIGNES,0.6,Foudre,251
+Foret,2020-07-07,13,SAINT-ESTEVE-JANSON,0.005,Vehicules,253
+Foret,2020-07-07,34,LOUPIAN,13.5801,Jet D'Objets Incandescents,254
+Foret,2020-07-07,13,VELAUX,0.025,Jet D'Objets Incandescents,255
+Foret,2020-07-07,13,PORT-DE-BOUC,0.001,Jet D'Objets Incandescents,256
+Foret,2020-07-07,6,CANTARON,0.5,Malveillance,257
+Foret,2020-07-07,66,ESPIRA-DE-L'AGLY,0.5,Malveillance,258
+Foret,2020-07-07,13,MIRAMAS,0.1,Vehicules,259
+Foret,2020-07-07,48,MENDE,0.002,Pyromanie,260
+Foret,2020-07-08,48,VIALAS,0.001,Travaux (Particuliers),262
+Foret,2020-07-08,13,AURIOL,0.15,Travaux (Particuliers),263
+Foret,2020-07-08,13,VAUVENARGUES,0.001,Vehicules,265
+Foret,2020-07-08,48,CHANAC,0.22,Travaux Agricoles,266
+Foret,2020-07-08,26,VALENCE,0.02,Jet D'Objets Incandescents,267
+Foret,2020-07-08,66,VILLELONGUE-DELS-MONTS,0.1,Loisirs (Particuliers),269
+Foret,2020-07-08,34,PERET,51.71,Malveillance,270
+Foret,2020-07-08,2A,OTA,0.003,Jet D'Objets Incandescents,271
+Foret,2020-07-08,5,ROUSSET,0.12,Accidentelle,273
+Foret,2020-07-09,13,CABRIES,0.02,Lignes Electriques,275
+Foret,2020-07-09,66,ESTAGEL,0.8,Vehicules,276
+Foret,2020-07-09,30,POULX,1.3265,Malveillance,277
+Foret,2020-07-09,4,SAINT-PAUL-SUR-UBAYE,0.0004,Lignes Electriques,278
+Foret,2020-07-09,34,PINET,0.0117,Accidentelle,279
+Foret,2020-07-09,34,VALFLAUNES,1.4097,Accidentelle,280
+Foret,2020-07-10,13,SAINT-MITRE-LES-REMPARTS,0.02,Vehicules,282
+Foret,2020-07-10,66,ESTAGEL,28.63,Malveillance,283
+Foret,2020-07-10,48,SAINT-ETIENNE-VALLEE-FRANCAISE,0.0038,Foudre,284
+Foret,2020-07-10,7,SAINT-ALBAN-AURIOLLES,0.1,Foudre,285
+Foret,2020-07-10,4,TURRIERS,0.05,Foudre,287
+Foret,2020-07-11,30,MARGUERITTES,0.0968,Malveillance,289
+Foret,2020-07-11,66,SAINT-ANDRE,0.6,Malveillance,290
+Foret,2020-07-11,34,PEGAIROLLES-DE-L'ESCALETTE,0.1559,Accidentelle,293
+Foret,2020-07-11,34,CLERMONT-L'HERAULT,0.0726,Jet D'Objets Incandescents,294
+Foret,2020-07-12,13,AUBAGNE,0.003,Jet D'Objets Incandescents,296
+Foret,2020-07-12,13,SEPTEMES-LES-VALLONS,0.05,Jet D'Objets Incandescents,297
+Foret,2020-07-12,2A,PIANA,2.1346,Vehicules,301
+Foret,2020-07-12,34,CESSENON-SUR-ORB,0.1836,Malveillance,302
+Foret,2020-07-12,7,BOULIEU-LES-ANNONAY,0.004,Lignes Electriques,303
+Foret,2020-07-13,48,LANUEJOLS,0.001,Lignes Electriques,307
+Foret,2020-07-13,2B,CASTELLO-DI-ROSTINO,32.26,Malveillance,308
+Foret,2020-07-13,34,MAUGUIO,0.7934,Pyromanie,309
+Foret,2020-07-13,34,GRANDE-MOTTE (LA),0.0522,Malveillance,310
+Foret,2020-07-13,34,GRANDE-MOTTE (LA),0.0146,Malveillance,311
+Foret,2020-07-13,13,MOURIES,1.5,Travaux (Particuliers),312
+Foret,2020-07-13,2A,PORTO-VECCHIO,0.03,Foudre,313
+Foret,2020-07-13,34,BEZIERS,0.744,Travaux (Particuliers),316
+Foret,2020-07-13,2A,SANTA-MARIA-SICHE,0.01,Foudre,317
+Foret,2020-07-13,13,SAINT-CANNAT,0.005,Jet D'Objets Incandescents,319
+Foret,2020-07-14,34,AUMES,0.06,Accidentelle,321
+Foret,2020-07-14,66,PERPIGNAN,1.5,Malveillance,322
+Foret,2020-07-14,5,TRESCLEOUX,4.11,Travaux (Particuliers),326
+Foret,2020-07-14,34,QUARANTE,29.57,Accidentelle,328
+Foret,2020-07-14,48,LACHAMP,0.38,Travaux Agricoles,329
+Foret,2020-07-14,13,SAUSSET-LES-PINS,0.02,Vehicules,330
+Foret,2020-07-14,13,SEPTEMES-LES-VALLONS,0.15,Jet D'Objets Incandescents,331
+Foret,2020-07-14,13,MARSEILLE,0.05,Accidentelle,332
+Foret,2020-07-14,48,BLEYMARD (LE),0.001,Travaux (Particuliers),333
+Foret,2020-07-14,34,CLERMONT-L'HERAULT,0.4173,Accidentelle,338
+Foret,2020-07-15,13,AIX-EN-PROVENCE,0.01,Vehicules,340
+Foret,2020-07-15,66,CANOHES,2.0,Vehicules,341
+Foret,2020-07-15,13,SAINT-PAUL-LES-DURANCE,0.003,Jet D'Objets Incandescents,345
+Foret,2020-07-15,30,NIMES,0.2,Malveillance,346
+Foret,2020-07-15,4,SAINTE-CROIX-DU-VERDON,0.18,Loisirs (Particuliers),347
+Foret,2020-07-15,34,VAILHAUQUES,0.8735,Travaux (Particuliers),348
+Foret,2020-07-15,48,CASSAGNAS,0.002,Travaux (Particuliers),349
+Foret,2020-07-15,13,SALON-DE-PROVENCE,0.1,Jet D'Objets Incandescents,352
+Foret,2020-07-16,2A,SAN-GAVINO-DI-CARBINI,0.003,Foudre,359
+Foret,2020-07-16,4,PIERRERUE,0.83,Travaux Agricoles,361
+Foret,2020-07-16,13,MOURIES,2.4,Travaux Forestiers,363
+Foret,2020-07-16,13,AIX-EN-PROVENCE,0.02,Jet D'Objets Incandescents,366
+Foret,2020-07-16,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.022,Malveillance,367
+Foret,2020-07-17,13,MARTIGUES,0.001,Depot d'Ordures,372
+Foret,2020-07-17,13,VENELLES,0.002,Malveillance,373
+Foret,2020-07-17,34,ADISSAN,0.9739,Malveillance,374
+Foret,2020-07-17,13,EYGALIERES,0.37,Jet D'Objets Incandescents,375
+Foret,2020-07-17,34,QUARANTE,0.0076,Reprise Incendie,376
+Foret,2020-07-17,66,LAROQUE-DES-ALBERES,8.0,Malveillance,377
+Foret,2020-07-17,34,GRANDE-MOTTE (LA),0.2367,Reprise Incendie,379
+Foret,2020-07-18,66,PIA,1.7,Malveillance,383
+Foret,2020-07-18,34,VAILHAUQUES,0.0081,Reprise Incendie,387
+Foret,2020-07-18,34,NEFFIES,0.3902,Malveillance,388
+Foret,2020-07-18,66,ESPIRA-DE-L'AGLY,0.5,Malveillance,389
+Foret,2020-07-19,4,MONTLAUX,0.28,Travaux Agricoles,392
+Foret,2020-07-19,30,GENERARGUES,13.0605,Malveillance,393
+Foret,2020-07-19,13,AIX-EN-PROVENCE,0.0002,Vehicules,395
+Foret,2020-07-19,66,CASES-DE-PENE,1.0,Malveillance,396
+Foret,2020-07-20,13,NOVES,0.02,Jet D'Objets Incandescents,397
+Foret,2020-07-20,4,SIMIANE-LA-ROTONDE,0.19,Jet D'Objets Incandescents,400
+Foret,2020-07-20,34,NEFFIES,0.0001,Reprise Incendie,401
+Foret,2020-07-20,2B,ALERIA,0.04,Malveillance,402
+Foret,2020-07-20,2B,ALERIA,3.3,Malveillance,403
+Foret,2020-07-20,34,FRONTIGNAN,0.0388,Travaux (Particuliers),404
+Foret,2020-07-21,34,SETE,0.0855,Loisirs (Particuliers),405
+Foret,2020-07-21,34,ROQUEBRUN,0.0005,Travaux (Particuliers),406
+Foret,2020-07-21,26,MONTFROC,10.42,Malveillance,407
+Foret,2020-07-21,26,CHATEAUNEUF-SUR-ISERE,3.49,Loisirs (Particuliers),409
+Foret,2020-07-21,30,GENERARGUES,0.005,Reprise Incendie,411
+Foret,2020-07-21,48,PREVENCHERES,0.001,Foudre,412
+Foret,2020-07-22,30,GENERARGUES,0.001,Reprise Incendie,413
+Foret,2020-07-22,30,GENERARGUES,0.03,Reprise Incendie,414
+Foret,2020-07-22,48,LAJO,0.002,Depot d'Ordures,417
+Foret,2020-07-23,84,MURS,0.07,Travaux Agricoles,422
+Foret,2020-07-23,4,FORCALQUIER,0.039,Jet D'Objets Incandescents,423
+Foret,2020-07-23,4,FORCALQUIER,0.06,Reprise Incendie,424
+Foret,2020-07-23,5,REMOLLON,0.96,Travaux (Particuliers),425
+Foret,2020-07-23,4,DAUPHIN,0.21,Lignes Electriques,426
+Foret,2020-07-23,66,OPOUL-PERILLOS,0.02,Foudre,427
+Foret,2020-07-23,5,SAVINES-LE-LAC,0.001,Vehicules,428
+Foret,2020-07-24,34,FONTES,0.0621,Jet D'Objets Incandescents,430
+Foret,2020-07-24,13,GARDANNE,0.005,Jet D'Objets Incandescents,432
+Foret,2020-07-24,66,VINGRAU,0.2,Foudre,433
+Foret,2020-07-24,34,PERET,0.9698,Jet D'Objets Incandescents,434
+Foret,2020-07-24,6,BOLLENE-VESUBIE (LA),0.02,Foudre,436
+Foret,2020-07-24,34,ASSAS,0.0952,Lignes Electriques,439
+Foret,2020-07-24,34,PERET,3.0551,Jet D'Objets Incandescents,441
+Foret,2020-07-25,13,ROGNAC,0.2,Jet D'Objets Incandescents,442
+Foret,2020-07-25,13,ROUSSET,0.2,Vehicules,443
+Foret,2020-07-25,5,VENTAVON,4.0,Travaux (Particuliers),444
+Foret,2020-07-25,4,CHATEAUFORT,0.0019,Loisirs (Particuliers),445
+Foret,2020-07-25,13,SAINT-VICTORET,0.003,Jet D'Objets Incandescents,446
+Foret,2020-07-25,13,CHATEAURENARD,0.1,Lignes Electriques,447
+Foret,2020-07-25,13,FOS-SUR-MER,0.001,Loisirs (Particuliers),450
+Foret,2020-07-26,13,SAINT-REMY-DE-PROVENCE,0.001,Jet D'Objets Incandescents,451
+Foret,2020-07-26,2B,VOLPAJOLA,0.01,Malveillance,452
+Foret,2020-07-26,4,CHATEAU-ARNOUX-SAINT-AUBAN,0.0031,Loisirs (Particuliers),453
+Foret,2020-07-26,66,CORNEILLA-DE-CONFLENT,0.2,Foudre,454
+Foret,2020-07-26,2A,ZICAVO,0.0001,Reprise Incendie,456
+Foret,2020-07-27,34,MONTPELLIER,0.0027,Involontaire (particulier),458
+Foret,2020-07-27,7,DESAIGNES,0.2,Lignes Electriques,460
+Foret,2020-07-28,83,HYERES,1.52,Travaux Industriels/Publics,466
+Foret,2020-07-28,2A,OLMETO,0.1035,Malveillance,467
+Foret,2020-07-28,2A,SERRIERA,0.008,Depot d'Ordures,469
+Foret,2020-07-29,34,COURNIOU,0.0168,Foudre,472
+Foret,2020-07-29,13,PENNES-MIRABEAU (LES),0.08,Jet D'Objets Incandescents,473
+Foret,2020-07-29,2B,GHISONI,0.015,Foudre,475
+Foret,2020-07-29,66,BOULOU (LE),1.0,Travaux Industriels/Publics,477
+Foret,2020-07-29,4,LURS,2.46,Travaux Industriels/Publics,478
+Foret,2020-07-29,26,MONTSEGUR-SUR-LAUZON,0.32,Pyromanie,481
+Foret,2020-07-29,30,SAINTE-CECILE-D'ANDORGE,4.163,Malveillance,482
+Foret,2020-07-30,30,SAINTE-CECILE-D'ANDORGE,0.002,Malveillance,483
+Foret,2020-07-30,30,SAINTE-CECILE-D'ANDORGE,0.002,Malveillance,484
+Foret,2020-07-30,30,SAINTE-CECILE-D'ANDORGE,0.3732,Malveillance,485
+Foret,2020-07-30,30,SAINTE-CECILE-D'ANDORGE,0.3027,Malveillance,486
+Foret,2020-07-30,30,SAINTE-CECILE-D'ANDORGE,0.0025,Malveillance,487
+Foret,2020-07-30,30,SAINTE-CECILE-D'ANDORGE,0.9981,Malveillance,488
+Foret,2020-07-30,30,SAINTE-CECILE-D'ANDORGE,0.0532,Malveillance,489
+Foret,2020-07-30,66,OPOUL-PERILLOS,1.0,Travaux Industriels/Publics,490
+Foret,2020-07-30,13,SEPTEMES-LES-VALLONS,0.001,Jet D'Objets Incandescents,494
+Foret,2020-07-30,13,AUBAGNE,0.005,Jet D'Objets Incandescents,495
+Foret,2020-07-31,13,AIX-EN-PROVENCE,0.001,Lignes Electriques,497
+Foret,2020-08-01,83,TOULON,1.0,Loisirs (Particuliers),500
+Foret,2020-08-01,4,MOUSTIERS-SAINTE-MARIE,0.002,Jet D'Objets Incandescents,501
+Foret,2020-08-01,13,AIX-EN-PROVENCE,1.81,Lignes Electriques,503
+Foret,2020-08-01,66,BAGES,0.35,Malveillance,506
+Foret,2020-08-01,30,MILHAUD,40.9541,Malveillance,507
+Foret,2020-08-01,7,SAINT-MARTIN-DE-VALAMAS,2.0,Foudre,508
+Foret,2020-08-01,66,VIVES,0.03,Foudre,509
+Foret,2020-08-01,34,MONTBLANC,0.6876,Vehicules,511
+Foret,2020-08-01,34,NIZAS,1.0063,Accidentelle,512
+Foret,2020-08-01,84,GIGONDAS,0.51,Foudre,513
+Foret,2020-08-01,84,SAULT,0.32,Foudre,514
+Foret,2020-08-01,34,VENDEMIAN,0.0282,Foudre,515
+Foret,2020-08-01,34,FABREGUES,0.0035,Foudre,516
+Foret,2020-08-02,2A,APPIETTO,0.18,Vehicules,520
+Foret,2020-08-02,13,ROVE (LE),0.001,Loisirs (Particuliers),521
+Foret,2020-08-02,7,SAINT-BASILE,0.005,Foudre,522
+Foret,2020-08-02,34,MONTADY,1.0434,Travaux (Particuliers),523
+Foret,2020-08-02,5,BRIANCON,0.44,Foudre,524
+Foret,2020-08-02,6,COARAZE,0.02,Foudre,525
+Foret,2020-08-02,30,MILHAUD,0.01,Reprise Incendie,526
+Foret,2020-08-02,34,SAINT-PRIVAT,0.1014,Malveillance,530
+Foret,2020-08-03,34,TOUR-SUR-ORB (LA),4.0038,Malveillance,531
+Foret,2020-08-03,4,SELONNET,0.0001,Foudre,534
+Foret,2020-08-03,30,MILHAUD,0.001,Reprise Incendie,535
+Foret,2020-08-03,34,PUECH (LE),0.4248,Pyromanie,536
+Foret,2020-08-03,13,SEPTEMES-LES-VALLONS,0.0012,Depot d'Ordures,537
+Foret,2020-08-03,13,FUVEAU,0.01,Jet D'Objets Incandescents,538
+Foret,2020-08-03,66,LANSAC,2.0,Travaux Industriels/Publics,541
+Foret,2020-08-03,2B,PIETROSO,0.002,Malveillance,543
+Foret,2020-08-03,13,COUDOUX,11.73,Jet D'Objets Incandescents,544
+Foret,2020-08-03,66,SAINT-HIPPOLYTE,20.0,Loisirs (Particuliers),546
+Foret,2020-08-03,34,CAZOULS-D'HERAULT,1.1622,Accidentelle,547
+Foret,2020-08-03,13,MARTIGUES,0.08,Malveillance,548
+Foret,2020-08-03,2B,FELICETO,19.44,Malveillance,550
+Foret,2020-08-04,83,GRIMAUD,1.9,Malveillance,551
+Foret,2020-08-04,13,JOUQUES,0.005,Malveillance,553
+Foret,2020-08-04,2B,TAGLIO-ISOLACCIO,0.1,Travaux (Particuliers),556
+Foret,2020-08-04,13,BOUILLADISSE (LA),0.02,Jet D'Objets Incandescents,558
+Foret,2020-08-04,84,VITROLLES-EN-LUBERON,0.4,Travaux (Particuliers),561
+Foret,2020-08-04,13,PORT-DE-BOUC,83.22,Malveillance,562
+Foret,2020-08-04,13,CIOTAT (LA),0.36,Jet D'Objets Incandescents,563
+Foret,2020-08-04,30,SAINT-ROMAN-DE-CODIERES,0.5,Lignes Electriques,564
+Foret,2020-08-04,13,MARTIGUES,0.0989,Malveillance,566
+Foret,2020-08-04,13,AUBAGNE,9.16,Travaux Agricoles,567
+Foret,2020-08-04,34,SAINT-GELY-DU-FESC,0.1486,Accidentelle,568
+Foret,2020-08-05,34,LUNEL,1.8446,Lignes Electriques,573
+Foret,2020-08-05,66,SAINT-ESTEVE,1.5,Malveillance,574
+Foret,2020-08-05,4,MANOSQUE,0.029,Loisirs (Particuliers),576
+Foret,2020-08-05,34,COURNONTERRAL,0.166,Depot d'Ordures,579
+Foret,2020-08-05,13,ROGNAC,8.74,Jet D'Objets Incandescents,580
+Foret,2020-08-05,2A,PORTO-VECCHIO,0.01,Vehicules,581
+Foret,2020-08-05,66,CERET,5.0,Lignes Electriques,583
+Foret,2020-08-05,7,SAINTE-MARGUERITE-LAFIGERE,0.3,Lignes Electriques,585
+Foret,2020-08-05,84,GOULT,0.02,Vehicules,587
+Foret,2020-08-06,84,CADENET,0.09,Malveillance,589
+Foret,2020-08-06,34,FONTES,0.7792,Malveillance,590
+Foret,2020-08-06,34,AUMELAS,6.7959,Malveillance,591
+Foret,2020-08-06,34,FRONTIGNAN,4.363,Vehicules,592
+Foret,2020-08-06,13,ROQUE-D'ANTHERON (LA),0.2,Travaux Agricoles,594
+Foret,2020-08-06,66,TROUILLAS,1.0,Travaux Industriels/Publics,595
+Foret,2020-08-06,4,LAUZET-UBAYE (LE),0.11,Loisirs (Particuliers),596
+Foret,2020-08-06,4,GREOUX-LES-BAINS,7.48,Travaux Industriels/Publics,597
+Foret,2020-08-07,83,MAZAUGUES,0.08,Jet D'Objets Incandescents,598
+Foret,2020-08-07,2B,VENACO,3.4,Malveillance,600
+Foret,2020-08-07,4,SEYNE,0.42,Foudre,602
+Foret,2020-08-07,4,SAINT-VINCENT-SUR-JABRON,35.14,Vehicules,603
+Foret,2020-08-07,7,THORRENC,0.05,Travaux Agricoles,605
+Foret,2020-08-07,13,AIX-EN-PROVENCE,0.02,Jet D'Objets Incandescents,607
+Foret,2020-08-07,13,AIX-EN-PROVENCE,0.005,Jet D'Objets Incandescents,608
+Foret,2020-08-08,2B,LORETO-DI-CASINCA,5.0,Malveillance,610
+Foret,2020-08-08,2B,SORBO-OCAGNANO,0.01,Malveillance,611
+Foret,2020-08-08,83,CADIERE-D'AZUR (LA),0.05,Pyromanie,613
+Foret,2020-08-08,2B,POGGIO-DI-VENACO,0.0025,Malveillance,615
+Foret,2020-08-08,2B,POGGIO-DI-VENACO,0.003,Malveillance,616
+Foret,2020-08-08,6,PEONE,0.015,Malveillance,618
+Foret,2020-08-08,6,SAINT-ANDRE-DE-LA-ROCHE,0.06,Foudre,619
+Foret,2020-08-08,34,FELINES-MINERVOIS,2.0134,Conflit,620
+Foret,2020-08-08,83,VERIGNON,3.0,Conflit,621
+Foret,2020-08-08,34,SAINT-GERVAIS-SUR-MARE,0.3479,Malveillance,622
+Foret,2020-08-09,4,SEYNE,0.0001,Reprise Incendie,623
+Foret,2020-08-09,4,MEOLANS-REVEL,0.002,Foudre,624
+Foret,2020-08-09,83,FREJUS,0.01,Lignes Electriques,626
+Foret,2020-08-09,2A,PERI,0.0025,Pyromanie,627
+Foret,2020-08-09,48,BARRE-DES-CEVENNES,0.003,Foudre,628
+Foret,2020-08-09,83,AIGUINES,0.055,Malveillance,629
+Foret,2020-08-09,48,MASSEGROS (LE),0.001,Foudre,631
+Foret,2020-08-10,13,COUDOUX,0.002,Jet D'Objets Incandescents,632
+Foret,2020-08-10,48,CASSAGNAS,0.011,Foudre,633
+Foret,2020-08-10,13,GIGNAC-LA-NERTHE,0.56,Jet D'Objets Incandescents,634
+Foret,2020-08-10,13,MEYREUIL,0.003,Lignes Electriques,636
+Foret,2020-08-10,48,MALZIEU-FORAIN (LE),0.46,Foudre,637
+Foret,2020-08-10,5,FAURIE (LA),62.85,Foudre,638
+Foret,2020-08-10,66,MASOS (LOS),0.8,Travaux Agricoles,639
+Foret,2020-08-10,26,POYOLS,0.37,Foudre,641
+Foret,2020-08-10,26,RECOUBEAU-JANSAC,0.001,Travaux (Particuliers),642
+Foret,2020-08-10,26,LUS-LA-CROIX-HAUTE,0.05,Foudre,643
+Foret,2020-08-10,48,CASSAGNAS,0.32,Foudre,644
+Foret,2020-08-11,7,PAYZAC,0.2,Foudre,646
+Foret,2020-08-11,34,NIZAS,0.3159,Malveillance,647
+Foret,2020-08-11,4,DIGNE-LES-BAINS,0.05,Pyromanie,648
+Foret,2020-08-11,6,MOULINET,0.05,Foudre,649
+Foret,2020-08-12,13,ISTRES,0.001,Jet D'Objets Incandescents,652
+Foret,2020-08-12,34,NISSAN-LEZ-ENSERUNE,0.0746,Loisirs (Particuliers),653
+Foret,2020-08-13,30,SALLES-DU-GARDON (LES),0.005,Foudre,656
+Foret,2020-08-13,84,FAUCON,0.0112,Foudre,657
+Foret,2020-08-13,13,LANCON-PROVENCE,0.001,Jet D'Objets Incandescents,658
+Foret,2020-08-13,26,ESTABLET,3.36,Foudre,659
+Foret,2020-08-13,2A,AJACCIO,10.0,Malveillance,660
+Foret,2020-08-13,34,PERET,0.083,Vehicules,661
+Foret,2020-08-13,26,POMMEROL,0.01,Travaux (Particuliers),663
+Foret,2020-08-13,83,ARCS (LES),1.4,Travaux (Particuliers),664
+Foret,2020-08-13,6,FONTAN,0.05,Foudre,665
+Foret,2020-08-13,2A,APPIETTO,12.0,Jet D'Objets Incandescents,667
+Foret,2020-08-13,34,FONTES,0.4155,Malveillance,668
+Foret,2020-08-13,2B,SORBO-OCAGNANO,1.28,Interet,669
+Foret,2020-08-14,83,FLAYOSC,0.006,Vehicules,671
+Foret,2020-08-14,30,LASALLE,0.0278,Foudre,672
+Foret,2020-08-14,13,NOVES,0.0002,Jet D'Objets Incandescents,674
+Foret,2020-08-14,2B,FAVALELLO,0.49,Malveillance,675
+Foret,2020-08-14,83,NANS-LES-PINS,0.16,Malveillance,676
+Foret,2020-08-14,34,BEZIERS,23.6085,Malveillance,677
+Foret,2020-08-14,2A,BASTELICA,0.01,Conflit,679
+Foret,2020-08-15,13,ALLAUCH,0.0015,Malveillance,680
+Foret,2020-08-15,2A,BASTELICA,0.07,Jet D'Objets Incandescents,681
+Foret,2020-08-15,48,SAINT-JULIEN-D'ARPAON,1.01,Loisirs (Particuliers),685
+Foret,2020-08-15,2A,LECCI,0.0001,Loisirs (Particuliers),686
+Foret,2020-08-15,13,VITROLLES,0.1,Jet D'Objets Incandescents,687
+Foret,2020-08-16,13,ALLAUCH,0.002,Malveillance,689
+Foret,2020-08-16,7,LABATIE-D'ANDAURE,0.3,Foudre,690
+Foret,2020-08-16,83,AUPS,0.02,Jet D'Objets Incandescents,692
+Foret,2020-08-16,7,SABLIERES,0.01,Foudre,693
+Foret,2020-08-16,30,PLANTIERS (LES),0.0459,Foudre,694
+Foret,2020-08-16,48,MOLEZON,0.008,Foudre,695
+Foret,2020-08-16,2A,AZZANA,0.001,Jet D'Objets Incandescents,696
+Foret,2020-08-16,4,ENTREVENNES,0.0015,Foudre,699
+Foret,2020-08-16,13,ROGNAC,0.05,Jet D'Objets Incandescents,700
+Foret,2020-08-16,4,SALIGNAC,0.029,Foudre,701
+Foret,2020-08-16,4,MOTTE-DU-CAIRE (LA),0.013,Foudre,702
+Foret,2020-08-16,66,CAUDIES-DE-FENOUILLEDES,2.0,Malveillance,704
+Foret,2020-08-16,4,MELVE,0.0002,Foudre,705
+Foret,2020-08-16,13,ROGNAC,0.1,Jet D'Objets Incandescents,706
+Foret,2020-08-17,13,ROGNES,0.01,Jet D'Objets Incandescents,709
+Foret,2020-08-17,34,SAINT-MAURICE-NAVACELLES,1.7129,Malveillance,711
+Foret,2020-08-17,4,FONTIENNE,0.007,Foudre,713
+Foret,2020-08-17,83,ROQUEBRUNE-SUR-ARGENS,0.0006,Jet D'Objets Incandescents,715
+Foret,2020-08-18,83,ADRETS-DE-L'ESTEREL (LES),2.34,Vehicules,716
+Foret,2020-08-18,66,TAUTAVEL,2.5,Vehicules,718
+Foret,2020-08-18,30,PIN (LE),0.0203,Malveillance,722
+Foret,2020-08-18,30,TORNAC,0.0005,Malveillance,723
+Foret,2020-08-18,2A,PIETROSELLA,0.0001,Involontaire (particulier),724
+Foret,2020-08-19,83,PUGET-VILLE,0.05,Malveillance,727
+Foret,2020-08-19,13,AIX-EN-PROVENCE,0.002,Jet D'Objets Incandescents,732
+Foret,2020-08-20,2A,PERI,1.0,Vehicules,734
+Foret,2020-08-20,34,SAINT-JEAN-DE-LA-BLAQUIERE,1.7369,Malveillance,736
+Foret,2020-08-20,7,SAINT-PAUL-LE-JEUNE,0.7,Jet D'Objets Incandescents,738
+Foret,2020-08-20,66,BAIXAS,2.0,Malveillance,739
+Foret,2020-08-20,13,PEYPIN,0.005,Jet D'Objets Incandescents,740
+Foret,2020-08-20,13,ALLAUCH,0.0002,Malveillance,742
+Foret,2020-08-20,2B,VIGNALE,0.04,Malveillance,745
+Foret,2020-08-21,66,CALCE,11.0,Malveillance,746
+Foret,2020-08-21,13,PORT-DE-BOUC,0.001,Jet D'Objets Incandescents,749
+Foret,2020-08-21,13,SIMIANE-COLLONGUE,0.0003,Jet D'Objets Incandescents,751
+Foret,2020-08-22,13,ALLAUCH,0.0005,Malveillance,752
+Foret,2020-08-22,34,MONTBLANC,0.0801,Accidentelle,753
+Foret,2020-08-22,13,ALLAUCH,0.0002,Malveillance,754
+Foret,2020-08-22,13,AIX-EN-PROVENCE,0.005,Jet D'Objets Incandescents,755
+Foret,2020-08-22,84,FLASSAN,0.17,Malveillance,757
+Foret,2020-08-22,7,JAUJAC,0.5,Jet D'Objets Incandescents,758
+Foret,2020-08-22,26,ECHEVIS,2.49,Malveillance,759
+Foret,2020-08-22,83,CANNET-DES-MAURES (LE),0.15,Vehicules,761
+Foret,2020-08-22,2A,BASTELICA,0.006,Vehicules,762
+Foret,2020-08-22,83,SAINT-CYR-SUR-MER,0.01,Depot d'Ordures,763
+Foret,2020-08-23,66,BANYULS-DELS-ASPRES,5.0,Malveillance,764
+Foret,2020-08-23,13,VITROLLES,31.31,Jet D'Objets Incandescents,768
+Foret,2020-08-23,4,GREOUX-LES-BAINS,0.6,Jet D'Objets Incandescents,769
+Foret,2020-08-23,66,MONTESCOT,2.5,Travaux Agricoles,770
+Foret,2020-08-23,13,ISTRES,0.2,Travaux Agricoles,771
+Foret,2020-08-24,13,NOVES,0.15,Jet D'Objets Incandescents,774
+Foret,2020-08-24,2A,SARTENE,0.01,Travaux (Particuliers),775
+Foret,2020-08-24,66,PEYRESTORTES,1.5,Malveillance,776
+Foret,2020-08-24,13,AIX-EN-PROVENCE,0.1,Lignes Electriques,778
+Foret,2020-08-24,2B,FAVALELLO,2.129,Malveillance,779
+Foret,2020-08-24,13,ISTRES,319.69,Jet D'Objets Incandescents,780
+Foret,2020-08-24,4,DIGNE-LES-BAINS,5.59,Malveillance,783
+Foret,2020-08-24,34,COURNONTERRAL,0.0914,Malveillance,784
+Foret,2020-08-24,30,PIN (LE),0.0005,Reprise Incendie,785
+Foret,2020-08-24,30,PIN (LE),0.6102,Malveillance,786
+Foret,2020-08-24,83,MONTFORT-SUR-ARGENS,0.04,Conflit,787
+Foret,2020-08-24,13,VITROLLES,0.001,Malveillance,788
+Foret,2020-08-25,13,CARNOUX-EN-PROVENCE,0.05,Lignes Electriques,789
+Foret,2020-08-25,13,MIMET,0.01,Loisirs (Particuliers),790
+Foret,2020-08-25,83,MEOUNES-LES-MONTRIEUX,0.025,Interet,791
+Foret,2020-08-25,13,VITROLLES,0.003,Chemin De Fer,792
+Foret,2020-08-25,30,BRANOUX-LES-TAILLADES,0.001,Loisirs (Particuliers),793
+Foret,2020-08-25,66,BANYULS-SUR-MER,3.0,Loisirs (Particuliers),794
+Foret,2020-08-25,66,BELESTA,3.0,Malveillance,795
+Foret,2020-08-25,2B,LINGUIZZETTA,0.012,Malveillance,797
+Foret,2020-08-25,26,MONTELIMAR,3.96,Travaux Agricoles,798
+Foret,2020-08-25,13,PENNES-MIRABEAU (LES),0.05,Jet D'Objets Incandescents,800
+Foret,2020-08-25,4,GREOUX-LES-BAINS,0.0041,Jet D'Objets Incandescents,802
+Foret,2020-08-26,66,CLUSES (LES),0.2,Vehicules,803
+Foret,2020-08-26,4,SOLEILHAS,0.03,Jet D'Objets Incandescents,804
+Foret,2020-08-26,4,DIGNE-LES-BAINS,0.0034,Malveillance,806
+Foret,2020-08-26,26,MONTGUERS,289.39,Accidentelle,807
+Foret,2020-08-26,4,DIGNE-LES-BAINS,2.74,Malveillance,808
+Foret,2020-08-26,34,VERRERIES-DE-MOUSSANS,0.2685,Reprise Incendie,810
+Foret,2020-08-26,4,GREOUX-LES-BAINS,0.13,Malveillance,811
+Foret,2020-08-27,2B,PIGNA,0.3,Malveillance,813
+Foret,2020-08-27,2B,MONTEGROSSO,184.82,Malveillance,814
+Foret,2020-08-27,2B,LAVATOGGIO,0.155,Malveillance,815
+Foret,2020-08-27,13,BOUC-BEL-AIR,0.035,Travaux (Particuliers),818
+Foret,2020-08-27,13,ROGNAC,0.2,Travaux (Particuliers),819
+Foret,2020-08-27,7,SAINT-JULIEN-VOCANCE,0.5,Lignes Electriques,820
+Foret,2020-08-27,13,BOUC-BEL-AIR,0.065,Vehicules,821
+Foret,2020-08-27,4,DIGNE-LES-BAINS,0.0037,Pyromanie,822
+Foret,2020-08-27,13,MIRAMAS,0.05,Malveillance,824
+Foret,2020-08-28,4,DIGNE-LES-BAINS,0.0029,Malveillance,827
+Foret,2020-08-28,13,ROGNAC,0.0003,Malveillance,829
+Foret,2020-08-28,83,AIGUINES,165.74,Foudre,830
+Foret,2020-08-28,4,SENEZ,0.6,Foudre,831
+Foret,2020-08-28,5,FAURIE (LA),0.015,Foudre,832
+Foret,2020-08-29,2A,APPIETTO,0.0007,Jet D'Objets Incandescents,835
+Foret,2020-08-29,13,ALLAUCH,0.0005,Travaux Industriels/Publics,837
+Foret,2020-08-30,2A,VERO,0.0001,Foudre,839
+Foret,2020-08-30,2A,PORTO-VECCHIO,0.005,Foudre,840
+Foret,2020-08-30,2B,CASTELLO-DI-ROSTINO,0.005,Interet,841
+Foret,2020-08-30,2A,OSANI,0.0001,Foudre,843
+Foret,2020-08-30,34,MONTBAZIN,3.5009,Conflit,845
+Foret,2020-08-31,13,LANCON-PROVENCE,0.02,Travaux Industriels/Publics,847
+Foret,2020-08-31,83,TOURRETTES,0.03,Foudre,849
+Foret,2020-08-31,34,SAINT-PONS-DE-MAUCHIENS,3.9616,Conflit,851
+Foret,2020-08-31,34,PEZENES-LES-MINES,0.0914,Jet D'Objets Incandescents,852
+Foret,2020-08-31,13,GARDANNE,0.002,Jet D'Objets Incandescents,853
+Foret,2020-08-31,13,MIRAMAS,0.1,Malveillance,854
+Foret,2020-09-01,13,MIRAMAS,0.04,Malveillance,855
+Foret,2020-09-01,66,FONTPEDROUSE,1.0,Chemin De Fer,856
+Foret,2020-09-02,13,MARTIGUES,0.002,Jet D'Objets Incandescents,858
+Foret,2020-09-02,13,ALLAUCH,0.49,Travaux (Particuliers),859
+Foret,2020-09-02,4,MOUSTIERS-SAINTE-MARIE,0.06,Foudre,860
+Foret,2020-09-03,13,MIRAMAS,0.15,Malveillance,861
+Foret,2020-09-03,30,SAINT-ANDRE-DE-VALBORGNE,0.012,Loisirs (Particuliers),863
+Foret,2020-09-03,34,MAGALAS,5.652,Malveillance,864
+Foret,2020-09-03,34,COURNONTERRAL,0.2686,Malveillance,866
+Foret,2020-09-04,13,EYGALIERES,0.0053,Jet D'Objets Incandescents,868
+Foret,2020-09-04,30,ARRIGAS,8.9533,Travaux (Particuliers),869
+Foret,2020-09-04,34,FABREGUES,0.3755,Travaux Agricoles,871
+Foret,2020-09-04,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.0221,Conflit,873
+Foret,2020-09-05,83,FOX-AMPHOUX,0.03,Lignes Electriques,874
+Foret,2020-09-05,4,BARLES,0.048,Travaux (Particuliers),876
+Foret,2020-09-05,30,ARRIGAS,0.1,Reprise Incendie,877
+Foret,2020-09-05,83,PIERREFEU-DU-VAR,0.02,Lignes Electriques,878
+Foret,2020-09-05,66,CAUDIES-DE-FENOUILLEDES,1.0,Malveillance,880
+Foret,2020-09-06,66,SALSES-LE-CHATEAU,1.0,Lignes Electriques,881
+Foret,2020-09-06,2B,SERMANO,12.152,Malveillance,884
+Foret,2020-09-06,2B,FAVALELLO,1.225,Malveillance,885
+Foret,2020-09-06,2B,SANT'ANDREA-DI-BOZIO,4.13,Malveillance,886
+Foret,2020-09-06,34,VERRERIES-DE-MOUSSANS,0.246,Reprise Incendie,887
+Foret,2020-09-06,83,VINON-SUR-VERDON,0.08,Loisirs (Particuliers),890
+Foret,2020-09-06,13,CEYRESTE,0.05,Vehicules,892
+Foret,2020-09-07,48,PREVENCHERES,18.01,Lignes Electriques,898
+Foret,2020-09-07,30,ROUSSON,0.03,Lignes Electriques,899
+Foret,2020-09-07,13,FOS-SUR-MER,0.77,Malveillance,902
+Foret,2020-09-07,30,ROUSSON,0.0001,Reprise Incendie,904
+Foret,2020-09-08,34,HEREPIAN,0.3866,Involontaire (travaux),905
+Foret,2020-09-08,30,MEJANNES-LE-CLAP,0.01,Travaux Forestiers,907
+Foret,2020-09-08,13,ALLAUCH,0.01,Vehicules,909
+Foret,2020-09-09,13,PENNES-MIRABEAU (LES),0.0005,Travaux (Particuliers),910
+Foret,2020-09-11,66,BAIXAS,1.0,Malveillance,911
+Foret,2020-09-12,6,THIERY,0.01,Foudre,916
+Foret,2020-09-12,6,COLLE-SUR-LOUP (LA),0.15,Travaux (Particuliers),920
+Foret,2020-09-12,83,LONDE-LES-MAURES (LA),0.01,Involontaire (particulier),921
+Foret,2020-09-12,2A,PORTO-VECCHIO,0.0002,Foudre,922
+Foret,2020-09-13,13,FOS-SUR-MER,0.04,Malveillance,924
+Foret,2020-09-13,2A,MARIGNANA,0.001,Travaux Forestiers,925
+Foret,2020-09-14,2B,LINGUIZZETTA,2.166,Jet D'Objets Incandescents,927
+Foret,2020-09-14,34,COURNIOU,0.2272,Involontaire (particulier),929
+Foret,2020-09-15,7,SAINT-JOSEPH-DES-BANCS,0.25,Travaux Agricoles,933
+Foret,2020-09-15,66,BELESTA,4.0,Malveillance,934
+Foret,2020-09-17,13,PEYNIER,0.2,Lignes Electriques,937
+Foret,2020-09-17,48,CUBIERES,0.0043,Foudre,938
+Foret,2020-09-17,48,SAINT-GERMAIN-DU-TEIL,0.025,Travaux (Particuliers),939
+Foret,2020-09-17,5,RISOUL,0.07,Foudre,944
+Foret,2020-09-17,13,ENSUES-LA-REDONNE,0.98,Lignes Electriques,945
+Foret,2020-09-18,2B,VALLICA,0.003,Foudre,948
+Foret,2020-09-18,7,LABEAUME,5.0,Jet D'Objets Incandescents,950
+Foret,2020-09-19,13,MARTIGUES,0.25,Jet D'Objets Incandescents,954
+Foret,2020-09-19,13,PORT-DE-BOUC,0.14,Malveillance,955
+Foret,2020-09-19,13,PORT-DE-BOUC,0.13,Malveillance,958
+Foret,2020-09-19,13,ENSUES-LA-REDONNE,5.36,Reprise Incendie,959
+Foret,2020-09-20,2B,VIVARIO,0.01,Foudre,962
+Foret,2020-09-21,2A,CALCATOGGIO,0.008,Depot d'Ordures,963
+Foret,2020-09-21,2B,SALICETO,0.0001,Foudre,964
+Foret,2020-09-25,6,MANDELIEU-LA-NAPOULE,0.2,Foudre,965
+Foret,2020-09-25,34,ROQUEBRUN,6.9471,Involontaire (particulier),966
+Foret,2020-09-25,34,MURVIEL-LES-BEZIERS,0.5704,Malveillance,967
+Foret,2020-09-27,83,CRAU (LA),0.001,Travaux (Particuliers),968
+Foret,2020-09-28,13,ARLES,0.001,Foudre,969
+Foret,2020-09-29,34,AZILLANET,1.2646,Malveillance,973
+Foret,2020-09-30,13,MARTIGUES,0.04,Travaux (Particuliers),975
+Foret,2020-10-01,2A,CALCATOGGIO,0.0035,Depot d'Ordures,978
+Foret,2020-10-09,83,ENTRECASTEAUX,0.4,Travaux (Particuliers),985
+Foret,2020-10-10,2B,FELICETO,0.01,Malveillance,986
+Foret,2020-10-10,4,BRAUX,0.2,Travaux (Particuliers),987
+Foret,2020-10-10,2B,FELICETO,4.0,Malveillance,988
+Foret,2020-10-11,83,LAVANDOU (LE),1.0,Lignes Electriques,989
+Foret,2020-10-11,2B,CAMBIA,5.0,Malveillance,990
+Foret,2020-10-11,13,SAINT-REMY-DE-PROVENCE,0.002,Lignes Electriques,991
+Foret,2020-10-15,13,AURIOL,0.1,Depot d'Ordures,994
+Foret,2020-10-15,34,QUARANTE,2.0092,Travaux Agricoles,995
+Foret,2020-10-16,83,ROCBARON,0.3,Travaux (Particuliers),996
+Foret,2020-10-16,4,CASTELLET (LE),1.06,Travaux Agricoles,997
+Foret,2020-10-17,83,PIGNANS,0.5,Travaux (Particuliers),998
+Foret,2020-10-17,34,MURVIEL-LES-BEZIERS,3.049,Malveillance,999
+Foret,2020-10-17,34,LAVERUNE,1.3478,Malveillance,1000
+Foret,2020-10-19,34,QUARANTE,0.5,Reprise Incendie,1001
+Foret,2020-10-20,4,PIERREVERT,0.0007,Jet D'Objets Incandescents,1003
+Foret,2020-10-20,6,TOUDON,0.05,Foudre,1004
+Foret,2020-10-24,2B,ZALANA,4.0,Malveillance,1008
+Foret,2020-10-24,83,ENTRECASTEAUX,0.02,Travaux Forestiers,1009
+Foret,2020-10-25,2A,BALOGNA,0.0001,Depot d'Ordures,1012
+Foret,2020-10-26,2A,APPIETTO,0.0001,Travaux (Particuliers),1015
+Foret,2020-10-28,2A,PORTO-VECCHIO,0.002,Travaux (Particuliers),1018
+Foret,2020-10-30,6,GREOLIERES,0.5,Travaux (Particuliers),1022
+Foret,2020-10-30,34,LESPIGNAN,0.7279,Travaux Forestiers,1023
+Foret,2020-11-01,83,BESSE-SUR-ISSOLE,0.1,Travaux Forestiers,1024
+Foret,2020-11-07,34,CAUSSES-ET-VEYRAN,7.9565,Malveillance,1032
+Foret,2020-11-08,2A,TAVACO,7.0,Interet,1034
+Foret,2020-11-09,2A,PORTO-VECCHIO,0.005,Travaux (Particuliers),1036
+Foret,2020-11-21,4,AUBIGNOSC,9.25,Vehicules,1050
+Foret,2020-11-21,48,FLORAC,1.2,Travaux (Particuliers),1051
+Foret,2020-11-21,2A,LEVIE,0.02,Travaux (Particuliers),1052
+Foret,2020-11-22,7,MALARCE-SUR-LA-THINES,3.1,Travaux Agricoles,1055
+Foret,2020-11-23,30,SAINT-JEAN-DU-PIN,0.4529,Travaux (Particuliers),1057
+Foret,2020-11-24,13,MEYREUIL,0.2,Jet D'Objets Incandescents,1058
+Foret,2020-11-25,66,SALSES-LE-CHATEAU,1.5,Vehicules,1059
+Foret,2020-11-26,2A,LECCI,0.06,Travaux (Particuliers),1060
+Foret,2020-11-27,4,ESPARRON-DE-VERDON,0.25,Foudre,1061
+Foret,2020-12-09,34,LESPIGNAN,4.3819,Interet,1063
+Foret,2021-01-08,34,MONTAGNAC,0.0249,Involontaire (travaux),1071
+Foret,2021-01-09,34,SAINT-PRIVAT,0.9238,Malveillance,1072
+Foret,2021-01-10,34,SAINT-PRIVAT,0.1519,Involontaire (particulier),1073
+Foret,2021-01-12,34,SAINT-PONS-DE-MAUCHIENS,4.1812,Malveillance,1074
+Foret,2021-01-13,6,PEILLE,0.5,Lignes Electriques,1075
+Foret,2021-01-13,48,SAINTE-CROIX-VALLEE-FRANCAISE,0.2,Travaux (Particuliers),1076
+Foret,2021-01-14,34,VENDRES,0.1867,Malveillance,1077
+Foret,2021-01-14,34,POPIAN,1.5017,Malveillance,1078
+Foret,2021-01-15,13,MARTIGUES,0.002,Malveillance,1082
+Foret,2021-01-17,34,CRUZY,6.0755,Conflit,1086
+Foret,2021-01-20,34,CESSENON-SUR-ORB,0.4416,Interet,1090
+Foret,2021-01-25,84,PIOLENC,0.02,Travaux Forestiers,1093
+Foret,2021-01-29,13,CARRY-LE-ROUET,0.0005,Jet D'Objets Incandescents,1096
+Foret,2021-01-29,34,GALARGUES,1.0775,Malveillance,1104
+Foret,2021-01-29,13,SAUSSET-LES-PINS,0.2,Jet D'Objets Incandescents,1107
+Foret,2021-01-30,2B,PIANELLO,5.0,Malveillance,1108
+Foret,2021-01-30,2B,OLETTA,1.5,Malveillance,1109
+Foret,2021-01-30,2B,PENTA-DI-CASINCA,1.0,Malveillance,1110
+Foret,2021-02-04,2B,BASTIA,1.0,Conflit,1112
+Foret,2021-02-05,66,SALSES-LE-CHATEAU,0.2,Travaux Agricoles,1114
+Foret,2021-02-05,2A,APPIETTO,0.076,Travaux Agricoles,1115
+Foret,2021-02-05,83,PLAN-DE-LA-TOUR (LE),0.0004,Travaux Forestiers,1117
+Foret,2021-02-06,66,PRATS-DE-MOLLO-LA-PRESTE,1.5,Travaux Agricoles,1118
+Foret,2021-02-08,2A,LECCI,0.0005,Depot d'Ordures,1120
+Foret,2021-02-17,5,SAVINES-LE-LAC,1.75,Travaux Agricoles,1122
+Foret,2021-02-18,2A,BONIFACIO,0.002,Travaux (Particuliers),1125
+Foret,2021-02-20,66,PEZILLA-LA-RIVIERE,0.5,Travaux Agricoles,1127
+Foret,2021-02-20,6,BOLLENE-VESUBIE (LA),0.05,Interet,1128
+Foret,2021-02-21,83,SAINT-MANDRIER-SUR-MER,0.65,Loisirs (Particuliers),1130
+Foret,2021-02-21,4,DIGNE-LES-BAINS,0.74,Travaux (Particuliers),1131
+Foret,2021-02-22,84,PERNES-LES-FONTAINES,0.02,Accidentelle,1133
+Foret,2021-02-23,5,EMBRUN,0.01,Travaux Agricoles,1135
+Foret,2021-02-23,2A,SALICE,0.0002,Depot d'Ordures,1136
+Foret,2021-02-24,2A,LECCI,0.0001,Travaux Forestiers,1138
+Foret,2021-02-25,2A,ALATA,0.006,Travaux (Particuliers),1139
+Foret,2021-02-25,5,MOTTE-EN-CHAMPSAUR (LA),0.5,Depot d'Ordures,1140
+Foret,2021-02-25,2B,SANTA-REPARATA-DI-MORIANI,4.0,Involontaire (travaux),1141
+Foret,2021-02-25,4,CASTELLANE,1.16,Travaux Agricoles,1142
+Foret,2021-02-26,2B,OLMI-CAPPELLA,6.5,Interet,1144
+Foret,2021-02-27,2B,ALBERTACCE,3.0,Interet,1146
+Foret,2021-02-28,6,CHATEAUNEUF-GRASSE,0.05,Jet D'Objets Incandescents,1147
+Foret,2021-02-28,2B,OLCANI,2.0,Interet,1148
+Foret,2021-02-28,4,JAVIE (LA),0.05,Travaux Industriels/Publics,1149
+Foret,2021-02-28,5,MOTTE-EN-CHAMPSAUR (LA),0.025,Malveillance,1151
+Foret,2021-03-01,48,ALTIER,3.0,Travaux Agricoles,1152
+Foret,2021-03-01,4,THOARD,0.73,Travaux Forestiers,1153
+Foret,2021-03-02,2B,VILLE-DI-PARASO,1.5,Malveillance,1154
+Foret,2021-03-02,2B,SPELONCATO,1.0,Malveillance,1155
+Foret,2021-03-02,2B,SISCO,3.0,Malveillance,1156
+Foret,2021-03-02,6,SOSPEL,0.01,Travaux (Particuliers),1157
+Foret,2021-03-02,2A,LEVIE,0.0001,Travaux (Particuliers),1159
+Foret,2021-03-03,2A,ALBITRECCIA,0.015,Travaux (Particuliers),1162
+Foret,2021-03-03,2B,VALLE-DI-ROSTINO,0.496,Malveillance,1163
+Foret,2021-03-03,2B,LORETO-DI-CASINCA,0.5,Malveillance,1164
+Foret,2021-03-04,13,AURIOL,0.03,Vehicules,1165
+Foret,2021-03-04,4,BEYNES,1.23,Travaux Forestiers,1169
+Foret,2021-03-04,7,SAINT-ANDEOL-DE-VALS,0.03,Travaux Agricoles,1170
+Foret,2021-03-04,6,COURSEGOULES,4.0,Interet,1171
+Foret,2021-03-04,7,GENESTELLE,0.2,Jet D'Objets Incandescents,1173
+Foret,2021-03-04,5,EYGLIERS,0.035,Malveillance,1175
+Foret,2021-03-05,2B,LORETO-DI-CASINCA,2.5,Malveillance,1176
+Foret,2021-03-05,2B,PORTA (LA),2.0,Malveillance,1177
+Foret,2021-03-06,83,MOISSAC-BELLEVUE,0.025,Loisirs (Particuliers),1179
+Foret,2021-03-06,5,EYGLIERS,0.01,Pyromanie,1181
+Foret,2021-03-08,6,TRINITE (LA),0.05,Jet D'Objets Incandescents,1184
+Foret,2021-03-08,4,CASTELLARD-MELAN (LE),2.1,Travaux Agricoles,1185
+Foret,2021-03-09,7,SAINT-PIERREVILLE,1.0,Travaux Agricoles,1186
+Foret,2021-03-10,5,BATIE-NEUVE (LA),4.15,Travaux Agricoles,1190
+Foret,2021-03-11,4,VILLENEUVE,0.41,Travaux Industriels/Publics,1191
+Foret,2021-03-11,34,MURVIEL-LES-BEZIERS,5.4906,Conflit,1192
+Foret,2021-03-11,4,MANOSQUE,0.1,Travaux (Particuliers),1194
+Foret,2021-03-12,66,SALSES-LE-CHATEAU,1.5,Malveillance,1196
+Foret,2021-03-13,6,COURSEGOULES,0.8,Travaux Industriels/Publics,1197
+Foret,2021-03-13,6,SAUZE,1.5,Travaux (Particuliers),1198
+Foret,2021-03-13,66,PERPIGNAN,0.5,Travaux Agricoles,1199
+Foret,2021-03-13,34,LUNAS,7.7012,Travaux Agricoles,1200
+Foret,2021-03-13,2B,PIOGGIOLA,10.0,Interet,1201
+Foret,2021-03-14,34,OLONZAC,0.1163,Conflit,1202
+Foret,2021-03-14,2B,VALLECALLE,17.0,Malveillance,1203
+Foret,2021-03-14,4,MURE-ARGENS (LA),1.53,Travaux (Particuliers),1207
+Foret,2021-03-14,83,CASTELLET (LE),0.04,Jet D'Objets Incandescents,1210
+Foret,2021-03-14,83,PUGET-SUR-ARGENS,0.2685,Travaux Agricoles,1212
+Foret,2021-03-14,6,COURMES,3.6,Interet,1213
+Foret,2021-03-15,13,CEYRESTE,0.04,Travaux Industriels/Publics,1215
+Foret,2021-03-15,83,AUPS,0.4,Lignes Electriques,1216
+Foret,2021-03-15,6,BEZAUDUN-LES-ALPES,0.25,Interet,1218
+Foret,2021-03-16,83,SAINT-JULIEN,0.5,Loisirs (Particuliers),1219
+Foret,2021-03-16,6,COURMES,0.72,Travaux Forestiers,1220
+Foret,2021-03-16,13,GRANS,0.04,Travaux (Particuliers),1228
+Foret,2021-03-16,13,EYGALIERES,0.4,Travaux (Particuliers),1229
+Foret,2021-03-17,66,OPOUL-PERILLOS,1.5,Lignes Electriques,1237
+Foret,2021-03-17,34,SAINT-PARGOIRE,4.4112,Travaux Agricoles,1242
+Foret,2021-03-18,4,DIGNE-LES-BAINS,3.17,Loisirs (Particuliers),1245
+Foret,2021-03-20,34,GRANDE-MOTTE (LA),0.0321,Involontaire (particulier),1250
+Foret,2021-03-20,34,QUARANTE,1.03,Conflit,1252
+Foret,2021-03-20,34,CRUZY,0.7298,Conflit,1253
+Foret,2021-03-20,6,BEZAUDUN-LES-ALPES,0.5,Interet,1256
+Foret,2021-03-20,13,SAINT-MARTIN-DE-CRAU,0.004,Travaux (Particuliers),1258
+Foret,2021-03-21,34,POUZOLLES,21.6018,Travaux Forestiers,1260
+Foret,2021-03-21,84,VELLERON,0.016,Travaux Industriels/Publics,1261
+Foret,2021-03-21,66,BELESTA,0.3,Lignes Electriques,1262
+Foret,2021-03-21,66,TORREILLES,1.0,Malveillance,1265
+Foret,2021-03-21,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.2311,Malveillance,1266
+Foret,2021-03-22,66,ESPIRA-DE-L'AGLY,1.0,Lignes Electriques,1267
+Foret,2021-03-22,13,AIX-EN-PROVENCE,0.002,Lignes Electriques,1268
+Foret,2021-03-22,34,AUMELAS,0.2453,Interet,1269
+Foret,2021-03-22,66,RABOUILLET,0.2,Malveillance,1270
+Foret,2021-03-23,4,SISTERON,0.01,Depot d'Ordures,1274
+Foret,2021-03-23,34,SOUBES,0.1522,Malveillance,1276
+Foret,2021-03-23,4,PIERREVERT,0.07,Jet D'Objets Incandescents,1279
+Foret,2021-03-24,4,SISTERON,0.002,Jet D'Objets Incandescents,1280
+Foret,2021-03-24,7,SAINT-PIERRE-SAINT-JEAN,0.2,Travaux (Particuliers),1281
+Foret,2021-03-24,4,PIERREVERT,0.033,Vehicules,1282
+Foret,2021-03-24,34,BRENAS,9.7834,Travaux Agricoles,1284
+Foret,2021-03-24,34,LUNAS,0.8065,Travaux Industriels/Publics,1285
+Foret,2021-03-24,7,PRANLES,1.8,Travaux (Particuliers),1286
+Foret,2021-03-24,2A,ZICAVO,0.005,Travaux (Particuliers),1287
+Foret,2021-03-24,4,VILLENEUVE,0.12,Travaux (Particuliers),1288
+Foret,2021-03-25,83,REGUSSE,0.169,Jet D'Objets Incandescents,1295
+Foret,2021-03-25,13,SAINT-MARTIN-DE-CRAU,0.0005,Jet D'Objets Incandescents,1296
+Foret,2021-03-26,5,SAINT-EUSEBE-EN-CHAMPSAUR,0.12,Malveillance,1302
+Foret,2021-03-26,5,BENEVENT-ET-CHARBILLAC,0.05,Malveillance,1304
+Foret,2021-03-27,13,AIX-EN-PROVENCE,0.01,Malveillance,1310
+Foret,2021-03-27,48,VIALAS,0.12,Travaux (Particuliers),1312
+Foret,2021-03-27,13,AIX-EN-PROVENCE,0.05,Depot d'Ordures,1313
+Foret,2021-03-27,13,AIX-EN-PROVENCE,0.002,Malveillance,1316
+Foret,2021-03-28,48,SAINT-GERMAIN-DE-CALBERTE,0.007,Travaux (Particuliers),1318
+Foret,2021-03-28,48,ALTIER,3.0,Travaux Agricoles,1320
+Foret,2021-03-28,4,MEOLANS-REVEL,0.1,Travaux (Particuliers),1321
+Foret,2021-03-28,13,MOURIES,0.1,Interet,1323
+Foret,2021-03-28,2A,SARROLA-CARCOPINO,0.01,Travaux (Particuliers),1324
+Foret,2021-03-28,2A,RENNO,1.0925,Travaux Agricoles,1327
+Foret,2021-03-29,48,PONT-DE-MONTVERT (LE),0.1,Travaux (Particuliers),1328
+Foret,2021-03-29,34,VILLEVEYRAC,22.1628,Travaux Agricoles,1330
+Foret,2021-03-29,83,FIGANIERES,0.15,Travaux Forestiers,1331
+Foret,2021-03-29,48,PIED-DE-BORNE,0.06,Travaux Agricoles,1333
+Foret,2021-03-29,34,CABRIERES,1.6956,Travaux Forestiers,1334
+Foret,2021-03-29,66,ENVEITG,0.3,Travaux Industriels/Publics,1335
+Foret,2021-03-29,83,CAMPS-LA-SOURCE,0.15,Travaux (Particuliers),1336
+Foret,2021-03-29,66,FONT-ROMEU-ODEILLO-VIA,0.3,Malveillance,1337
+Foret,2021-03-29,7,SAINT-MARTIAL,4.0,Travaux (Particuliers),1338
+Foret,2021-03-29,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.0977,Malveillance,1340
+Foret,2021-03-30,6,BREIL-SUR-ROYA,0.2,Travaux (Particuliers),1342
+Foret,2021-03-30,83,TOULON,0.05,Travaux (Particuliers),1343
+Foret,2021-03-30,6,BEZAUDUN-LES-ALPES,1.0,Travaux (Particuliers),1344
+Foret,2021-03-30,7,SAINT-PRIEST,2.0,Travaux Agricoles,1346
+Foret,2021-03-30,6,SAINT-JEANNET,0.1,Travaux (Particuliers),1347
+Foret,2021-03-30,7,MONTPEZAT-SOUS-BAUZON,0.5,Travaux Agricoles,1349
+Foret,2021-03-30,34,FONTES,0.2069,Travaux Forestiers,1351
+Foret,2021-03-30,5,BREZIERS,1.12,Interet,1356
+Foret,2021-03-30,34,SAINT-PRIVAT,0.6678,Travaux Agricoles,1359
+Foret,2021-03-30,6,CASTAGNIERS,0.1,Conflit,1362
+Foret,2021-03-30,83,MAYONS (LES),0.002,Jet D'Objets Incandescents,1363
+Foret,2021-03-31,2B,VOLPAJOLA,48.9,Malveillance,1365
+Foret,2021-03-31,6,CIPIERES,0.02,Travaux (Particuliers),1366
+Foret,2021-03-31,48,SAINT-MICHEL-DE-DEZE,4.12,Travaux (Particuliers),1367
+Foret,2021-03-31,13,TRETS,0.1,Travaux Industriels/Publics,1368
+Foret,2021-03-31,7,BERZEME,1.5,Travaux Agricoles,1369
+Foret,2021-03-31,4,SAINT-PONS,0.005,Travaux Industriels/Publics,1370
+Foret,2021-03-31,2B,VOLPAJOLA,48.9,Malveillance,1372
+Foret,2021-03-31,6,CIPIERES,0.02,Travaux (Particuliers),1373
+Foret,2021-03-31,48,SAINT-MICHEL-DE-DEZE,4.12,Travaux (Particuliers),1374
+Foret,2021-03-31,13,TRETS,0.1,Travaux Industriels/Publics,1375
+Foret,2021-03-31,7,BERZEME,1.5,Travaux Agricoles,1376
+Foret,2021-03-31,4,SAINT-PONS,0.005,Travaux Industriels/Publics,1377
+Foret,2021-04-01,30,SAINT-SAUVEUR-CAMPRIEU,4.9694,Travaux Agricoles,1379
+Foret,2021-04-01,7,SAINT-JOSEPH-DES-BANCS,5.7,Travaux Agricoles,1380
+Foret,2021-04-01,7,CROS-DE-GEORAND,0.8,Travaux (Particuliers),1384
+Foret,2021-04-01,5,GAP,0.31,Travaux (Particuliers),1386
+Foret,2021-04-01,6,SAINT-AUBAN,0.8,Malveillance,1387
+Foret,2021-04-01,48,BORN (LE),1.0,Travaux Agricoles,1388
+Foret,2021-04-01,13,TARASCON,0.05,Travaux (Particuliers),1389
+Foret,2021-04-01,5,ASPREMONT,0.33,Jet D'Objets Incandescents,1390
+Foret,2021-04-01,48,ISPAGNAC,6.26,Travaux Agricoles,1391
+Foret,2021-04-02,34,CRUZY,1.4798,Travaux (Particuliers),1395
+Foret,2021-04-02,83,FLASSANS-SUR-ISSOLE,0.06,Travaux Forestiers,1396
+Foret,2021-04-02,4,SAUMANE,0.29,Travaux (Particuliers),1397
+Foret,2021-04-02,7,SAINT-CIRGUES-EN-MONTAGNE,1.5,Travaux Agricoles,1398
+Foret,2021-04-02,7,BANNE,1.0,Travaux (Particuliers),1399
+Foret,2021-04-02,2A,PALNECA,0.07,Travaux (Particuliers),1400
+Foret,2021-04-02,48,SAINT-LEGER-DE-PEYRE,7.5,Travaux Agricoles,1402
+Foret,2021-04-03,83,SAINT-ZACHARIE,0.0002,Jet D'Objets Incandescents,1406
+Foret,2021-04-03,83,COTIGNAC,0.1,Malveillance,1408
+Foret,2021-04-03,7,ISSAMOULENC,0.25,Travaux Agricoles,1409
+Foret,2021-04-03,34,BALARUC-LE-VIEUX,1.2812,Loisirs (Particuliers),1410
+Foret,2021-04-03,34,VILLEVEYRAC,0.5977,Travaux Agricoles,1412
+Foret,2021-04-03,13,PEYNIER,0.01,Travaux Industriels/Publics,1414
+Foret,2021-04-04,7,SAINT-CIRGUES-DE-PRADES,0.1,Travaux (Particuliers),1419
+Foret,2021-04-04,7,DESAIGNES,0.5,Travaux (Particuliers),1420
+Foret,2021-04-04,26,PUY-SAINT-MARTIN,2.0,Malveillance,1421
+Foret,2021-04-04,34,COURNIOU,0.0322,Travaux Agricoles,1422
+Foret,2021-04-05,66,CASTELNOU,0.2,Vehicules,1423
+Foret,2021-04-05,13,PEYPIN,0.002,Travaux (Particuliers),1425
+Foret,2021-04-05,34,SAINT-PONS-DE-MAUCHIENS,2.884,Travaux Agricoles,1427
+Foret,2021-04-06,66,ESPIRA-DE-L'AGLY,10.0,Malveillance,1435
+Foret,2021-04-06,13,CIOTAT (LA),0.02,Travaux (Particuliers),1437
+Foret,2021-04-06,2A,SOTTA,0.03,Travaux (Particuliers),1438
+Foret,2021-04-06,83,BRAS,2.0,Malveillance,1441
+Foret,2021-04-06,13,AURIOL,80.33,Travaux (Particuliers),1445
+Foret,2021-04-06,13,MEYRARGUES,0.04,Jet D'Objets Incandescents,1446
+Foret,2021-04-06,7,JOYEUSE,0.8,Vehicules,1448
+Foret,2021-04-06,13,ORGON,0.04,Travaux (Particuliers),1449
+Foret,2021-04-06,83,GARDE-FREINET (LA),0.02,Travaux Forestiers,1451
+Foret,2021-04-07,83,SAINTE-ANASTASIE-SUR-ISSOLE,0.02,Travaux (Particuliers),1452
+Foret,2021-04-07,13,NOVES,0.2,Loisirs (Particuliers),1453
+Foret,2021-04-07,7,SAINT-MICHEL-DE-CHABRILLANOUX,0.8,Travaux (Particuliers),1455
+Foret,2021-04-07,6,TENDE,42.0,Travaux Forestiers,1456
+Foret,2021-04-07,13,MEYREUIL,0.004,Jet D'Objets Incandescents,1457
+Foret,2021-04-07,34,NISSAN-LEZ-ENSERUNE,0.0718,Malveillance,1458
+Foret,2021-04-07,84,MONIEUX,30.81,Jet D'Objets Incandescents,1459
+Foret,2021-04-07,5,SAINT-AUBAN-D'OZE,0.01,Travaux Agricoles,1461
+Foret,2021-04-07,48,PREVENCHERES,11.47,Malveillance,1462
+Foret,2021-04-07,26,MOTTE-CHALANCON (LA),0.52,Travaux Forestiers,1463
+Foret,2021-04-08,13,MIRAMAS,0.002,Vehicules,1464
+Foret,2021-04-08,30,LANGLADE,0.0028,Malveillance,1473
+Foret,2021-04-08,30,LANGLADE,0.0012,Malveillance,1474
+Foret,2021-04-08,30,LANGLADE,0.0059,Malveillance,1475
+Foret,2021-04-08,30,LANGLADE,0.0032,Malveillance,1476
+Foret,2021-04-08,34,MONTAGNAC,0.0991,Involontaire (travaux),1478
+Foret,2021-04-08,7,PRUNET,16.5,Travaux Agricoles,1479
+Foret,2021-04-08,13,EGUILLES,0.01,Travaux (Particuliers),1480
+Foret,2021-04-08,34,NEBIAN,0.6485,Loisirs (Particuliers),1488
+Foret,2021-04-08,48,SAINT-LAURENT-DE-TREVES,0.62,Travaux (Particuliers),1489
+Foret,2021-04-09,13,SENAS,0.02,Travaux (Particuliers),1490
+Foret,2021-04-09,83,TOURVES,0.15,Travaux (Particuliers),1491
+Foret,2021-04-09,13,AIX-EN-PROVENCE,0.004,Travaux (Particuliers),1496
+Foret,2021-04-09,4,MANE,0.43,Travaux (Particuliers),1497
+Foret,2021-04-10,66,RODES,0.5,Malveillance,1499
+Foret,2021-04-11,13,PLAN-D'ORGON,0.002,Travaux (Particuliers),1500
+Foret,2021-04-11,5,CHORGES,0.004,Vehicules,1501
+Foret,2021-04-13,2A,VILLANOVA,0.02,Travaux Forestiers,1502
+Foret,2021-04-13,83,CABASSE,0.15,Malveillance,1504
+Foret,2021-04-13,7,SAINT-PRIEST,0.9,Travaux Agricoles,1505
+Foret,2021-04-13,66,SAINT-LAURENT-DE-CERDANS,1.5,Malveillance,1506
+Foret,2021-04-14,34,MONTBLANC,0.2356,Travaux Forestiers,1511
+Foret,2021-04-15,7,ORGNAC-L'AVEN,0.01,Travaux (Particuliers),1512
+Foret,2021-04-15,84,SAINT-SATURNIN-LES-APT,1.0,Travaux Forestiers,1513
+Foret,2021-04-17,13,TARASCON,0.1,Travaux (Particuliers),1520
+Foret,2021-04-18,84,SORGUES,0.24,Malveillance,1532
+Foret,2021-04-19,13,SALON-DE-PROVENCE,0.001,Loisirs (Particuliers),1542
+Foret,2021-04-20,13,PEYROLLES-EN-PROVENCE,0.001,Vehicules,1544
+Foret,2021-04-22,13,LANCON-PROVENCE,0.8,Travaux (Particuliers),1547
+Foret,2021-04-22,84,SORGUES,0.34,Reprise Incendie,1549
+Foret,2021-04-22,13,MEYRARGUES,0.006,Travaux (Particuliers),1550
+Foret,2021-04-23,13,SAINTES-MARIES-DE-LA-MER,0.4,Travaux (Particuliers),1555
+Foret,2021-04-23,13,LAMBESC,0.01,Travaux (Particuliers),1557
+Foret,2021-04-24,48,CHIRAC,0.1,Jet D'Objets Incandescents,1560
+Foret,2021-04-24,48,BORN (LE),3.66,Malveillance,1564
+Foret,2021-04-24,6,SAINT-MARTIN-DU-VAR,0.008,Jet D'Objets Incandescents,1565
+Foret,2021-04-25,83,AMPUS,0.3,Foudre,1567
+Foret,2021-04-26,2A,VERO,0.005,Travaux (Particuliers),1570
+Foret,2021-04-27,84,RASTEAU,0.03,Travaux Forestiers,1574
+Foret,2021-05-07,13,AIX-EN-PROVENCE,0.01,Travaux (Particuliers),1580
+Foret,2021-05-08,5,MOLINES-EN-QUEYRAS,5.5,Loisirs (Particuliers),1582
+Foret,2021-05-08,66,ILLE-SUR-TET,0.6,Loisirs (Particuliers),1583
+Foret,2021-05-10,2A,PROPRIANO,0.045,Travaux (Particuliers),1589
+Foret,2021-05-10,2A,SERRA-DI-FERRO,0.02,Travaux (Particuliers),1591
+Foret,2021-05-10,2A,CARGESE,0.005,Travaux (Particuliers),1592
+Foret,2021-05-14,84,SAULT,0.0002,Loisirs (Particuliers),1593
+Foret,2021-05-17,2B,VOLPAJOLA,8.0,Malveillance,1596
+Foret,2021-05-17,66,CORNEILLA-LA-RIVIERE,1.5,Malveillance,1597
+Foret,2021-05-17,2B,SCOLCA,4.9224,Malveillance,1598
+Foret,2021-05-17,83,ROQUEBRUNE-SUR-ARGENS,0.1,Malveillance,1599
+Foret,2021-05-18,13,AIX-EN-PROVENCE,0.005,Vehicules,1601
+Foret,2021-05-18,13,FOS-SUR-MER,0.02,Jet D'Objets Incandescents,1602
+Foret,2021-05-18,66,LATOUR-DE-FRANCE,2.0,Travaux Agricoles,1605
+Foret,2021-05-18,2A,SARTENE,0.001,Malveillance,1609
+Foret,2021-05-19,66,SAINT-ANDRE,0.2,Vehicules,1612
+Foret,2021-05-19,34,PUISSERGUIER,0.0831,Loisirs (Particuliers),1614
+Foret,2021-05-20,13,ROGNAC,0.01,Malveillance,1616
+Foret,2021-05-20,13,ROUSSET,0.01,Jet D'Objets Incandescents,1618
+Foret,2021-05-20,83,CARNOULES,0.002,Loisirs (Particuliers),1619
+Foret,2021-05-21,13,JOUQUES,0.01,Travaux (Particuliers),1620
+Foret,2021-05-21,83,TOURVES,0.03,Jet D'Objets Incandescents,1621
+Foret,2021-05-21,2A,CARBUCCIA,0.002,Travaux (Particuliers),1622
+Foret,2021-05-22,2A,VERO,0.005,Travaux (Particuliers),1624
+Foret,2021-05-22,66,CORBERE-LES-CABANES,0.2,Malveillance,1625
+Foret,2021-05-25,13,PELISSANNE,0.01,Jet D'Objets Incandescents,1627
+Foret,2021-05-25,13,ROUSSET,0.03,Jet D'Objets Incandescents,1628
+Foret,2021-05-26,66,TRESSERRE,0.2,Travaux Agricoles,1632
+Foret,2021-05-27,2A,SALICE,0.02,Travaux (Particuliers),1634
+Foret,2021-05-28,34,SIRAN,0.4631,Involontaire (particulier),1637
+Foret,2021-05-29,2A,PORTO-VECCHIO,0.0025,Travaux (Particuliers),1640
+Foret,2021-05-29,13,VENTABREN,0.05,Travaux (Particuliers),1641
+Foret,2021-05-29,13,BERRE-L'ETANG,0.02,Vehicules,1643
+Foret,2021-05-30,34,LESPIGNAN,34.0439,Jet D'Objets Incandescents,1644
+Foret,2021-05-30,13,BARBEN (LA),0.003,Jet D'Objets Incandescents,1645
+Foret,2021-05-30,34,VILLEVEYRAC,0.1333,Malveillance,1646
+Foret,2021-05-31,13,VITROLLES,0.0005,Malveillance,1652
+Foret,2021-06-01,13,CASSIS,0.001,Jet D'Objets Incandescents,1654
+Foret,2021-06-01,2A,AJACCIO,0.0015,Travaux (Particuliers),1655
+Foret,2021-06-03,34,POILHES,0.3235,Travaux (Particuliers),1657
+Foret,2021-06-04,2A,SALICE,0.005,Travaux Agricoles,1663
+Foret,2021-06-05,2A,GROSSETO-PRUGNA,0.04,Travaux (Particuliers),1665
+Foret,2021-06-05,13,SAINT-MITRE-LES-REMPARTS,0.1,Loisirs (Particuliers),1666
+Foret,2021-06-05,2A,VALLE-DI-MEZZANA,0.002,Depot d'Ordures,1667
+Foret,2021-06-06,66,VILLELONGUE-DE-LA-SALANQUE,1.5,Lignes Electriques,1670
+Foret,2021-06-06,13,TARASCON,0.004,Malveillance,1671
+Foret,2021-06-07,34,POILHES,56.0104,Malveillance,1674
+Foret,2021-06-07,34,LESPIGNAN,18.8475,Malveillance,1675
+Foret,2021-06-08,13,ISTRES,1.0,Travaux (Particuliers),1677
+Foret,2021-06-08,34,LIEURAN-CABRIERES,0.8975,Interet,1678
+Foret,2021-06-08,66,TRESSERRE,0.8,Travaux Forestiers,1680
+Foret,2021-06-08,13,MIRAMAS,1.5,Malveillance,1681
+Foret,2021-06-09,66,TRESSERRE,0.4,Vehicules,1682
+Foret,2021-06-09,66,BANYULS-DELS-ASPRES,3.0,Travaux Agricoles,1683
+Foret,2021-06-09,66,CERET,0.2,Travaux Agricoles,1684
+Foret,2021-06-10,84,MOTTE-D'AIGUES (LA),0.05,Travaux Forestiers,1688
+Foret,2021-06-10,13,ROUSSET,0.001,Foudre,1690
+Foret,2021-06-10,13,TRETS,0.002,Foudre,1691
+Foret,2021-06-11,13,CIOTAT (LA),0.02,Depot d'Ordures,1693
+Foret,2021-06-11,13,CHATEAUNEUF-LES-MARTIGUES,0.03,Jet D'Objets Incandescents,1694
+Foret,2021-06-11,13,ROQUEFORT-LA-BEDOULE,0.001,Jet D'Objets Incandescents,1695
+Foret,2021-06-12,66,SALSES-LE-CHATEAU,1.0,Vehicules,1696
+Foret,2021-06-12,34,BEZIERS,4.1598,Reprise Incendie,1699
+Foret,2021-06-13,2A,OCANA,0.2,Travaux (Particuliers),1705
+Foret,2021-06-13,66,BOULOU (LE),0.2835,Loisirs (Particuliers),1709
+Foret,2021-06-13,13,EYGUIERES,0.06,Loisirs (Particuliers),1710
+Foret,2021-06-13,13,AURIOL,0.004,Lignes Electriques,1712
+Foret,2021-06-14,2A,PETRETO-BICCHISANO,0.01,Travaux (Particuliers),1714
+Foret,2021-06-14,34,POMEROLS,1.5226,Accidentelle,1715
+Foret,2021-06-14,13,THOLONET (LE),0.25,Jet D'Objets Incandescents,1716
+Foret,2021-06-14,66,SAINT-FELIU-D'AVALL,7.0,Travaux Agricoles,1717
+Foret,2021-06-14,66,ANSIGNAN,1.0,Travaux Industriels/Publics,1720
+Foret,2021-06-14,2A,ALATA,0.0001,Travaux (Particuliers),1724
+Foret,2021-06-15,13,ROGNAC,0.3,Vehicules,1726
+Foret,2021-06-15,34,SAINT-JEAN-DE-FOS,1.4673,Malveillance,1729
+Foret,2021-06-15,66,BAGES,3.0,Vehicules,1730
+Foret,2021-06-15,13,AIX-EN-PROVENCE,0.05,Jet D'Objets Incandescents,1731
+Foret,2021-06-15,2B,CORSCIA,0.15,Foudre,1732
+Foret,2021-06-15,2A,AULLENE,0.0001,Travaux Forestiers,1733
+Foret,2021-06-16,66,PORT-VENDRES,32.96,Travaux Agricoles,1735
+Foret,2021-06-16,34,BEZIERS,0.9013,Pyromanie,1736
+Foret,2021-06-16,13,VELAUX,0.01,Jet D'Objets Incandescents,1738
+Foret,2021-06-18,2A,COTI-CHIAVARI,0.0001,Travaux (Particuliers),1742
+Foret,2021-06-18,2A,CALCATOGGIO,0.01,Travaux (Particuliers),1744
+Foret,2021-06-18,2B,CALENZANA,0.8,Malveillance,1745
+Foret,2021-06-19,66,BANYULS-SUR-MER,0.2,Malveillance,1747
+Foret,2021-06-20,2A,CARBUCCIA,0.005,Travaux Agricoles,1749
+Foret,2021-06-21,84,ROQUE-SUR-PERNES (LA),0.0002,Travaux Forestiers,1751
+Foret,2021-06-21,13,CASSIS,0.001,Jet D'Objets Incandescents,1752
+Foret,2021-06-23,34,CAUX,0.6465,Malveillance,1759
+Foret,2021-06-23,13,ROVE (LE),0.0015,Jet D'Objets Incandescents,1760
+Foret,2021-06-24,13,MARSEILLE,1.7,Accidentelle,1761
+Foret,2021-06-24,34,VIAS,1.966,Interet,1762
+Foret,2021-06-24,13,FOS-SUR-MER,0.005,Malveillance,1763
+Foret,2021-06-25,2A,SOTTA,0.0341,Malveillance,1766
+Foret,2021-06-25,2A,AJACCIO,5.4,Loisirs (Particuliers),1767
+Foret,2021-06-25,66,SAINT-HIPPOLYTE,1.0,Malveillance,1768
+Foret,2021-06-25,83,GRIMAUD,0.01,Travaux (Particuliers),1769
+Foret,2021-06-26,2A,ZONZA,0.0001,Malveillance,1771
+Foret,2021-06-26,2A,VERO,0.0001,Travaux (Particuliers),1772
+Foret,2021-06-27,66,PRADES,0.139,Malveillance,1777
+Foret,2021-06-28,13,TARASCON,0.01,Vehicules,1779
+Foret,2021-06-28,34,SIRAN,0.0491,Malveillance,1780
+Foret,2021-06-28,13,ARLES,0.04,Jet D'Objets Incandescents,1781
+Foret,2021-06-28,83,SAINT-MANDRIER-SUR-MER,0.35,Travaux (Particuliers),1783
+Foret,2021-06-28,13,MARSEILLE,0.5,Malveillance,1784
+Foret,2021-06-28,66,VINGRAU,1.24,Conflit,1785
+Foret,2021-06-29,13,GRANS,0.01,Travaux Agricoles,1787
+Foret,2021-06-29,83,CALLAS,0.02,Travaux Forestiers,1788
+Foret,2021-06-30,83,PLAN-DE-LA-TOUR (LE),0.1,Malveillance,1791
+Foret,2021-06-30,13,SALON-DE-PROVENCE,0.002,Jet D'Objets Incandescents,1793
+Foret,2021-06-30,13,THOLONET (LE),0.04,Jet D'Objets Incandescents,1795
+Foret,2021-06-30,13,CIOTAT (LA),0.001,Jet D'Objets Incandescents,1796
+Foret,2021-06-30,2B,ISOLACCIO-DI-FIUMORBO,0.04,Involontaire (travaux),1797
+Foret,2021-06-30,83,SEILLANS,7.0,Lignes Electriques,1798
+Foret,2021-06-30,34,MAUGUIO,0.9505,Conflit,1800
+Foret,2021-06-30,2A,PERI,0.03,Lignes Electriques,1804
+Foret,2021-06-30,30,PUJAUT,0.2136,Loisirs (Particuliers),1805
+Foret,2021-07-01,34,MONTBLANC,3.1848,Conflit,1806
+Foret,2021-07-01,2B,PENTA-ACQUATELLA,0.6,Travaux (Particuliers),1808
+Foret,2021-07-01,13,VITROLLES,0.03,Jet D'Objets Incandescents,1810
+Foret,2021-07-02,13,PENNES-MIRABEAU (LES),0.002,Jet D'Objets Incandescents,1816
+Foret,2021-07-02,6,ISOLA,0.8,Travaux Forestiers,1817
+Foret,2021-07-02,83,CARQUEIRANNE,0.1,Loisirs (Particuliers),1818
+Foret,2021-07-02,66,CERET,0.126,Conflit,1819
+Foret,2021-07-02,30,ROCHEFORT-DU-GARD,1.5432,Jet D'Objets Incandescents,1821
+Foret,2021-07-02,4,SAINT-JULIEN-DU-VERDON,0.29,Jet D'Objets Incandescents,1823
+Foret,2021-07-03,66,ESTAGEL,0.086,Malveillance,1826
+Foret,2021-07-03,2A,GROSSETO-PRUGNA,0.01,Travaux (Particuliers),1828
+Foret,2021-07-03,13,ISTRES,1.03,Vehicules,1829
+Foret,2021-07-03,13,ENSUES-LA-REDONNE,0.001,Jet D'Objets Incandescents,1830
+Foret,2021-07-03,4,RIEZ,0.02,Involontaire (particulier),1831
+Foret,2021-07-04,13,FUVEAU,0.03,Jet D'Objets Incandescents,1832
+Foret,2021-07-05,2B,LUMIO,5.25,Malveillance,1833
+Foret,2021-07-05,13,SAINT-CHAMAS,0.0002,Jet D'Objets Incandescents,1834
+Foret,2021-07-06,13,PENNES-MIRABEAU (LES),0.005,Jet D'Objets Incandescents,1838
+Foret,2021-07-06,83,SAINT-RAPHAËL,0.004,Jet D'Objets Incandescents,1839
+Foret,2021-07-07,2A,ALATA,0.0015,Malveillance,1840
+Foret,2021-07-07,30,LASALLE,0.0012,Travaux (Particuliers),1841
+Foret,2021-07-07,6,MANDELIEU-LA-NAPOULE,0.95,Vehicules,1842
+Foret,2021-07-07,13,CABRIES,0.01,Malveillance,1843
+Foret,2021-07-07,30,VERGEZE,0.009,Loisirs (Particuliers),1845
+Foret,2021-07-08,34,MONTOULIERS,0.1267,Jet D'Objets Incandescents,1848
+Foret,2021-07-08,13,PENNES-MIRABEAU (LES),0.03,Jet D'Objets Incandescents,1850
+Foret,2021-07-08,34,SAINT-PARGOIRE,2.4458,Malveillance,1851
+Foret,2021-07-08,13,MARTIGUES,0.003,Reprise Incendie,1852
+Foret,2021-07-08,30,GALLARGUES-LE-MONTUEUX,0.0947,Malveillance,1855
+Foret,2021-07-08,13,AUBAGNE,0.002,Malveillance,1856
+Foret,2021-07-09,34,THEZAN-LES-BEZIERS,0.1149,Loisirs (Particuliers),1860
+Foret,2021-07-09,13,AURIOL,0.015,Depot d'Ordures,1861
+Foret,2021-07-09,30,PARIGNARGUES,5.4503,Travaux Agricoles,1865
+Foret,2021-07-09,83,TANNERON,0.0005,Reprise Incendie,1866
+Foret,2021-07-09,66,SALSES-LE-CHATEAU,1.6,Vehicules,1867
+Foret,2021-07-09,2A,ALATA,7.0,Interet,1868
+Foret,2021-07-10,34,BOSC (LE),0.2096,Accidentelle,1869
+Foret,2021-07-10,83,SALERNES,0.015,Loisirs (Particuliers),1871
+Foret,2021-07-10,13,ISTRES,0.76,Jet D'Objets Incandescents,1872
+Foret,2021-07-10,2A,ZONZA,0.0005,Lignes Electriques,1873
+Foret,2021-07-10,13,PEYPIN,0.01,Malveillance,1874
+Foret,2021-07-10,66,SALEILLES,0.6,Malveillance,1875
+Foret,2021-07-11,13,MARTIGUES,0.025,Loisirs (Particuliers),1876
+Foret,2021-07-11,30,MOULEZAN,0.0074,Loisirs (Particuliers),1878
+Foret,2021-07-11,83,TOURVES,0.005,Jet D'Objets Incandescents,1879
+Foret,2021-07-12,13,FUVEAU,0.001,Jet D'Objets Incandescents,1884
+Foret,2021-07-12,34,SAINT-PARGOIRE,0.1066,Malveillance,1885
+Foret,2021-07-12,34,SAINT-PARGOIRE,0.0543,Malveillance,1886
+Foret,2021-07-13,66,CASTELNOU,0.2,Vehicules,1888
+Foret,2021-07-13,4,DIGNE-LES-BAINS,0.2,Vehicules,1889
+Foret,2021-07-13,13,CUGES-LES-PINS,0.02,Vehicules,1891
+Foret,2021-07-13,66,VILLEMOLAQUE,0.143,Malveillance,1892
+Foret,2021-07-13,13,CIOTAT (LA),0.01,Travaux (Particuliers),1893
+Foret,2021-07-13,13,CIOTAT (LA),0.0015,Travaux (Particuliers),1895
+Foret,2021-07-13,13,AUBAGNE,0.02,Malveillance,1896
+Foret,2021-07-13,13,MIRAMAS,0.01,Malveillance,1898
+Foret,2021-07-14,2B,CAMPILE,0.5,Malveillance,1899
+Foret,2021-07-14,2B,CAMPILE,0.8,Malveillance,1900
+Foret,2021-07-14,83,ROCBARON,0.05,Conflit,1901
+Foret,2021-07-14,2B,AGHIONE,3.34,Jet D'Objets Incandescents,1902
+Foret,2021-07-14,2A,COTI-CHIAVARI,0.006,Lignes Electriques,1903
+Foret,2021-07-14,6,VENCE,8.9,Loisirs (Particuliers),1904
+Foret,2021-07-14,2B,OLETTA,10.505,Malveillance,1905
+Foret,2021-07-14,13,CHATEAUNEUF-LES-MARTIGUES,0.015,Jet D'Objets Incandescents,1906
+Foret,2021-07-14,66,SALEILLES,3.0,Loisirs (Particuliers),1908
+Foret,2021-07-14,13,MARSEILLE,0.2,Malveillance,1909
+Foret,2021-07-14,13,FOS-SUR-MER,0.001,Jet D'Objets Incandescents,1910
+Foret,2021-07-14,13,PLAN-DE-CUQUES,0.001,Loisirs (Particuliers),1911
+Foret,2021-07-15,13,PENNES-MIRABEAU (LES),3.23,Vehicules,1914
+Foret,2021-07-15,4,PIERREVERT,0.82,Malveillance,1917
+Foret,2021-07-15,34,QUARANTE,1.1165,Accidentelle,1918
+Foret,2021-07-15,13,BERRE-L'ETANG,0.01,Jet D'Objets Incandescents,1920
+Foret,2021-07-15,83,SEYNE-SUR-MER (LA),0.1,Jet D'Objets Incandescents,1921
+Foret,2021-07-15,66,BOULOU (LE),0.05,Loisirs (Particuliers),1923
+Foret,2021-07-15,66,ILLE-SUR-TET,0.15,Malveillance,1925
+Foret,2021-07-16,13,ROGNAC,0.035,Malveillance,1926
+Foret,2021-07-16,13,ROGNAC,0.1,Malveillance,1927
+Foret,2021-07-16,13,ROGNAC,0.02,Malveillance,1928
+Foret,2021-07-16,66,ARGELES-SUR-MER,1.5,Accidentelle,1929
+Foret,2021-07-16,13,AUBAGNE,0.003,Loisirs (Particuliers),1930
+Foret,2021-07-16,13,AURIOL,0.002,Jet D'Objets Incandescents,1931
+Foret,2021-07-16,13,MARTIGUES,0.002,Jet D'Objets Incandescents,1932
+Foret,2021-07-16,6,ROQUESTERON-GRASSE,0.01,Foudre,1936
+Foret,2021-07-16,83,FLASSANS-SUR-ISSOLE,0.005,Jet D'Objets Incandescents,1938
+Foret,2021-07-16,66,ILLE-SUR-TET,0.81,Malveillance,1939
+Foret,2021-07-16,13,ENSUES-LA-REDONNE,0.001,Jet D'Objets Incandescents,1940
+Foret,2021-07-16,13,PELISSANNE,0.05,Travaux (Particuliers),1941
+Foret,2021-07-16,66,SAINT-LAURENT-DE-LA-SALANQUE,1.5,Malveillance,1942
+Foret,2021-07-16,13,MARTIGUES,5.9,Jet D'Objets Incandescents,1944
+Foret,2021-07-16,2B,PIETRASERENA,0.0001,Foudre,1945
+Foret,2021-07-16,66,MONTESQUIEU-DES-ALBERES,0.01,Malveillance,1946
+Foret,2021-07-16,66,MONTESQUIEU-DES-ALBERES,0.087,Malveillance,1947
+Foret,2021-07-16,13,MARSEILLE,0.03,Malveillance,1949
+Foret,2021-07-16,30,MONTFRIN,0.0341,Pyromanie,1950
+Foret,2021-07-17,66,PERPIGNAN,2.0,Malveillance,1952
+Foret,2021-07-17,13,PEYPIN,0.08,Reprise Incendie,1953
+Foret,2021-07-17,13,PORT-DE-BOUC,0.0004,Jet D'Objets Incandescents,1955
+Foret,2021-07-17,84,SAINT-MARTIN-DE-LA-BRASQUE,0.014,Loisirs (Particuliers),1956
+Foret,2021-07-18,2B,ORTIPORIO,0.06,Malveillance,1958
+Foret,2021-07-18,2B,ORTIPORIO,0.01,Malveillance,1959
+Foret,2021-07-18,66,NEFIACH,96.34,Travaux (Particuliers),1960
+Foret,2021-07-18,83,GARDE-FREINET (LA),0.02,Malveillance,1961
+Foret,2021-07-18,6,SAINT-ANDRE-DE-LA-ROCHE,0.39,Accidentelle,1962
+Foret,2021-07-18,30,ARAMON,0.0449,Malveillance,1963
+Foret,2021-07-18,30,ROCHEFORT-DU-GARD,0.0229,Malveillance,1964
+Foret,2021-07-18,30,ROCHEFORT-DU-GARD,1.2931,Malveillance,1965
+Foret,2021-07-18,13,MARTIGUES,0.06,Malveillance,1966
+Foret,2021-07-18,13,MARTIGUES,0.12,Malveillance,1967
+Foret,2021-07-18,13,MARTIGUES,0.11,Malveillance,1968
+Foret,2021-07-18,66,SAINT-JEAN-PLA-DE-CORTS,2.68,Malveillance,1969
+Foret,2021-07-18,66,CORBERE-LES-CABANES,0.1,Interet,1970
+Foret,2021-07-18,66,ALBERE (L'),2.31,Malveillance,1971
+Foret,2021-07-18,13,MARTIGUES,0.01,Loisirs (Particuliers),1972
+Foret,2021-07-18,83,SALERNES,0.03,Jet D'Objets Incandescents,1973
+Foret,2021-07-19,30,PORTES,0.0331,Vehicules,1975
+Foret,2021-07-19,66,BAHO,30.453,Travaux Industriels/Publics,1976
+Foret,2021-07-19,13,MARTIGUES,0.02,Reprise Incendie,1977
+Foret,2021-07-19,30,NIMES,0.24,Malveillance,1978
+Foret,2021-07-19,13,SEPTEMES-LES-VALLONS,0.002,Jet D'Objets Incandescents,1980
+Foret,2021-07-19,66,TRESSERRE,0.1,Travaux Agricoles,1981
+Foret,2021-07-19,34,GUZARGUES,0.2804,Conflit,1982
+Foret,2021-07-19,83,CRAU (LA),0.39,Malveillance,1984
+Foret,2021-07-19,84,CAVAILLON,0.38,Foudre,1986
+Foret,2021-07-19,66,PERPIGNAN,1.0,Loisirs (Particuliers),1988
+Foret,2021-07-20,30,POUZILHAC,1.2063,Travaux Agricoles,1989
+Foret,2021-07-20,66,MILLAS,1.5,Travaux Agricoles,1990
+Foret,2021-07-20,34,MONTPELLIER,0.3019,Loisirs (Particuliers),1992
+Foret,2021-07-20,13,AURONS,0.015,Jet D'Objets Incandescents,1994
+Foret,2021-07-20,2A,SARROLA-CARCOPINO,0.002,Loisirs (Particuliers),1996
+Foret,2021-07-20,6,NICE,0.03,Loisirs (Particuliers),1999
+Foret,2021-07-20,13,MARTIGUES,0.002,Malveillance,2000
+Foret,2021-07-21,2A,APPIETTO,0.0001,Loisirs (Particuliers),2001
+Foret,2021-07-21,13,AIX-EN-PROVENCE,0.005,Travaux (Particuliers),2003
+Foret,2021-07-21,30,SAINT-MARTIN-DE-VALGALGUES,0.0031,Malveillance,2004
+Foret,2021-07-21,48,MOISSAC-VALLEE-FRANCAISE,0.0018,Foudre,2005
+Foret,2021-07-21,13,MARTIGUES,0.005,Malveillance,2007
+Foret,2021-07-22,84,CADENET,0.1,Malveillance,2008
+Foret,2021-07-22,34,MONS,0.1263,Accidentelle,2009
+Foret,2021-07-22,6,BAR-SUR-LOUP (LE),0.62,Travaux (Particuliers),2010
+Foret,2021-07-22,13,CABRIES,0.02,Malveillance,2011
+Foret,2021-07-22,13,MARSEILLE,0.03,Malveillance,2012
+Foret,2021-07-22,34,SAUSSINES,0.5485,Vehicules,2013
+Foret,2021-07-22,13,MARTIGUES,0.11,Malveillance,2014
+Foret,2021-07-22,13,MARTIGUES,0.001,Malveillance,2018
+Foret,2021-07-23,83,ROCBARON,0.06,Conflit,2019
+Foret,2021-07-23,13,BERRE-L'ETANG,0.007,Malveillance,2021
+Foret,2021-07-23,84,VAUGINES,2.91,Accidentelle,2023
+Foret,2021-07-23,66,CERET,0.03,Involontaire (particulier),2024
+Foret,2021-07-23,13,ISTRES,0.07,Jet D'Objets Incandescents,2025
+Foret,2021-07-23,13,VAUVENARGUES,0.002,Loisirs (Particuliers),2026
+Foret,2021-07-23,34,VILLEVEYRAC,0.2501,Malveillance,2027
+Foret,2021-07-24,13,CABRIES,0.1,Malveillance,2028
+Foret,2021-07-24,5,EMBRUN,0.04,Lignes Electriques,2029
+Foret,2021-07-24,13,LAMBESC,0.08,Vehicules,2033
+Foret,2021-07-24,13,MARSEILLE,0.3,Malveillance,2034
+Foret,2021-07-24,5,GAP,0.75,Travaux Forestiers,2035
+Foret,2021-07-24,2A,CUTTOLI-CORTICCHIATO,0.003,Travaux Forestiers,2036
+Foret,2021-07-24,66,PEZILLA-LA-RIVIERE,2.5,Malveillance,2038
+Foret,2021-07-25,66,ESPIRA-DE-L'AGLY,1.0,Malveillance,2044
+Foret,2021-07-25,26,FRANCILLON-SUR-ROUBION,0.03,Loisirs (Particuliers),2046
+Foret,2021-07-25,13,MARTIGUES,0.023,Malveillance,2047
+Foret,2021-07-25,13,SALON-DE-PROVENCE,0.32,Malveillance,2050
+Foret,2021-07-25,30,SABRAN,0.0227,Malveillance,2052
+Foret,2021-07-25,30,SABRAN,0.0002,Malveillance,2053
+Foret,2021-07-25,4,MARCOUX,0.61,Loisirs (Particuliers),2054
+Foret,2021-07-26,83,ROCBARON,0.02,Pyromanie,2062
+Foret,2021-07-26,34,OCTON,0.4902,Loisirs (Particuliers),2063
+Foret,2021-07-26,48,ISPAGNAC,0.05,Jet D'Objets Incandescents,2064
+Foret,2021-07-26,13,SALON-DE-PROVENCE,0.08,Malveillance,2065
+Foret,2021-07-26,6,GREOLIERES,0.05,Foudre,2066
+Foret,2021-07-26,13,VITROLLES,0.004,Malveillance,2067
+Foret,2021-07-26,6,VENCE,0.03,Foudre,2071
+Foret,2021-07-26,6,SAINT-CEZAIRE-SUR-SIAGNE,0.01,Foudre,2072
+Foret,2021-07-27,4,PALUD-SUR-VERDON (LA),0.022,Foudre,2075
+Foret,2021-07-27,13,MARSEILLE,0.13,Malveillance,2080
+Foret,2021-07-28,2A,COZZANO,0.2,Vehicules,2084
+Foret,2021-07-28,13,FONTVIEILLE,0.002,Travaux (Particuliers),2086
+Foret,2021-07-28,13,ENSUES-LA-REDONNE,0.002,Loisirs (Particuliers),2087
+Foret,2021-07-28,6,GRASSE,0.08,Foudre,2089
+Foret,2021-07-29,6,SAINT-CEZAIRE-SUR-SIAGNE,0.7,Foudre,2092
+Foret,2021-07-29,2A,LECCI,0.001,Travaux (Particuliers),2093
+Foret,2021-07-29,13,LAMBESC,0.03,Travaux (Particuliers),2094
+Foret,2021-07-29,13,VENTABREN,0.19,Travaux Agricoles,2095
+Foret,2021-07-29,66,LAROQUE-DES-ALBERES,1.0,Loisirs (Particuliers),2096
+Foret,2021-07-29,4,ROUMOULES,0.05,Travaux (Particuliers),2097
+Foret,2021-07-29,2A,PETRETO-BICCHISANO,0.002,Travaux Industriels/Publics,2098
+Foret,2021-07-29,2A,APPIETTO,3.7,Malveillance,2100
+Foret,2021-07-29,2A,APPIETTO,35.7,Malveillance,2101
+Foret,2021-07-29,83,CELLE (LA),0.015,Jet D'Objets Incandescents,2102
+Foret,2021-07-29,2A,CALCATOGGIO,0.02,Accidentelle,2103
+Foret,2021-07-29,13,CIOTAT (LA),0.0005,Jet D'Objets Incandescents,2106
+Foret,2021-07-30,4,MOTTE-DU-CAIRE (LA),0.83,Foudre,2108
+Foret,2021-07-30,34,FRAISSE-SUR-AGOUT,0.0408,Loisirs (Particuliers),2111
+Foret,2021-07-30,6,VILLENEUVE-LOUBET,0.1,Jet D'Objets Incandescents,2112
+Foret,2021-07-30,4,SAINT-BENOIT,0.02,Foudre,2113
+Foret,2021-07-30,83,CANNET-DES-MAURES (LE),0.2,Jet D'Objets Incandescents,2116
+Foret,2021-07-31,5,AIGUILLES,0.0005,Foudre,2117
+Foret,2021-07-31,5,CHATEAUNEUF-DE-CHABRE,0.0002,Foudre,2118
+Foret,2021-07-31,66,CERBERE,9.93,Loisirs (Particuliers),2119
+Foret,2021-07-31,2A,ZONZA,0.05,Lignes Electriques,2120
+Foret,2021-08-01,2A,FIGARI,0.002,Malveillance,2123
+Foret,2021-08-01,2A,MONACIA-D'AULLENE,0.002,Malveillance,2124
+Foret,2021-08-01,6,VALDEBLORE,0.01,Foudre,2125
+Foret,2021-08-01,4,RIEZ,0.048,Travaux Agricoles,2126
+Foret,2021-08-01,34,VENDEMIAN,6.9781,Malveillance,2128
+Foret,2021-08-01,4,BEAUJEU,0.65,Foudre,2130
+Foret,2021-08-01,13,MIRAMAS,0.05,Malveillance,2132
+Foret,2021-08-01,34,LAURET,0.428,Malveillance,2133
+Foret,2021-08-01,2B,MORSIGLIA,0.1128,Jet D'Objets Incandescents,2134
+Foret,2021-08-02,2B,LUMIO,0.0517,Jet D'Objets Incandescents,2136
+Foret,2021-08-02,34,NEBIAN,13.41,Malveillance,2139
+Foret,2021-08-02,13,SALON-DE-PROVENCE,0.1,Jet D'Objets Incandescents,2143
+Foret,2021-08-02,34,CABRIERES,0.1046,Malveillance,2145
+Foret,2021-08-02,13,MIRAMAS,0.006,Malveillance,2146
+Foret,2021-08-02,34,GRABELS,0.0053,Malveillance,2148
+Foret,2021-08-03,2A,PERI,7.8,Malveillance,2150
+Foret,2021-08-03,2B,ALBERTACCE,0.0002,Jet D'Objets Incandescents,2151
+Foret,2021-08-03,83,ARCS (LES),0.005,Malveillance,2152
+Foret,2021-08-03,4,PIERRERUE,0.32,Travaux Agricoles,2153
+Foret,2021-08-03,30,PEYROLLES,0.0154,Travaux (Particuliers),2155
+Foret,2021-08-05,13,FUVEAU,0.05,Travaux (Particuliers),2157
+Foret,2021-08-05,6,ANTIBES,0.03,Loisirs (Particuliers),2158
+Foret,2021-08-05,2A,PARTINELLO,0.0001,Malveillance,2159
+Foret,2021-08-06,13,JOUQUES,0.001,Travaux Industriels/Publics,2161
+Foret,2021-08-06,4,MOTTE-DU-CAIRE (LA),0.002,Reprise Incendie,2162
+Foret,2021-08-06,13,SEPTEMES-LES-VALLONS,0.015,Jet D'Objets Incandescents,2163
+Foret,2021-08-07,84,APT,1.07,Travaux (Particuliers),2165
+Foret,2021-08-07,2B,LINGUIZZETTA,10.0,Malveillance,2166
+Foret,2021-08-07,2A,CUTTOLI-CORTICCHIATO,3.5,Malveillance,2167
+Foret,2021-08-07,66,MAURY,0.2,Lignes Electriques,2168
+Foret,2021-08-07,13,MARTIGUES,0.003,Loisirs (Particuliers),2169
+Foret,2021-08-07,4,AIGLUN,0.25,Foudre,2170
+Foret,2021-08-07,13,MARTIGUES,0.002,Jet D'Objets Incandescents,2172
+Foret,2021-08-08,2A,APPIETTO,0.0001,Malveillance,2173
+Foret,2021-08-08,6,PEGOMAS,0.03,Vehicules,2174
+Foret,2021-08-08,13,MARTIGUES,0.06,Malveillance,2175
+Foret,2021-08-08,30,CANNES-ET-CLAIRAN,0.1294,Malveillance,2176
+Foret,2021-08-08,30,ARAMON,0.0037,Malveillance,2177
+Foret,2021-08-08,6,GUILLAUMES,0.025,Loisirs (Particuliers),2178
+Foret,2021-08-08,13,ISTRES,0.03,Malveillance,2180
+Foret,2021-08-09,83,CASTELLET (LE),0.003,Loisirs (Particuliers),2181
+Foret,2021-08-09,13,BOUC-BEL-AIR,0.91,Vehicules,2185
+Foret,2021-08-09,13,BOUC-BEL-AIR,0.03,Jet D'Objets Incandescents,2186
+Foret,2021-08-10,4,TARTONNE,2.87,Jet D'Objets Incandescents,2189
+Foret,2021-08-10,13,TRETS,0.048,Lignes Electriques,2190
+Foret,2021-08-10,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.0303,Malveillance,2191
+Foret,2021-08-10,2A,SARTENE,0.0001,Foudre,2192
+Foret,2021-08-10,34,BOSC (LE),0.0043,Malveillance,2193
+Foret,2021-08-11,13,BOUC-BEL-AIR,0.0002,Travaux Industriels/Publics,2196
+Foret,2021-08-11,13,AUBAGNE,0.08,Lignes Electriques,2197
+Foret,2021-08-11,66,PORT-VENDRES,0.37,Vehicules,2198
+Foret,2021-08-11,4,GREOUX-LES-BAINS,1.69,Vehicules,2199
+Foret,2021-08-11,13,PEYPIN,0.001,Loisirs (Particuliers),2201
+Foret,2021-08-12,13,VENTABREN,0.002,Jet D'Objets Incandescents,2202
+Foret,2021-08-12,6,DALUIS,0.003,Foudre,2206
+Foret,2021-08-12,13,SIMIANE-COLLONGUE,0.01,Travaux Industriels/Publics,2207
+Foret,2021-08-12,66,CAIXAS,0.02,Lignes Electriques,2208
+Foret,2021-08-12,2A,SARI-SOLENZARA,0.002,Vehicules,2209
+Foret,2021-08-13,13,ROQUEVAIRE,0.001,Vehicules,2211
+Foret,2021-08-13,13,ROUSSET,0.014,Lignes Electriques,2212
+Foret,2021-08-13,66,RASIGUERES,1.5,Lignes Electriques,2213
+Foret,2021-08-13,13,FOS-SUR-MER,0.02,Vehicules,2214
+Foret,2021-08-14,83,TOURVES,0.03,Travaux (Particuliers),2225
+Foret,2021-08-14,30,PUJAUT,0.9306,Malveillance,2227
+Foret,2021-08-14,13,MARTIGUES,0.002,Malveillance,2229
+Foret,2021-08-14,13,CEYRESTE,0.0005,Malveillance,2230
+Foret,2021-08-14,2A,SARTENE,0.01,Malveillance,2231
+Foret,2021-08-14,2A,SARTENE,0.8,Malveillance,2232
+Foret,2021-08-15,7,SAINT-LAURENT-LES-BAINS,0.0003,Malveillance,2234
+Foret,2021-08-15,2B,CORTE,0.3,Involontaire (particulier),2235
+Foret,2021-08-15,30,DOMAZAN,0.1409,Jet D'Objets Incandescents,2238
+Foret,2021-08-15,4,SAINT-PONS,0.0001,Lignes Electriques,2239
+Foret,2021-08-15,66,MONTALBA-LE-CHATEAU,4.45,Malveillance,2241
+Foret,2021-08-16,34,MONTBAZIN,44.5051,Conflit,2242
+Foret,2021-08-16,84,VEDENE,0.047,Malveillance,2244
+Foret,2021-08-16,2A,MONACIA-D'AULLENE,0.02,Malveillance,2245
+Foret,2021-08-16,2A,SOTTA,0.001,Malveillance,2250
+Foret,2021-08-16,83,HYERES,0.3,Lignes Electriques,2253
+Foret,2021-08-16,13,FOS-SUR-MER,0.02,Malveillance,2254
+Foret,2021-08-16,83,GONFARON,6832.0,Jet D'Objets Incandescents,2256
+Foret,2021-08-16,66,ARGELES-SUR-MER,0.5,Jet D'Objets Incandescents,2257
+Foret,2021-08-16,13,MIRAMAS,0.005,Malveillance,2258
+Foret,2021-08-16,34,MONTAGNAC,2.5273,Conflit,2260
+Foret,2021-08-16,34,AIGUES-VIVES,6.716,Jet D'Objets Incandescents,2261
+Foret,2021-08-16,2A,MONACIA-D'AULLENE,0.005,Malveillance,2264
+Foret,2021-08-16,2B,FELICETO,3.7,Malveillance,2265
+Foret,2021-08-17,2A,CONCA,0.04,Malveillance,2266
+Foret,2021-08-17,84,BEAUMES-DE-VENISE,239.7,Foudre,2268
+Foret,2021-08-17,13,ALLAUCH,0.2261,Jet D'Objets Incandescents,2272
+Foret,2021-08-17,30,BEAUCAIRE,1.0744,Malveillance,2273
+Foret,2021-08-17,34,PUILACHER,0.1834,Loisirs (Particuliers),2274
+Foret,2021-08-17,13,GIGNAC-LA-NERTHE,0.002,Depot d'Ordures,2277
+Foret,2021-08-18,34,AUMELAS,1.7876,Malveillance,2280
+Foret,2021-08-18,30,NIMES,0.6113,Malveillance,2282
+Foret,2021-08-18,34,AUMES,14.3957,Malveillance,2283
+Foret,2021-08-18,34,NISSAN-LEZ-ENSERUNE,46.404,Jet D'Objets Incandescents,2284
+Foret,2021-08-18,34,SAINT-PARGOIRE,251.64,Malveillance,2285
+Foret,2021-08-18,13,PUY-SAINTE-REPARADE (LE),0.16,Travaux Agricoles,2287
+Foret,2021-08-18,30,SAINT-HIPPOLYTE-DU-FORT,0.5036,Travaux Agricoles,2290
+Foret,2021-08-18,13,MARTIGUES,0.024,Malveillance,2291
+Foret,2021-08-19,2B,VOLPAJOLA,2.59,Malveillance,2296
+Foret,2021-08-19,66,ESPIRA-DE-L'AGLY,1.0,Malveillance,2297
+Foret,2021-08-19,34,SAINT-JEAN-DE-LA-BLAQUIERE,15.3388,Conflit,2298
+Foret,2021-08-19,30,VALLERAUGUE,0.0286,Malveillance,2299
+Foret,2021-08-19,48,CHANAC,0.93,Travaux (Particuliers),2303
+Foret,2021-08-19,13,SEPTEMES-LES-VALLONS,0.005,Loisirs (Particuliers),2304
+Foret,2021-08-19,2A,SOTTA,0.001,Malveillance,2306
+Foret,2021-08-19,2A,FIGARI,0.01,Malveillance,2307
+Foret,2021-08-20,13,PELISSANNE,0.001,Travaux (Particuliers),2312
+Foret,2021-08-20,66,SALSES-LE-CHATEAU,17.0,Malveillance,2315
+Foret,2021-08-20,83,BAUDUEN,0.87,Jet D'Objets Incandescents,2316
+Foret,2021-08-20,2A,AJACCIO,0.0001,Travaux Industriels/Publics,2317
+Foret,2021-08-20,4,SAINTE-CROIX-DU-VERDON,0.02,Jet D'Objets Incandescents,2319
+Foret,2021-08-20,13,ARLES,0.001,Jet D'Objets Incandescents,2321
+Foret,2021-08-21,34,FONTES,0.1962,Accidentelle,2322
+Foret,2021-08-21,6,GORBIO,0.06,Jet D'Objets Incandescents,2323
+Foret,2021-08-21,2A,PORTO-VECCHIO,0.001,Travaux (Particuliers),2324
+Foret,2021-08-21,13,AIX-EN-PROVENCE,1.0,Travaux (Particuliers),2325
+Foret,2021-08-22,66,CAIXAS,4.0,Travaux (Particuliers),2330
+Foret,2021-08-22,34,MEZE,0.3236,Malveillance,2333
+Foret,2021-08-22,13,MIRAMAS,0.02,Malveillance,2335
+Foret,2021-08-23,34,SAINT-ANDRE-DE-SANGONIS,0.4389,Conflit,2336
+Foret,2021-08-23,34,VENDEMIAN,0.0013,Malveillance,2338
+Foret,2021-08-23,34,AUTIGNAC,1.2554,Vehicules,2339
+Foret,2021-08-23,66,CANET-EN-ROUSSILLON,2.0,Malveillance,2340
+Foret,2021-08-23,30,SABRAN,0.0086,Malveillance,2347
+Foret,2021-08-23,13,MIRAMAS,0.008,Pyromanie,2348
+Foret,2021-08-23,30,ASPERES,0.0091,Malveillance,2350
+Foret,2021-08-23,30,VILLEVIEILLE,0.0999,Malveillance,2351
+Foret,2021-08-24,2A,SARTENE,0.3,Lignes Electriques,2353
+Foret,2021-08-24,2A,APPIETTO,2.5,Interet,2354
+Foret,2021-08-24,2A,CALCATOGGIO,0.014,Malveillance,2355
+Foret,2021-08-24,34,CABRIERES,27.8905,Malveillance,2356
+Foret,2021-08-24,7,GROSPIERRES,0.005,Travaux (Particuliers),2357
+Foret,2021-08-24,13,SAINT-ANTONIN-SUR-BAYON,0.001,Foudre,2360
+Foret,2021-08-24,13,ORGON,0.004,Jet D'Objets Incandescents,2364
+Foret,2021-08-25,83,MOLE (LA),0.0002,Reprise Incendie,2365
+Foret,2021-08-25,83,GRIMAUD,0.0002,Reprise Incendie,2366
+Foret,2021-08-25,30,SABRAN,0.001,Reprise Incendie,2367
+Foret,2021-08-25,83,COGOLIN,0.0002,Reprise Incendie,2368
+Foret,2021-08-25,13,MIRAMAS,0.05,Malveillance,2370
+Foret,2021-08-25,83,BARJOLS,0.03,Foudre,2372
+Foret,2021-08-25,13,MIRAMAS,0.02,Malveillance,2373
+Foret,2021-08-26,83,MOLE (LA),0.0002,Reprise Incendie,2377
+Foret,2021-08-26,34,POUSSAN,6.1647,Malveillance,2378
+Foret,2021-08-26,6,ISOLA,9.8,Foudre,2379
+Foret,2021-08-26,66,TAUTAVEL,90.29,Loisirs (Particuliers),2380
+Foret,2021-08-26,6,GREOLIERES,0.03,Foudre,2381
+Foret,2021-08-26,2B,SPELONCATO,0.04,Lignes Electriques,2382
+Foret,2021-08-27,83,GRIMAUD,0.01,Reprise Incendie,2387
+Foret,2021-08-27,2B,FELICETO,0.05,Malveillance,2388
+Foret,2021-08-27,13,MARTIGUES,0.001,Malveillance,2389
+Foret,2021-08-27,2A,FIGARI,0.003,Malveillance,2390
+Foret,2021-08-27,2A,SOTTA,0.002,Malveillance,2391
+Foret,2021-08-27,2A,MONACIA-D'AULLENE,1.8,Malveillance,2392
+Foret,2021-08-27,2A,FIGARI,0.8,Malveillance,2393
+Foret,2021-08-27,2B,FAVALELLO,0.35,Malveillance,2394
+Foret,2021-08-27,2A,AJACCIO,0.03,Travaux Industriels/Publics,2395
+Foret,2021-08-27,2B,LUGO-DI-NAZZA,0.15,Malveillance,2396
+Foret,2021-08-27,83,GARDE-FREINET (LA),0.0002,Reprise Incendie,2398
+Foret,2021-08-27,13,ROGNAC,0.002,Malveillance,2400
+Foret,2021-08-27,48,ISPAGNAC,15.48,Malveillance,2401
+Foret,2021-08-28,2A,OCANA,0.006,Depot d'Ordures,2404
+Foret,2021-08-28,13,ISTRES,0.15,Jet D'Objets Incandescents,2405
+Foret,2021-08-28,83,VIDAUBAN,0.0002,Reprise Incendie,2406
+Foret,2021-08-28,13,GRANS,0.001,Travaux (Particuliers),2409
+Foret,2021-08-28,34,BOSC (LE),11.3183,Malveillance,2410
+Foret,2021-08-28,34,COMBES,0.1253,Accidentelle,2413
+Foret,2021-08-28,30,TRESQUES,0.0143,Lignes Electriques,2414
+Foret,2021-08-28,34,MINERVE,0.0378,Jet D'Objets Incandescents,2416
+Foret,2021-08-28,34,MURVIEL-LES-BEZIERS,0.284,Malveillance,2417
+Foret,2021-08-28,13,FARE-LES-OLIVIERS (LA),0.04,Jet D'Objets Incandescents,2419
+Foret,2021-08-28,13,MARTIGUES,0.021,Malveillance,2420
+Foret,2021-08-28,66,ALENYA,7.5,Malveillance,2421
+Foret,2021-08-28,30,MOLIERES-SUR-CEZE,0.0231,Lignes Electriques,2422
+Foret,2021-08-28,13,LANCON-PROVENCE,0.0005,Jet D'Objets Incandescents,2423
+Foret,2021-08-29,66,CAUDIES-DE-FENOUILLEDES,0.6,Malveillance,2424
+Foret,2021-08-29,34,MAUGUIO,1.7607,Jet D'Objets Incandescents,2425
+Foret,2021-08-29,13,BOULBON,0.03,Loisirs (Particuliers),2427
+Foret,2021-08-29,34,POUSSAN,0.0157,Accidentelle,2428
+Foret,2021-08-30,2B,PIGNA,0.04,Malveillance,2430
+Foret,2021-08-30,83,ROQUEBRUNE-SUR-ARGENS,0.005,Interet,2431
+Foret,2021-08-30,34,NEBIAN,1.605,Malveillance,2432
+Foret,2021-08-30,13,CABRIES,0.005,Travaux (Particuliers),2433
+Foret,2021-08-30,7,BESSAS,0.1,Lignes Electriques,2435
+Foret,2021-08-30,13,AIX-EN-PROVENCE,0.005,Travaux Agricoles,2436
+Foret,2021-08-31,66,CAUDIES-DE-FENOUILLEDES,0.002,Malveillance,2438
+Foret,2021-08-31,30,BELVEZET,0.5458,Malveillance,2439
+Foret,2021-08-31,2B,OLETTA,0.01,Interet,2443
+Foret,2021-08-31,34,VILLEVEYRAC,1.7734,Malveillance,2445
+Foret,2021-09-01,34,LODEVE,0.1855,Malveillance,2446
+Foret,2021-09-01,2B,PIEDICORTE-DI-GAGGIO,0.81,Interet,2448
+Foret,2021-09-01,13,MIRAMAS,0.005,Malveillance,2449
+Foret,2021-09-02,2A,ECCICA-SUARELLA,0.002,Lignes Electriques,2451
+Foret,2021-09-02,7,SILHAC,0.015,Travaux Agricoles,2453
+Foret,2021-09-02,34,MONTAUD,0.0686,Accidentelle,2454
+Foret,2021-09-02,83,BASTIDE (LA),0.0045,Jet D'Objets Incandescents,2455
+Foret,2021-09-03,83,GRIMAUD,0.0002,Reprise Incendie,2457
+Foret,2021-09-03,83,GRIMAUD,0.0002,Reprise Incendie,2458
+Foret,2021-09-03,2B,SALICETO,0.0015,Foudre,2459
+Foret,2021-09-03,13,LANCON-PROVENCE,0.05,Foudre,2460
+Foret,2021-09-04,13,ROGNES,0.001,Jet D'Objets Incandescents,2461
+Foret,2021-09-04,13,CHATEAURENARD,0.005,Depot d'Ordures,2462
+Foret,2021-09-05,13,MARTIGUES,0.0005,Depot d'Ordures,2463
+Foret,2021-09-05,83,MAZAUGUES,0.002,Malveillance,2464
+Foret,2021-09-06,2B,CAGNANO,0.1,Malveillance,2465
+Foret,2021-09-06,13,CHATEAUNEUF-LES-MARTIGUES,0.04,Vehicules,2466
+Foret,2021-09-06,13,BARBENTANE,0.0015,Depot d'Ordures,2470
+Foret,2021-09-07,4,RIEZ,0.034,Foudre,2472
+Foret,2021-09-07,2B,BORGO,1.2,Malveillance,2473
+Foret,2021-09-07,2B,LINGUIZZETTA,33.45,Malveillance,2474
+Foret,2021-09-07,83,MUY (LE),0.19,Jet D'Objets Incandescents,2475
+Foret,2021-09-07,13,LAMANON,0.145,Vehicules,2476
+Foret,2021-09-07,7,GRAVIERES,1.2,Malveillance,2477
+Foret,2021-09-07,83,SEILLONS-SOURCE-D'ARGENS,0.003,Foudre,2478
+Foret,2021-09-08,2B,VENZOLASCA,0.15,Malveillance,2479
+Foret,2021-09-08,2B,VENZOLASCA,0.35,Malveillance,2480
+Foret,2021-09-08,2B,LORETO-DI-CASINCA,0.5,Malveillance,2481
+Foret,2021-09-08,7,GOURDON,0.5,Lignes Electriques,2484
+Foret,2021-09-11,2B,VIVARIO,0.045,Foudre,2488
+Foret,2021-09-12,13,SEPTEMES-LES-VALLONS,0.03,Vehicules,2489
+Foret,2021-09-13,13,ROVE (LE),0.0005,Jet D'Objets Incandescents,2491
+Foret,2021-09-13,6,BREIL-SUR-ROYA,0.03,Jet D'Objets Incandescents,2492
+Foret,2021-09-13,2B,OLETTA,1.722,Conflit,2493
+Foret,2021-09-14,13,GEMENOS,0.0005,Loisirs (Particuliers),2495
+Foret,2021-09-14,84,SAINT-SATURNIN-LES-APT,0.0016,Foudre,2496
+Foret,2021-09-15,13,MOURIES,1.0,Travaux Forestiers,2498
+Foret,2021-09-18,5,LAZER,0.3,Travaux Forestiers,2502
+Foret,2021-09-19,83,FLAYOSC,0.01,Lignes Electriques,2503
+Foret,2021-09-19,6,MANDELIEU-LA-NAPOULE,0.5,Vehicules,2504
+Foret,2021-09-20,83,CALLIAN,0.0002,Foudre,2505
+Foret,2021-09-23,13,MARTIGUES,0.03,Malveillance,2509
+Foret,2021-09-25,2A,TAVACO,0.0857,Involontaire (particulier),2513
+Foret,2021-09-25,2A,CUTTOLI-CORTICCHIATO,0.2677,Malveillance,2514
+Foret,2021-09-25,13,MARTIGUES,0.01,Malveillance,2515
+Foret,2021-09-26,6,CHATEAUNEUF-VILLEVIEILLE,0.025,Foudre,2516
+Foret,2021-09-27,34,VIAS,7.055,Travaux (Particuliers),2518
+Foret,2021-09-27,83,MAYONS (LES),0.006,Foudre,2520
+Foret,2021-09-28,34,ABEILHAN,1.728,Travaux Forestiers,2522
+Foret,2021-09-28,2A,ZONZA,0.0001,Travaux (Particuliers),2523
+Foret,2021-09-28,6,CONTES,0.006,Foudre,2524
+Foret,2021-09-29,66,CANET-EN-ROUSSILLON,1.0,Malveillance,2526
+Foret,2021-09-30,83,PIGNANS,0.002,Travaux Forestiers,2527
+Foret,2021-09-30,2B,OLMETA-DI-TUDA,0.1,Travaux Industriels/Publics,2529
+Foret,2021-09-30,13,NOVES,0.02,Vehicules,2532
+Foret,2021-09-30,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.5851,Malveillance,2533
+Foret,2021-10-01,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.7191,Malveillance,2534
+Foret,2021-10-02,66,COLLIOURE,0.02,Travaux (Particuliers),2539
+Foret,2021-10-03,5,ROSANS,0.0001,Foudre,2540
+Foret,2021-10-03,13,SAINT-MITRE-LES-REMPARTS,0.01,Foudre,2541
+Foret,2021-10-04,2A,BASTELICACCIA,0.1335,Travaux Agricoles,2542
+Foret,2021-10-07,13,AUBAGNE,0.03,Lignes Electriques,2543
+Foret,2021-10-08,2A,VIGGIANELLO,0.8,Travaux Forestiers,2545
+Foret,2021-10-09,2A,SARROLA-CARCOPINO,0.0532,Involontaire (particulier),2546
+Foret,2021-10-09,2A,FRASSETO,0.005,Travaux (Particuliers),2547
+Foret,2021-10-09,2B,PRUNELLI-DI-FIUMORBO,1.2,Malveillance,2548
+Foret,2021-10-09,2B,CALACUCCIA,0.0015,Travaux Forestiers,2549
+Foret,2021-10-10,34,OCTON,6.8072,Interet,2550
+Foret,2021-10-10,2A,SARTENE,0.2,Travaux (Particuliers),2551
+Foret,2021-10-10,2A,ALATA,15.7305,Travaux (Particuliers),2552
+Foret,2021-10-10,2A,EVISA,0.7957,Foudre,2554
+Foret,2021-10-11,2A,AFA,3.54,Travaux Agricoles,2556
+Foret,2021-10-11,2B,NESSA,0.5,Foudre,2557
+Foret,2021-10-12,2A,BASTELICACCIA,0.1,Travaux (Particuliers),2563
+Foret,2021-10-12,34,MAGALAS,3.4839,Malveillance,2564
+Foret,2021-10-12,2A,CALCATOGGIO,0.0004,Travaux (Particuliers),2565
+Foret,2021-10-12,34,DIO-ET-VALQUIERES,7.2005,Travaux Agricoles,2566
+Foret,2021-10-12,2B,LOZZI,0.05,Malveillance,2567
+Foret,2021-10-13,2B,CAGNANO,0.5,Malveillance,2568
+Foret,2021-10-13,13,MARSEILLE,0.12,Malveillance,2569
+Foret,2021-10-13,2B,CASTELLARE-DI-CASINCA,1.0,Malveillance,2571
+Foret,2021-10-13,66,SALSES-LE-CHATEAU,0.5,Jet D'Objets Incandescents,2572
+Foret,2021-10-13,2A,SANT'ANDREA-D'ORCINO,0.0303,Travaux Agricoles,2573
+Foret,2021-10-13,34,AUMES,3.4718,Malveillance,2574
+Foret,2021-10-13,34,CASTELNAU-DE-GUERS,8.0994,Malveillance,2575
+Foret,2021-10-14,2A,CUTTOLI-CORTICCHIATO,1.6,Travaux (Particuliers),2578
+Foret,2021-10-14,34,PEZENAS,3.1099,Travaux Forestiers,2579
+Foret,2021-10-15,2A,PIETROSELLA,0.0001,Travaux (Particuliers),2581
+Foret,2021-10-15,66,VILLELONGUE-DELS-MONTS,0.1,Vehicules,2584
+Foret,2021-10-16,83,ROQUEBRUNE-SUR-ARGENS,0.005,Loisirs (Particuliers),2587
+Foret,2021-10-17,6,GREOLIERES,0.85,Vehicules,2589
+Foret,2021-10-18,34,MONTBAZIN,4.2408,Travaux Agricoles,2592
+Foret,2021-10-19,2A,CALCATOGGIO,0.0005,Travaux (Particuliers),2593
+Foret,2021-10-19,6,EZE,0.3,Travaux (Particuliers),2594
+Foret,2021-10-19,2A,SARROLA-CARCOPINO,0.005,Travaux (Particuliers),2595
+Foret,2021-10-19,2A,PORTO-VECCHIO,0.3,Travaux Forestiers,2596
+Foret,2021-10-20,83,BORMES-LES-MIMOSAS,0.1,Travaux (Particuliers),2597
+Foret,2021-10-20,6,LANTOSQUE,0.2,Travaux (Particuliers),2598
+Foret,2021-10-20,13,CIOTAT (LA),0.05,Travaux (Particuliers),2600
+Foret,2021-10-20,2A,TOLLA,0.3323,Travaux Agricoles,2601
+Foret,2021-10-20,13,ENSUES-LA-REDONNE,0.02,Jet D'Objets Incandescents,2602
+Foret,2021-10-22,34,VILLEVEYRAC,0.7572,Travaux Agricoles,2604
+Foret,2021-10-23,2A,PALNECA,18.42,Interet,2608
+Foret,2021-10-23,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.8,Involontaire (particulier),2609
+Foret,2021-10-23,2A,SARI-D'ORCINO,0.0025,Travaux (Particuliers),2611
+Foret,2021-10-24,2A,ZICAVO,0.005,Depot d'Ordures,2613
+Foret,2021-10-25,6,DRAP,0.04,Travaux (Particuliers),2614
+Foret,2021-10-25,6,BREIL-SUR-ROYA,0.025,Travaux (Particuliers),2616
+Foret,2021-10-25,2B,SOVERIA,10.6,Interet,2617
+Foret,2021-10-26,2B,CASTELLO-DI-ROSTINO,7.0,Conflit,2621
+Foret,2021-10-27,4,PALUD-SUR-VERDON (LA),0.0004,Involontaire (particulier),2626
+Foret,2021-10-27,2A,COGNOCOLI-MONTICCHI,0.0002,Travaux Forestiers,2627
+Foret,2021-10-28,34,LESPIGNAN,37.86,Malveillance,2629
+Foret,2021-10-31,66,AYGUATEBIA-TALAU,0.003,Malveillance,2632
+Foret,2021-11-03,66,SAINT-ANDRE,0.6,Lignes Electriques,2633
+Foret,2021-11-03,66,ANSIGNAN,0.1,Loisirs (Particuliers),2634
+Foret,2021-11-05,66,ESPIRA-DE-L'AGLY,0.2,Malveillance,2636
+Foret,2021-11-06,66,ESPIRA-DE-L'AGLY,4.0,Malveillance,2637
+Foret,2021-11-07,66,TAUTAVEL,0.03,Malveillance,2638
+Foret,2021-11-08,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.0282,Malveillance,2640
+Foret,2021-11-09,66,CASSAGNES,0.2,Travaux (Particuliers),2642
+Foret,2021-11-10,5,EMBRUN,0.003,Malveillance,2643
+Foret,2021-11-18,66,PEZILLA-LA-RIVIERE,0.5,Depot d'Ordures,2646
+Foret,2021-11-22,2A,CIAMANNACCE,0.0015,Travaux Forestiers,2652
+Foret,2021-12-07,83,BARGEMON,0.32,Travaux (Particuliers),2655
+Foret,2021-12-11,6,SERANON,1.8,Travaux (Particuliers),2656
+Foret,2021-12-11,6,ILONSE,0.3,Travaux (Particuliers),2657
+Foret,2021-12-16,6,LANTOSQUE,0.5,Interet,2658
+Foret,2021-12-17,2A,EVISA,0.06,Travaux (Particuliers),2660
+Foret,2021-12-19,2B,VENZOLASCA,8.0,Malveillance,2663
+Foret,2021-12-19,2A,PALNECA,0.006,Travaux (Particuliers),2664
+Foret,2021-12-20,6,COURSEGOULES,3.8,Interet,2666
+Foret,2022-01-01,6,COURSEGOULES,0.5,Interet,2670
+Foret,2022-01-02,4,SOLEILHAS,0.15,Travaux Agricoles,2671
+Foret,2022-01-04,6,LANTOSQUE,0.5,Travaux (Particuliers),2672
+Foret,2022-01-05,66,CERBERE,0.0764,Lignes Electriques,2673
+Foret,2022-01-05,2B,VIVARIO,1.0,Malveillance,2674
+Foret,2022-01-06,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.0784,Malveillance,2675
+Foret,2022-01-06,84,GRAMBOIS,0.0015,Travaux (Particuliers),2676
+Foret,2022-01-07,2A,AJACCIO,0.001,Travaux (Particuliers),2677
+Foret,2022-01-10,2A,APPIETTO,0.01,Travaux (Particuliers),2679
+Foret,2022-01-10,6,TENDE,0.06,Travaux (Particuliers),2680
+Foret,2022-01-12,13,PENNES-MIRABEAU (LES),0.06,Travaux (Particuliers),2682
+Foret,2022-01-12,13,MEYREUIL,0.04,Travaux (Particuliers),2684
+Foret,2022-01-13,13,MALLEMORT,0.002,Travaux (Particuliers),2687
+Foret,2022-01-16,2A,RENNO,0.3,Interet,2699
+Foret,2022-01-16,4,FUGERET (LE),22.12,Travaux Forestiers,2700
+Foret,2022-01-16,7,SOUCHE (LA),5.0,Travaux (Particuliers),2701
+Foret,2022-01-17,4,COLMARS,10.57,Jet D'Objets Incandescents,2703
+Foret,2022-01-17,7,GENESTELLE,1.0005,Travaux (Particuliers),2704
+Foret,2022-01-18,2A,PORTO-VECCHIO,0.001,Travaux Agricoles,2707
+Foret,2022-01-18,6,PIERLAS,4.2,Loisirs (Particuliers),2711
+Foret,2022-01-20,7,SABLIERES,40.0,Travaux (Particuliers),2718
+Foret,2022-01-21,6,TENDE,4.8,Jet D'Objets Incandescents,2720
+Foret,2022-01-21,7,CREYSSEILLES,0.6,Lignes Electriques,2721
+Foret,2022-01-21,34,SAINT-PRIVAT,2.9299,Malveillance,2723
+Foret,2022-01-22,6,COURSEGOULES,0.15,Interet,2726
+Foret,2022-01-23,34,MERIFONS,8.2618,Travaux Agricoles,2727
+Foret,2022-01-23,13,CUGES-LES-PINS,2.0,Travaux (Particuliers),2728
+Foret,2022-01-23,6,CARROS,0.1,Interet,2730
+Foret,2022-01-23,13,AIX-EN-PROVENCE,0.02,Travaux (Particuliers),2731
+Foret,2022-01-23,13,SAINT-REMY-DE-PROVENCE,0.01,Travaux (Particuliers),2733
+Foret,2022-01-24,6,DALUIS,1.2,Travaux (Particuliers),2734
+Foret,2022-01-24,4,CHATEAUNEUF-MIRAVAIL,1.5,Travaux (Particuliers),2736
+Foret,2022-01-25,66,SERDINYA,1.86,Travaux Industriels/Publics,2737
+Foret,2022-01-26,7,GENESTELLE,15.0,Travaux (Particuliers),2739
+Foret,2022-01-26,7,MAYRES,0.5,Travaux (Particuliers),2741
+Foret,2022-01-26,48,PREVENCHERES,8.0,Travaux Industriels/Publics,2742
+Foret,2022-01-26,13,AUBAGNE,0.002,Jet D'Objets Incandescents,2743
+Foret,2022-01-27,48,CASSAGNAS,1.0,Travaux (Particuliers),2748
+Foret,2022-01-27,66,CERET,0.6,Travaux (Particuliers),2749
+Foret,2022-01-27,48,PONT-DE-MONTVERT (LE),20.0,Travaux Agricoles,2751
+Foret,2022-01-28,6,CIPIERES,0.15,Interet,2758
+Foret,2022-01-28,34,SAINT-JEAN-DE-LA-BLAQUIERE,2.6625,Malveillance,2759
+Foret,2022-01-28,2B,VIVARIO,0.02,Malveillance,2761
+Foret,2022-01-28,34,POUZOLLES,9.7231,Travaux Forestiers,2762
+Foret,2022-01-28,13,MOURIES,0.2,Lignes Electriques,2763
+Foret,2022-01-29,66,VILLELONGUE-DE-LA-SALANQUE,1.0,Travaux (Particuliers),2766
+Foret,2022-01-29,84,UCHAUX,0.005,Jet D'Objets Incandescents,2767
+Foret,2022-01-29,30,MANDAGOUT,0.6376,Travaux (Particuliers),2768
+Foret,2022-01-29,48,CULTURES,0.01,Travaux Industriels/Publics,2771
+Foret,2022-01-29,48,SAINT-FREZAL-D'ALBUGES,3.0,Travaux (Particuliers),2772
+Foret,2022-01-29,2A,APPIETTO,0.005,Travaux (Particuliers),2774
+Foret,2022-01-29,48,SAINT-FREZAL-D'ALBUGES,2.0,Travaux Industriels/Publics,2776
+Foret,2022-01-29,7,SANILHAC,1.0,Travaux (Particuliers),2777
+Foret,2022-01-30,13,AUBAGNE,0.005,Jet D'Objets Incandescents,2779
+Foret,2022-01-30,6,ANDON,0.085,Travaux (Particuliers),2782
+Foret,2022-01-31,66,BOLQUERE,0.09,Involontaire (particulier),2785
+Foret,2022-01-31,7,MALBOSC,0.5,Malveillance,2786
+Foret,2022-01-31,83,BARJOLS,0.1,Travaux (Particuliers),2787
+Foret,2022-01-31,4,ESPARRON-DE-VERDON,0.19,Travaux Forestiers,2789
+Foret,2022-02-01,84,PUYMERAS,0.001,Loisirs (Particuliers),2792
+Foret,2022-02-01,48,SAINT-ETIENNE-VALLEE-FRANCAISE,0.15,Travaux Forestiers,2798
+Foret,2022-02-01,13,AUBAGNE,0.002,Jet D'Objets Incandescents,2800
+Foret,2022-02-01,2B,CAGNANO,0.06,Malveillance,2803
+Foret,2022-02-02,34,SAINT-PRIVAT,0.0471,Malveillance,2807
+Foret,2022-02-02,2B,ALBERTACCE,0.001,Accidentelle,2809
+Foret,2022-02-02,2B,SISCO,0.2,Malveillance,2812
+Foret,2022-02-02,2B,CANAVAGGIA,0.2,Malveillance,2813
+Foret,2022-02-02,2B,AITI,0.02,Malveillance,2814
+Foret,2022-02-03,83,BAUDUEN,4.0,Jet D'Objets Incandescents,2817
+Foret,2022-02-03,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.5703,Malveillance,2818
+Foret,2022-02-03,2A,CRISTINACCE,0.0001,Reprise Incendie,2819
+Foret,2022-02-03,34,CLERMONT-L'HERAULT,1.3496,Travaux Agricoles,2820
+Foret,2022-02-04,2A,QUENZA,0.0001,Reprise Incendie,2822
+Foret,2022-02-04,4,BRUSQUET (LE),3.93,Travaux Industriels/Publics,2823
+Foret,2022-02-04,2A,QUENZA,0.0001,Reprise Incendie,2824
+Foret,2022-02-04,2A,SAN-GAVINO-DI-CARBINI,0.0001,Travaux (Particuliers),2825
+Foret,2022-02-05,66,CARAMANY,1.0,Travaux (Particuliers),2826
+Foret,2022-02-05,48,PONT-DE-MONTVERT (LE),1.0,Travaux (Particuliers),2828
+Foret,2022-02-06,48,VIALAS,0.01,Travaux Industriels/Publics,2834
+Foret,2022-02-06,2B,MONTEGROSSO,0.5,Malveillance,2835
+Foret,2022-02-06,83,DRAGUIGNAN,0.02,Travaux (Particuliers),2837
+Foret,2022-02-06,13,LAMBESC,0.01,Travaux (Particuliers),2838
+Foret,2022-02-07,13,NOVES,0.01,Travaux (Particuliers),2842
+Foret,2022-02-07,6,SERANON,0.07,Travaux Industriels/Publics,2843
+Foret,2022-02-07,5,BREZIERS,0.96,Travaux Agricoles,2844
+Foret,2022-02-07,4,VAUMEILH,1.02,Travaux Forestiers,2845
+Foret,2022-02-07,4,ROUMOULES,0.02,Jet D'Objets Incandescents,2847
+Foret,2022-02-08,4,FAUCON-DE-BARCELONNETTE,9.7,Travaux (Particuliers),2849
+Foret,2022-02-08,83,LORGUES,0.15,Jet D'Objets Incandescents,2850
+Foret,2022-02-08,34,SAINT-PRIVAT,2.0,Involontaire (particulier),2851
+Foret,2022-02-08,2A,FIGARI,0.001,Travaux Agricoles,2853
+Foret,2022-02-08,4,MANOSQUE,0.08,Loisirs (Particuliers),2857
+Foret,2022-02-08,6,GORBIO,0.015,Loisirs (Particuliers),2859
+Foret,2022-02-09,2A,SAN-GAVINO-DI-CARBINI,0.002,Travaux (Particuliers),2860
+Foret,2022-02-09,6,NICE,0.035,Involontaire (particulier),2861
+Foret,2022-02-09,30,MANDAGOUT,0.0036,Travaux (Particuliers),2862
+Foret,2022-02-09,4,SISTERON,6.23,Travaux (Particuliers),2864
+Foret,2022-02-09,5,BATIE-MONTSALEON (LA),0.019,Jet D'Objets Incandescents,2865
+Foret,2022-02-09,48,SAINT-LAURENT-DE-TREVES,3.0,Travaux Forestiers,2866
+Foret,2022-02-09,34,MONTAGNAC,0.3361,Malveillance,2869
+Foret,2022-02-10,6,LANTOSQUE,0.04,Travaux Agricoles,2870
+Foret,2022-02-10,4,CASTELLANE,28.94,Travaux (Particuliers),2873
+Foret,2022-02-10,5,LAZER,0.29,Travaux Agricoles,2874
+Foret,2022-02-10,5,SERRES,0.15,Involontaire (particulier),2875
+Foret,2022-02-10,13,SAINT-MARTIN-DE-CRAU,0.005,Travaux (Particuliers),2878
+Foret,2022-02-11,13,PEYPIN,0.01,Depot d'Ordures,2880
+Foret,2022-02-11,2B,CORSCIA,10.0,Malveillance,2881
+Foret,2022-02-12,48,SAINT-JULIEN-D'ARPAON,1.0,Autres,2885
+Foret,2022-02-12,83,CABASSE,0.02,Travaux Forestiers,2886
+Foret,2022-02-12,2B,FARINOLE,0.025,Accidentelle,2887
+Foret,2022-02-12,2B,SAN-GIOVANNI-DI-MORIANI,0.3,Malveillance,2888
+Foret,2022-02-12,48,CUBIERES,2.0,Travaux Forestiers,2889
+Foret,2022-02-12,13,CHATEAUNEUF-LE-ROUGE,0.0015,Jet D'Objets Incandescents,2890
+Foret,2022-02-12,2B,SISCO,0.03,Malveillance,2892
+Foret,2022-02-12,2B,SISCO,0.08,Malveillance,2893
+Foret,2022-02-12,2B,PIOGGIOLA,0.02,Malveillance,2894
+Foret,2022-02-13,2B,BIGORNO,0.01,Malveillance,2902
+Foret,2022-02-13,6,ROQUEBILLIERE,1.3,Interet,2903
+Foret,2022-02-13,13,TRETS,0.2,Travaux (Particuliers),2904
+Foret,2022-02-15,13,CABRIES,0.0005,Loisirs (Particuliers),2907
+Foret,2022-02-16,13,GREASQUE,0.0005,Malveillance,2908
+Foret,2022-02-18,7,SAINT-CLEMENT,6.0,Travaux (Particuliers),2911
+Foret,2022-02-18,83,AUPS,0.25,Travaux (Particuliers),2912
+Foret,2022-02-19,5,EOURRES,1.05,Loisirs (Particuliers),2914
+Foret,2022-02-19,34,MURVIEL-LES-BEZIERS,0.5423,Travaux Forestiers,2915
+Foret,2022-02-20,66,VINCA,0.25,Travaux (Particuliers),2916
+Foret,2022-02-20,6,LANTOSQUE,0.5,Interet,2917
+Foret,2022-02-20,6,CIPIERES,0.04,Interet,2918
+Foret,2022-02-21,66,CERET,0.765,Interet,2923
+Foret,2022-02-21,83,SAINT-RAPHAËL,1.0,Lignes Electriques,2924
+Foret,2022-02-21,2B,SANT'ANDREA-DI-BOZIO,3.0,Malveillance,2925
+Foret,2022-02-21,7,JAUJAC,0.1,Lignes Electriques,2926
+Foret,2022-02-22,34,VILLEVEYRAC,1.0895,Travaux Forestiers,2928
+Foret,2022-02-22,4,CASTELLET-LES-SAUSSES,3.69,Jet D'Objets Incandescents,2930
+Foret,2022-02-23,2B,PIOGGIOLA,0.2,Malveillance,2931
+Foret,2022-02-23,13,VELAUX,0.2,Travaux (Particuliers),2933
+Foret,2022-02-23,2B,CASTELLO-DI-ROSTINO,0.7,Conflit,2934
+Foret,2022-02-23,2B,CASTELLO-DI-ROSTINO,0.7,Conflit,2935
+Foret,2022-02-23,6,LANTOSQUE,0.25,Interet,2936
+Foret,2022-02-23,2A,CALCATOGGIO,0.1,Interet,2937
+Foret,2022-02-23,66,AYGUATEBIA-TALAU,0.03,Travaux (Particuliers),2939
+Foret,2022-02-23,2A,CASAGLIONE,0.005,Lignes Electriques,2940
+Foret,2022-02-23,7,CHAZEAUX,0.5,Travaux Agricoles,2941
+Foret,2022-02-23,6,CONTES,0.05,Travaux (Particuliers),2942
+Foret,2022-02-23,66,BAHO,1.0,Malveillance,2943
+Foret,2022-02-24,2B,PIOGGIOLA,10.0,Malveillance,2947
+Foret,2022-02-24,2A,TAVERA,0.005,Malveillance,2950
+Foret,2022-02-24,2A,AULLENE,38.77,Interet,2951
+Foret,2022-02-25,13,ROQUE-D'ANTHERON (LA),1.0,Travaux Agricoles,2952
+Foret,2022-02-25,2B,OGLIASTRO,0.02,Malveillance,2953
+Foret,2022-02-25,5,AIGUILLES,0.65,Loisirs (Particuliers),2955
+Foret,2022-02-25,7,PAYZAC,0.5,Jet D'Objets Incandescents,2957
+Foret,2022-02-25,13,EYGUIERES,0.003,Travaux Agricoles,2958
+Foret,2022-02-25,34,SAINT-JEAN-DE-LA-BLAQUIERE,2.8877,Malveillance,2959
+Foret,2022-02-25,34,SAINT-JEAN-DE-LA-BLAQUIERE,4.1039,Malveillance,2960
+Foret,2022-02-25,83,ROQUEBRUNE-SUR-ARGENS,0.002,Jet D'Objets Incandescents,2961
+Foret,2022-02-25,83,SALERNES,0.05,Travaux (Particuliers),2964
+Foret,2022-02-26,2B,SPELONCATO,8.0,Conflit,2966
+Foret,2022-02-26,13,VENTABREN,0.006,Travaux Agricoles,2967
+Foret,2022-02-26,13,PARADOU,0.1,Travaux Agricoles,2968
+Foret,2022-02-26,13,VAUVENARGUES,0.0005,Jet D'Objets Incandescents,2969
+Foret,2022-02-26,48,SAINT-SAUVEUR-DE-PEYRE,0.04,Travaux Forestiers,2970
+Foret,2022-02-26,6,ROURET (LE),0.1,Travaux (Particuliers),2971
+Foret,2022-02-26,13,VITROLLES,0.02,Travaux Agricoles,2972
+Foret,2022-02-26,6,VALDEBLORE,7.0,Travaux (Particuliers),2974
+Foret,2022-02-26,2B,LORETO-DI-CASINCA,25.0,Malveillance,2975
+Foret,2022-02-26,34,SAINT-JEAN-DE-LA-BLAQUIERE,2.1073,Malveillance,2976
+Foret,2022-02-26,7,SAINT-ETIENNE-DE-SERRE,3.0,Travaux Agricoles,2977
+Foret,2022-02-26,5,SALLE-LES-ALPES (LA),0.1,Malveillance,2978
+Foret,2022-02-26,7,ROUX (LE),25.0,Travaux (Particuliers),2979
+Foret,2022-02-26,2A,ZONZA,0.0001,Travaux (Particuliers),2980
+Foret,2022-02-26,13,TRETS,0.01,Travaux Agricoles,2981
+Foret,2022-02-27,34,AUMELAS,2.15,Conflit,2982
+Foret,2022-02-27,5,EMBRUN,0.63,Travaux Agricoles,2983
+Foret,2022-02-27,5,BRUIS,0.3091,Travaux (Particuliers),2984
+Foret,2022-02-27,48,RIEUTORT-DE-RANDON,2.2,Travaux Industriels/Publics,2986
+Foret,2022-02-28,48,SAINT-PRIVAT-DE-VALLONGUE,1.0,Travaux Forestiers,2989
+Foret,2022-02-28,6,COURSEGOULES,0.5,Interet,2992
+Foret,2022-02-28,13,ROGNES,0.01,Travaux (Particuliers),2994
+Foret,2022-03-01,6,SAINT-SAUVEUR-SUR-TINEE,0.004,Malveillance,2995
+Foret,2022-03-01,48,SAINT-DENIS-EN-MARGERIDE,6.0,Travaux Industriels/Publics,2996
+Foret,2022-03-01,48,MONTBEL,2.0,Travaux Industriels/Publics,2997
+Foret,2022-03-01,13,MOURIES,0.002,Travaux (Particuliers),3001
+Foret,2022-03-01,6,COURSEGOULES,0.02,Malveillance,3002
+Foret,2022-03-02,4,MANOSQUE,0.005,Travaux (Particuliers),3004
+Foret,2022-03-04,5,GUILLESTRE,0.3724,Travaux Agricoles,3013
+Foret,2022-03-04,34,CEBAZAN,0.4571,Malveillance,3014
+Foret,2022-03-04,4,MALLEMOISSON,0.24,Jet D'Objets Incandescents,3016
+Foret,2022-03-04,13,PUY-SAINTE-REPARADE (LE),0.005,Travaux (Particuliers),3017
+Foret,2022-03-04,13,MIMET,0.02,Travaux (Particuliers),3018
+Foret,2022-03-05,7,MARIAC,4.5,Travaux (Particuliers),3021
+Foret,2022-03-06,48,BANASSAC,2.0,Travaux Industriels/Publics,3027
+Foret,2022-03-06,48,CHIRAC,5.0,Travaux Industriels/Publics,3029
+Foret,2022-03-07,34,THEZAN-LES-BEZIERS,0.0706,Malveillance,3030
+Foret,2022-03-07,4,SIMIANE-LA-ROTONDE,0.79,Jet D'Objets Incandescents,3031
+Foret,2022-03-07,5,EMBRUN,0.09,Jet D'Objets Incandescents,3033
+Foret,2022-03-07,48,MARVEJOLS,1.0,Travaux Agricoles,3035
+Foret,2022-03-07,48,MALZIEU-VILLE (LE),1.0,Travaux Industriels/Publics,3038
+Foret,2022-03-07,83,SALERNES,0.07,Travaux Forestiers,3039
+Foret,2022-03-07,48,CHASSERADES,6.0,Travaux (Particuliers),3040
+Foret,2022-03-08,13,LANCON-PROVENCE,0.2,Travaux (Particuliers),3044
+Foret,2022-03-08,13,ISTRES,0.2,Malveillance,3046
+Foret,2022-03-09,13,ISTRES,0.02,Travaux (Particuliers),3050
+Foret,2022-03-09,83,FLAYOSC,0.15,Travaux Agricoles,3051
+Foret,2022-03-09,2A,AJACCIO,3.8,Interet,3052
+Foret,2022-03-09,2A,TAVERA,0.0015,Travaux Agricoles,3054
+Foret,2022-03-10,2A,BOCOGNANO,0.055,Depot d'Ordures,3056
+Foret,2022-03-10,5,FREISSINIERES,0.3,Jet D'Objets Incandescents,3058
+Foret,2022-03-11,83,LORGUES,0.05,Travaux (Particuliers),3062
+Foret,2022-03-11,2A,AJACCIO,0.28,Interet,3063
+Foret,2022-03-12,4,HOSPITALET (L'),0.9,Travaux Industriels/Publics,3064
+Foret,2022-03-12,4,REVEST-DES-BROUSSES,1.18,Jet D'Objets Incandescents,3066
+Foret,2022-03-12,2A,BASTELICA,0.0825,Malveillance,3068
+Foret,2022-03-12,2A,ALATA,0.003,Travaux Forestiers,3069
+Foret,2022-03-12,4,ONGLES,0.07,Jet D'Objets Incandescents,3070
+Foret,2022-03-12,4,MURE-ARGENS (LA),1.82,Lignes Electriques,3071
+Foret,2022-03-14,13,ROGNES,0.01,Travaux (Particuliers),3077
+Foret,2022-03-14,2A,APPIETTO,0.0001,Travaux Forestiers,3078
+Foret,2022-03-16,4,DIGNE-LES-BAINS,0.43,Pyromanie,3081
+Foret,2022-03-17,2A,LORETO-DI-TALLANO,0.003,Travaux (Particuliers),3083
+Foret,2022-03-19,13,PUY-SAINTE-REPARADE (LE),0.2,Travaux (Particuliers),3087
+Foret,2022-03-21,6,RIMPLAS,0.5,Travaux (Particuliers),3090
+Foret,2022-03-21,13,ROGNES,0.01,Travaux (Particuliers),3092
+Foret,2022-03-22,2A,UCCIANI,0.78,Travaux Forestiers,3093
+Foret,2022-03-22,83,POURRIERES,0.04,Jet D'Objets Incandescents,3094
+Foret,2022-03-22,83,AUPS,1.15,Loisirs (Particuliers),3095
+Foret,2022-03-22,5,ROCHE-DE-RAME (LA),0.1,Travaux Forestiers,3096
+Foret,2022-03-22,13,CASSIS,0.562,Malveillance,3099
+Foret,2022-03-22,7,BURZET,2.0,Travaux Agricoles,3100
+Foret,2022-03-23,13,ROGNES,0.45,Jet D'Objets Incandescents,3101
+Foret,2022-03-23,13,PENNES-MIRABEAU (LES),0.2,Malveillance,3103
+Foret,2022-03-23,83,SALERNES,0.3,Travaux Industriels/Publics,3104
+Foret,2022-03-24,13,PARADOU,0.0005,Travaux (Particuliers),3105
+Foret,2022-03-24,6,SIGALE,2.9,Travaux (Particuliers),3107
+Foret,2022-03-24,6,VALDEBLORE,39.64,Travaux Forestiers,3108
+Foret,2022-03-24,5,ANCELLE,33.9545,Pyromanie,3109
+Foret,2022-03-24,13,MARTIGUES,0.1,Travaux (Particuliers),3110
+Foret,2022-03-24,5,SAINT-JULIEN-EN-CHAMPSAUR,3.57,Malveillance,3112
+Foret,2022-03-24,48,VIGNES (LES),4.0,Travaux (Particuliers),3113
+Foret,2022-03-24,83,TAVERNES,0.03,Travaux Forestiers,3114
+Foret,2022-03-24,84,TOUR-D'AIGUES (LA),0.35,Reprise Incendie,3115
+Foret,2022-03-24,83,BARGEMON,2.0,Travaux Forestiers,3117
+Foret,2022-03-24,5,CHAUFFAYER,0.011,Pyromanie,3121
+Foret,2022-03-24,5,SAINT-EUSEBE-EN-CHAMPSAUR,3.8008,Malveillance,3122
+Foret,2022-03-24,48,GRANDRIEU,1.0,Travaux Agricoles,3126
+Foret,2022-03-24,6,ROQUEBILLIERE,0.5,Autres Installations,3127
+Foret,2022-03-24,34,SAINT-NAZAIRE-DE-LADAREZ,6.3576,Interet,3131
+Foret,2022-03-24,13,PEYNIER,0.0005,Travaux (Particuliers),3132
+Foret,2022-03-24,48,SERVIERES,2.0,Travaux Agricoles,3134
+Foret,2022-03-25,83,DRAGUIGNAN,0.03,Lignes Electriques,3138
+Foret,2022-03-25,7,CHEYLARD (LE),1.5,Travaux Agricoles,3141
+Foret,2022-03-25,48,JAVOLS,0.8,Travaux Industriels/Publics,3143
+Foret,2022-03-25,7,ANNONAY,1.5,Travaux Agricoles,3145
+Foret,2022-03-25,83,VARAGES,0.1,Travaux (Particuliers),3146
+Foret,2022-03-25,48,VILLEDIEU (LA),0.5,Travaux Forestiers,3147
+Foret,2022-03-25,5,NOYER (LE),0.024,Malveillance,3148
+Foret,2022-03-25,7,ROCHESSAUVE,0.5,Travaux Agricoles,3149
+Foret,2022-03-25,2A,FORCIOLO,7.3,Travaux Agricoles,3151
+Foret,2022-03-25,5,ROCHETTE (LA),0.0208,Malveillance,3152
+Foret,2022-03-26,48,GRANDRIEU,0.3,Travaux Forestiers,3156
+Foret,2022-03-26,5,MOTTE-EN-CHAMPSAUR (LA),44.6427,Pyromanie,3159
+Foret,2022-03-26,4,BARCELONNETTE,41.75,Jet D'Objets Incandescents,3160
+Foret,2022-03-26,13,AUBAGNE,12.0,Jet D'Objets Incandescents,3161
+Foret,2022-03-26,2B,CASTIFAO,0.008,Malveillance,3164
+Foret,2022-03-26,2A,AULLENE,0.5,Malveillance,3165
+Foret,2022-03-26,83,SAINT-ANTONIN-DU-VAR,0.07,Travaux (Particuliers),3170
+Foret,2022-03-27,6,UTELLE,1.8,Interet,3174
+Foret,2022-03-27,13,FUVEAU,0.001,Travaux (Particuliers),3176
+Foret,2022-03-27,5,LAYE,0.0035,Malveillance,3177
+Foret,2022-03-27,5,CROTS,0.873,Loisirs (Particuliers),3178
+Foret,2022-03-27,83,SEILLANS,177.17,Autres Installations,3179
+Foret,2022-03-27,48,SAINT-PIERRE-DE-NOGARET,1.5,Travaux Industriels/Publics,3184
+Foret,2022-03-27,2A,TAVERA,3.5,Malveillance,3186
+Foret,2022-03-28,13,PENNES-MIRABEAU (LES),0.05,Conflit,3188
+Foret,2022-03-28,2A,ZICAVO,197.52,Travaux Agricoles,3191
+Foret,2022-03-28,83,ENTRECASTEAUX,3.01,Travaux (Particuliers),3192
+Foret,2022-03-28,83,MAYONS (LES),2.5,Travaux (Particuliers),3196
+Foret,2022-03-28,4,MONTCLAR,0.01,Jet D'Objets Incandescents,3199
+Foret,2022-03-28,13,GRANS,0.005,Travaux (Particuliers),3201
+Foret,2022-03-29,6,DRAP,0.05,Loisirs (Particuliers),3206
+Foret,2022-03-29,6,SAORGE,0.55,Loisirs (Particuliers),3207
+Foret,2022-03-29,4,SIGONCE,0.19,Jet D'Objets Incandescents,3208
+Foret,2022-03-31,13,AIX-EN-PROVENCE,0.05,Travaux (Particuliers),3211
+Foret,2022-04-01,13,ALLEINS,0.001,Travaux (Particuliers),3212
+Foret,2022-04-01,13,GRANS,0.04,Travaux (Particuliers),3215
+Foret,2022-04-03,13,AIX-EN-PROVENCE,0.3,Depot d'Ordures,3218
+Foret,2022-04-03,13,AIX-EN-PROVENCE,0.06,Travaux (Particuliers),3220
+Foret,2022-04-04,30,FONTANES,0.2799,Accidentelle,3221
+Foret,2022-04-04,7,SAINT-BARTHELEMY-LE-MEIL,1.5,Travaux Agricoles,3222
+Foret,2022-04-04,13,GEMENOS,0.015,Travaux (Particuliers),3224
+Foret,2022-04-04,66,CASTELNOU,0.06,Travaux (Particuliers),3225
+Foret,2022-04-05,13,MARTIGUES,0.003,Travaux (Particuliers),3228
+Foret,2022-04-05,13,GRANS,0.01,Travaux (Particuliers),3230
+Foret,2022-04-05,30,MONTFRIN,0.435,Travaux Forestiers,3231
+Foret,2022-04-06,13,AUBAGNE,0.001,Jet D'Objets Incandescents,3233
+Foret,2022-04-08,2B,SPELONCATO,120.0,Interet,3240
+Foret,2022-04-08,4,ROCHETTE (LA),86.71,Pyromanie,3241
+Foret,2022-04-09,83,FIGANIERES,1.0,Lignes Electriques,3244
+Foret,2022-04-09,83,COMPS-SUR-ARTUBY,27.3,Travaux (Particuliers),3245
+Foret,2022-04-09,2A,CONCA,0.3,Malveillance,3246
+Foret,2022-04-10,13,FUVEAU,0.11,Malveillance,3251
+Foret,2022-04-10,83,PONTEVES,0.06,Jet D'Objets Incandescents,3252
+Foret,2022-04-10,7,MALARCE-SUR-LA-THINES,4.0,Travaux (Particuliers),3253
+Foret,2022-04-10,6,COLOMARS,0.04,Travaux (Particuliers),3254
+Foret,2022-04-11,66,RABOUILLET,3.06,Travaux Agricoles,3257
+Foret,2022-04-11,83,TOURVES,0.1,Jet D'Objets Incandescents,3258
+Foret,2022-04-12,83,CRAU (LA),0.005,Travaux Industriels/Publics,3259
+Foret,2022-04-12,2B,CAGNANO,40.0,Malveillance,3260
+Foret,2022-04-12,7,SAINT-PIERREVILLE,0.2,Travaux Agricoles,3263
+Foret,2022-04-12,4,SAINT-LIONS,0.015,Jet D'Objets Incandescents,3264
+Foret,2022-04-12,13,LAMBESC,0.004,Travaux (Particuliers),3266
+Foret,2022-04-14,13,VELAUX,0.15,Travaux (Particuliers),3272
+Foret,2022-04-14,83,FLAYOSC,0.05,Travaux (Particuliers),3273
+Foret,2022-04-14,13,ROQUEVAIRE,0.02,Travaux (Particuliers),3274
+Foret,2022-04-14,30,SUMENE,19.0184,Accidentelle,3275
+Foret,2022-04-15,4,VILLENEUVE,0.67,Travaux Agricoles,3280
+Foret,2022-04-15,13,SEPTEMES-LES-VALLONS,0.08,Loisirs (Particuliers),3282
+Foret,2022-04-16,7,BANNE,0.7,Travaux (Particuliers),3283
+Foret,2022-04-17,30,SAINT-LAURENT-DES-ARBRES,0.035,Accidentelle,3293
+Foret,2022-04-17,83,VARAGES,2.0,Travaux (Particuliers),3296
+Foret,2022-04-18,4,BANON,5.97,Loisirs (Particuliers),3304
+Foret,2022-04-28,66,PASSA,0.05,Travaux Agricoles,3322
+Foret,2022-04-30,83,CUERS,0.2,Malveillance,3327
+Foret,2022-05-01,66,ESTAGEL,0.06,Malveillance,3332
+Foret,2022-05-01,13,PUY-SAINTE-REPARADE (LE),0.1,Travaux Industriels/Publics,3333
+Foret,2022-05-02,13,ROQUEVAIRE,0.002,Vehicules,3335
+Foret,2022-05-02,4,MOUSTIERS-SAINTE-MARIE,0.15,Foudre,3336
+Foret,2022-05-07,34,PUECHABON,1.7293,Travaux (Particuliers),3343
+Foret,2022-05-07,30,PLANTIERS (LES),0.305,Accidentelle,3344
+Foret,2022-05-08,7,VALS-LES-BAINS,0.4,Travaux (Particuliers),3345
+Foret,2022-05-10,6,LANTOSQUE,0.1,Interet,3346
+Foret,2022-05-10,13,ENSUES-LA-REDONNE,0.015,Jet D'Objets Incandescents,3348
+Foret,2022-05-11,5,CHANOUSSE,0.0025,Vehicules,3352
+Foret,2022-05-12,13,AIX-EN-PROVENCE,1.44,Vehicules,3353
+Foret,2022-05-14,13,MARTIGUES,0.003,Jet D'Objets Incandescents,3356
+Foret,2022-05-15,13,SALON-DE-PROVENCE,0.0005,Travaux Industriels/Publics,3357
+Foret,2022-05-15,34,PIGNAN,0.25,Malveillance,3360
+Foret,2022-05-15,66,TAUTAVEL,0.03,Accidentelle,3361
+Foret,2022-05-16,13,ISTRES,4.0,Chemin De Fer,3363
+Foret,2022-05-17,13,MARTIGUES,0.005,Malveillance,3366
+Foret,2022-05-17,34,SAINT-PARGOIRE,0.3751,Malveillance,3367
+Foret,2022-05-17,83,COLLOBRIERES,0.1,Travaux Forestiers,3368
+Foret,2022-05-18,66,OPOUL-PERILLOS,8.0,Involontaire (travaux),3370
+Foret,2022-05-19,13,AIX-EN-PROVENCE,0.005,Malveillance,3373
+Foret,2022-05-19,13,TRETS,0.035,Malveillance,3374
+Foret,2022-05-20,13,PEYNIER,0.015,Malveillance,3380
+Foret,2022-05-20,7,LAURAC-EN-VIVARAIS,28.55,Autres imprudences,3382
+Foret,2022-05-21,66,BASTIDE (LA),0.2,Travaux (Particuliers),3388
+Foret,2022-05-21,13,ROQUEVAIRE,0.005,Travaux (Particuliers),3389
+Foret,2022-05-21,83,LORGUES,0.04,Malveillance,3390
+Foret,2022-05-22,13,TRETS,0.0005,Loisirs (Particuliers),3392
+Foret,2022-05-23,13,PENNES-MIRABEAU (LES),2.0,Travaux (Particuliers),3395
+Foret,2022-05-23,83,FREJUS,0.2,Malveillance,3396
+Foret,2022-05-24,66,TAUTAVEL,0.032,Malveillance,3397
+Foret,2022-05-24,4,SISTERON,0.05,Malveillance,3399
+Foret,2022-05-26,66,TAUTAVEL,0.1266,Malveillance,3403
+Foret,2022-05-26,30,SAINT-ANDRE-DE-MAJENCOULES,3.442,Conflit,3404
+Foret,2022-05-26,34,SAINT-PRIVAT,0.1983,Malveillance,3406
+Foret,2022-05-28,6,TOURRETTE-LEVENS,0.04,Loisirs (Particuliers),3411
+Foret,2022-05-28,13,ROVE (LE),0.0005,Travaux Forestiers,3412
+Foret,2022-05-28,13,ROGNAC,0.1,Depot d'Ordures,3414
+Foret,2022-05-28,7,UCEL,0.03,Malveillance,3415
+Foret,2022-05-28,34,PIGNAN,0.02,Malveillance,3417
+Foret,2022-05-29,66,MILLAS,0.46,Malveillance,3418
+Foret,2022-05-29,30,MILHAUD,0.7477,Jet D'Objets Incandescents,3420
+Foret,2022-05-29,13,PENNES-MIRABEAU (LES),0.05,Travaux (Particuliers),3421
+Foret,2022-05-29,83,LORGUES,0.0002,Reprise Incendie,3427
+Foret,2022-05-29,66,SAINTE-MARIE,2.0,Jet D'Objets Incandescents,3429
+Foret,2022-05-30,5,POËT (LE),0.1,Travaux (Particuliers),3432
+Foret,2022-05-31,13,AURIOL,0.03,Vehicules,3434
+Foret,2022-06-01,13,JOUQUES,0.3,Travaux Industriels/Publics,3436
+Foret,2022-06-01,13,TRETS,0.16,Travaux Agricoles,3438
+Foret,2022-06-03,34,CRUZY,0.05,Malveillance,3439
+Foret,2022-06-04,13,ENSUES-LA-REDONNE,0.0007,Loisirs (Particuliers),3443
+Foret,2022-06-05,13,EGUILLES,0.001,Lignes Electriques,3445
+Foret,2022-06-05,13,MEYRARGUES,0.004,Lignes Electriques,3446
+Foret,2022-06-05,66,ESTAGEL,0.04,Malveillance,3447
+Foret,2022-06-06,2B,PATRIMONIO,2.0,Malveillance,3448
+Foret,2022-06-06,4,ONGLES,0.46,Malveillance,3449
+Foret,2022-06-06,48,POMPIDOU (LE),1.5,Travaux Agricoles,3450
+Foret,2022-06-06,34,CELLES,1.25,Malveillance,3451
+Foret,2022-06-06,30,CAMPESTRE-ET-LUC,0.2179,Accidentelle,3452
+Foret,2022-06-07,13,PENNES-MIRABEAU (LES),0.3,Travaux Industriels/Publics,3454
+Foret,2022-06-07,13,LANCON-PROVENCE,0.03,Travaux Industriels/Publics,3455
+Foret,2022-06-07,2B,SANTO-PIETRO-DI-TENDA,35.0,Involontaire (travaux),3456
+Foret,2022-06-08,13,SEPTEMES-LES-VALLONS,0.002,Travaux (Particuliers),3457
+Foret,2022-06-08,13,SAINT-MITRE-LES-REMPARTS,0.002,Malveillance,3458
+Foret,2022-06-08,13,SAINT-MITRE-LES-REMPARTS,0.002,Malveillance,3459
+Foret,2022-06-08,2B,VIVARIO,26.16,Malveillance,3460
+Foret,2022-06-09,13,MARTIGUES,0.35,Lignes Electriques,3461
+Foret,2022-06-09,13,PENNES-MIRABEAU (LES),0.04,Lignes Electriques,3462
+Foret,2022-06-09,13,LANCON-PROVENCE,0.5,Malveillance,3465
+Foret,2022-06-09,13,ROQUEFORT-LA-BEDOULE,0.0007,Travaux Industriels/Publics,3466
+Foret,2022-06-09,13,CUGES-LES-PINS,0.0002,Jet D'Objets Incandescents,3467
+Foret,2022-06-09,13,VITROLLES,7.0,Malveillance,3469
+Foret,2022-06-09,13,CABRIES,0.002,Lignes Electriques,3470
+Foret,2022-06-09,13,GRANS,5.0,Jet D'Objets Incandescents,3471
+Foret,2022-06-09,13,VITROLLES,0.0004,Travaux Agricoles,3472
+Foret,2022-06-09,13,CEYRESTE,0.01,Jet D'Objets Incandescents,3477
+Foret,2022-06-09,13,AIX-EN-PROVENCE,1.0,Jet D'Objets Incandescents,3478
+Foret,2022-06-09,30,SERVIERS-ET-LABAUME,1.57,Malveillance,3479
+Foret,2022-06-09,13,ROGNAC,0.3,Malveillance,3480
+Foret,2022-06-10,13,MARTIGUES,0.35,Lignes Electriques,3481
+Foret,2022-06-10,13,PENNES-MIRABEAU (LES),0.04,Malveillance,3482
+Foret,2022-06-10,34,FONTES,0.05,Malveillance,3484
+Foret,2022-06-10,13,ROVE (LE),0.05,Jet D'Objets Incandescents,3486
+Foret,2022-06-10,13,CABRIES,0.03,Jet D'Objets Incandescents,3488
+Foret,2022-06-10,66,CERET,0.01,Vehicules,3489
+Foret,2022-06-11,30,SERVIERS-ET-LABAUME,0.73,Reprise Incendie,3490
+Foret,2022-06-11,6,SPERACEDES,4.72,Travaux Forestiers,3492
+Foret,2022-06-11,83,SEILLANS,15.0,Reprise Incendie,3493
+Foret,2022-06-11,13,AURIOL,0.01,Jet D'Objets Incandescents,3496
+Foret,2022-06-11,34,VIEUSSAN,0.06,Conflit,3497
+Foret,2022-06-11,30,CONQUEYRAC,0.3193,Accidentelle,3498
+Foret,2022-06-11,13,ISTRES,0.01,Malveillance,3499
+Foret,2022-06-12,6,COURSEGOULES,1.2,Interet,3501
+Foret,2022-06-12,66,ESPIRA-DE-CONFLENT,0.15,Malveillance,3504
+Foret,2022-06-12,66,BAIXAS,29.38,Malveillance,3505
+Foret,2022-06-12,13,LANCON-PROVENCE,2.7,Travaux (Particuliers),3509
+Foret,2022-06-12,13,TRETS,0.05,Travaux Agricoles,3510
+Foret,2022-06-12,66,VILLELONGUE-DELS-MONTS,0.5,Malveillance,3512
+Foret,2022-06-12,13,AIX-EN-PROVENCE,0.01,Depot d'Ordures,3514
+Foret,2022-06-13,13,ROUSSET,0.015,Jet D'Objets Incandescents,3516
+Foret,2022-06-13,2B,LINGUIZZETTA,73.0,Jet D'Objets Incandescents,3518
+Foret,2022-06-13,30,LEDENON,37.68,Lignes Electriques,3520
+Foret,2022-06-13,30,BLAUZAC,17.97,Jet D'Objets Incandescents,3522
+Foret,2022-06-13,30,SERVIERS-ET-LABAUME,77.24,Reprise Incendie,3523
+Foret,2022-06-13,4,AUBENAS-LES-ALPES,0.002,Lignes Electriques,3524
+Foret,2022-06-13,13,LANCON-PROVENCE,1.0,Travaux Agricoles,3525
+Foret,2022-06-13,4,VALENSOLE,0.015,Vehicules,3527
+Foret,2022-06-14,13,LANCON-PROVENCE,0.0005,Malveillance,3537
+Foret,2022-06-15,66,MONTAURIOL,0.3,Foudre,3538
+Foret,2022-06-15,66,THUIR,0.026,Foudre,3539
+Foret,2022-06-15,13,ORGON,9.99,Jet D'Objets Incandescents,3541
+Foret,2022-06-15,66,MONTAURIOL,3.1,Reprise Incendie,3542
+Foret,2022-06-15,34,BOUSQUET-D'ORB (LE),0.1,Malveillance,3544
+Foret,2022-06-16,13,PUYLOUBIER,0.01,Travaux Agricoles,3548
+Foret,2022-06-16,13,EGUILLES,4.0,Travaux Agricoles,3549
+Foret,2022-06-16,34,FRONTIGNAN,0.01,Jet D'Objets Incandescents,3552
+Foret,2022-06-16,5,CROTS,0.08,Jet D'Objets Incandescents,3554
+Foret,2022-06-16,13,ROGNAC,0.002,Jet D'Objets Incandescents,3555
+Foret,2022-06-17,13,ROVE (LE),0.03,Vehicules,3556
+Foret,2022-06-17,13,GRANS,0.03,Lignes Electriques,3560
+Foret,2022-06-17,34,GUZARGUES,32.9248,Vehicules,3564
+Foret,2022-06-17,4,RIEZ,0.25,Lignes Electriques,3566
+Foret,2022-06-17,34,SAINT-JEAN-DE-LA-BLAQUIERE,14.6953,Malveillance,3567
+Foret,2022-06-18,83,AIGUINES,2500.0,Travaux Industriels/Publics,3568
+Foret,2022-06-18,83,HYERES,0.7,Malveillance,3570
+Foret,2022-06-18,13,ORGON,2.0,Travaux Agricoles,3571
+Foret,2022-06-18,83,CANNET-DES-MAURES (LE),0.0085,Malveillance,3574
+Foret,2022-06-19,7,SAINT-JULIEN-DU-SERRE,0.006,Lignes Electriques,3578
+Foret,2022-06-19,48,SAINT-BONNET-DE-CHIRAC,3.0,Lignes Electriques,3581
+Foret,2022-06-19,13,ROVE (LE),0.001,Vehicules,3584
+Foret,2022-06-20,83,VIDAUBAN,0.01,Vehicules,3585
+Foret,2022-06-20,7,CHEYLARD (LE),4.0,Travaux (Particuliers),3586
+Foret,2022-06-20,13,MARTIGUES,0.0005,Depot d'Ordures,3591
+Foret,2022-06-20,48,JAVOLS,1.5,Travaux Agricoles,3592
+Foret,2022-06-20,13,AIX-EN-PROVENCE,0.001,Malveillance,3600
+Foret,2022-06-21,2B,GHISONACCIA,15.0,Travaux Agricoles,3602
+Foret,2022-06-22,13,SALON-DE-PROVENCE,0.15,Jet D'Objets Incandescents,3605
+Foret,2022-06-23,2B,VENACO,5.0,Conflit,3606
+Foret,2022-06-23,66,LAROQUE-DES-ALBERES,10.0,Malveillance,3607
+Foret,2022-06-23,2B,OLETTA,3.0,Malveillance,3608
+Foret,2022-06-23,5,CHAUFFAYER,0.0003,Foudre,3612
+Foret,2022-06-23,13,GREASQUE,0.0002,Jet D'Objets Incandescents,3613
+Foret,2022-06-24,13,AURONS,0.003,Foudre,3615
+Foret,2022-06-24,2B,ALERIA,30.0,Travaux Industriels/Publics,3617
+Foret,2022-06-24,6,CONTES,0.1,Foudre,3618
+Foret,2022-06-24,6,SAINT-BLAISE,0.002,Foudre,3619
+Foret,2022-06-25,6,MANDELIEU-LA-NAPOULE,0.01,Vehicules,3621
+Foret,2022-06-25,66,PRATS-DE-MOLLO-LA-PRESTE,0.05,Foudre,3623
+Foret,2022-06-25,2B,GHISONACCIA,0.005,Interet,3624
+Foret,2022-06-25,2A,PORTO-VECCHIO,0.015,Depot d'Ordures,3625
+Foret,2022-06-26,5,CHATEAUROUX-LES-ALPES,3.5,Foudre,3628
+Foret,2022-06-27,66,PLANES,0.01,Foudre,3631
+Foret,2022-06-27,13,FUVEAU,0.001,Lignes Electriques,3632
+Foret,2022-06-27,13,LANCON-PROVENCE,0.01,Travaux Industriels/Publics,3633
+Foret,2022-06-27,6,SAINT-JEANNET,0.5,Vehicules,3634
+Foret,2022-06-27,13,LANCON-PROVENCE,0.01,Travaux Agricoles,3635
+Foret,2022-06-27,4,ALLEMAGNE-EN-PROVENCE,0.54,Lignes Electriques,3636
+Foret,2022-06-28,13,AIX-EN-PROVENCE,0.02,Jet D'Objets Incandescents,3637
+Foret,2022-06-28,66,OPOUL-PERILLOS,941.93,Malveillance,3638
+Foret,2022-06-28,66,RIVESALTES,5.5,Malveillance,3639
+Foret,2022-06-28,66,SAINT-FELIU-D'AVALL,1.88,Malveillance,3642
+Foret,2022-06-28,2A,SOLLACARO,0.005,Involontaire (particulier),3643
+Foret,2022-06-28,66,CASES-DE-PENE,6.63,Malveillance,3644
+Foret,2022-06-28,13,VITROLLES,0.04,Lignes Electriques,3645
+Foret,2022-06-28,13,ROQUEVAIRE,0.015,Lignes Electriques,3646
+Foret,2022-06-29,6,TOUR (LA),0.0015,Foudre,3647
+Foret,2022-06-29,13,NOVES,0.2,Travaux (Particuliers),3648
+Foret,2022-06-29,66,MILLAS,66.15,Malveillance,3649
+Foret,2022-06-29,30,SAINT-MARTIN-DE-VALGALGUES,0.0036,Vehicules,3650
+Foret,2022-06-29,4,SAINT-GENIEZ,0.46,Foudre,3652
+Foret,2022-06-29,83,COTIGNAC,0.031,Foudre,3653
+Foret,2022-06-30,13,CHARLEVAL,0.25,Vehicules,3654
+Foret,2022-07-01,13,CHATEAUNEUF-LES-MARTIGUES,0.005,Malveillance,3655
+Foret,2022-07-01,13,PEYPIN,0.01,Loisirs (Particuliers),3656
+Foret,2022-07-01,66,PERPIGNAN,1.0,Travaux Industriels/Publics,3657
+Foret,2022-07-01,34,SAUSSAN,12.1971,Malveillance,3660
+Foret,2022-07-01,13,CHATEAUNEUF-LES-MARTIGUES,0.01,Malveillance,3662
+Foret,2022-07-02,13,FUVEAU,0.01,Lignes Electriques,3663
+Foret,2022-07-02,7,SAINT-VICTOR,1.0,Foudre,3664
+Foret,2022-07-02,4,BANON,1.0052,Travaux Forestiers,3666
+Foret,2022-07-02,83,BARJOLS,1.285,Lignes Electriques,3667
+Foret,2022-07-03,13,ALLAUCH,0.3,Jet D'Objets Incandescents,3669
+Foret,2022-07-03,2A,CONCA,0.025,Malveillance,3672
+Foret,2022-07-03,34,MAUGUIO,0.4167,Malveillance,3673
+Foret,2022-07-03,13,VELAUX,9.54,Jet D'Objets Incandescents,3674
+Foret,2022-07-03,5,POLIGNY,0.03,Foudre,3676
+Foret,2022-07-04,34,TOURBES,1.9131,Malveillance,3678
+Foret,2022-07-04,34,RIOLS,0.0841,Jet D'Objets Incandescents,3679
+Foret,2022-07-04,13,PEYPIN,0.005,Travaux (Particuliers),3680
+Foret,2022-07-04,13,ORGON,0.03,Travaux Agricoles,3681
+Foret,2022-07-04,66,BOULOU (LE),0.0125,Malveillance,3683
+Foret,2022-07-05,13,GREASQUE,0.001,Travaux (Particuliers),3684
+Foret,2022-07-05,13,LANCON-PROVENCE,0.005,Travaux Industriels/Publics,3685
+Foret,2022-07-05,2A,SOTTA,0.17,Lignes Electriques,3686
+Foret,2022-07-05,13,MARTIGUES,0.05,Malveillance,3688
+Foret,2022-07-05,13,PENNES-MIRABEAU (LES),0.8,Jet D'Objets Incandescents,3689
+Foret,2022-07-05,13,SAINT-MITRE-LES-REMPARTS,0.07,Travaux (Particuliers),3691
+Foret,2022-07-05,13,SAINT-MARC-JAUMEGARDE,0.17,Travaux (Particuliers),3692
+Foret,2022-07-05,34,MONTPELLIER,0.0618,Jet D'Objets Incandescents,3693
+Foret,2022-07-05,13,BOUC-BEL-AIR,0.03,Vehicules,3694
+Foret,2022-07-05,34,SAINT-JEAN-DE-VEDAS,0.021,Vehicules,3695
+Foret,2022-07-05,13,PORT-DE-BOUC,0.001,Jet D'Objets Incandescents,3696
+Foret,2022-07-05,30,MONTFAUCON,0.0758,Involontaire (particulier),3697
+Foret,2022-07-05,34,SAINT-PONS-DE-MAUCHIENS,11.6264,Malveillance,3698
+Foret,2022-07-05,30,FOURNES,0.1264,Malveillance,3699
+Foret,2022-07-06,83,SIGNES,0.0315,Malveillance,3701
+Foret,2022-07-06,13,ROQUEVAIRE,0.003,Travaux (Particuliers),3702
+Foret,2022-07-06,7,MAYRES,0.06,Vehicules,3703
+Foret,2022-07-06,13,FOS-SUR-MER,0.05,Jet D'Objets Incandescents,3704
+Foret,2022-07-06,13,VELAUX,0.1,Vehicules,3705
+Foret,2022-07-06,13,SAINT-MARTIN-DE-CRAU,0.3,Malveillance,3706
+Foret,2022-07-06,13,SAINT-MARTIN-DE-CRAU,0.02,Malveillance,3707
+Foret,2022-07-07,13,LANCON-PROVENCE,0.0005,Travaux (Particuliers),3711
+Foret,2022-07-07,34,MONTAGNAC,0.6141,Loisirs (Particuliers),3712
+Foret,2022-07-07,30,GENERAC,126.03,Travaux (Particuliers),3713
+Foret,2022-07-07,7,JOANNAS,0.4,Travaux (Particuliers),3714
+Foret,2022-07-07,66,BOULOU (LE),0.02,Malveillance,3716
+Foret,2022-07-07,13,SAINT-MITRE-LES-REMPARTS,0.001,Malveillance,3717
+Foret,2022-07-07,30,BORDEZAC,539.99,Malveillance,3723
+Foret,2022-07-07,13,ISTRES,0.2,Depot d'Ordures,3724
+Foret,2022-07-07,34,CANET,0.0327,Malveillance,3726
+Foret,2022-07-07,66,CAUDIES-DE-FENOUILLEDES,2.0,Malveillance,3729
+Foret,2022-07-08,30,MILHAUD,13.8303,Vehicules,3730
+Foret,2022-07-08,13,SAINT-MITRE-LES-REMPARTS,24.86,Malveillance,3731
+Foret,2022-07-08,34,COLOMBIERES-SUR-ORB,0.0111,Malveillance,3733
+Foret,2022-07-08,13,MAUSSANE-LES-ALPILLES,0.0002,Travaux (Particuliers),3734
+Foret,2022-07-08,30,SAINT-CHRISTOL-LES-ALES,0.0094,Malveillance,3736
+Foret,2022-07-08,83,SAINT-MAXIMIN-LA-SAINTE-BAUME,4.493,Travaux Agricoles,3738
+Foret,2022-07-08,13,MARTIGUES,8.31,Jet D'Objets Incandescents,3740
+Foret,2022-07-08,30,SERNHAC,3.7063,Involontaire (particulier),3741
+Foret,2022-07-08,66,ARGELES-SUR-MER,0.025,Malveillance,3744
+Foret,2022-07-09,7,SAINT-MARCEL-D'ARDECHE,2.0,Malveillance,3746
+Foret,2022-07-09,2B,LINGUIZZETTA,0.1,Malveillance,3747
+Foret,2022-07-09,34,GIGNAC,0.3206,Accidentelle,3750
+Foret,2022-07-09,34,MONTPELLIER,4.6935,Accidentelle,3751
+Foret,2022-07-09,2B,LINGUIZZETTA,7.0,Malveillance,3753
+Foret,2022-07-09,34,VIAS,0.3705,Jet D'Objets Incandescents,3754
+Foret,2022-07-09,34,AGDE,0.3064,Vehicules,3755
+Foret,2022-07-09,30,LANUEJOLS,0.8774,Accidentelle,3756
+Foret,2022-07-09,30,SAINT-ROMAN-DE-CODIERES,0.0273,Accidentelle,3758
+Foret,2022-07-09,30,SAINT-ROMAN-DE-CODIERES,0.0084,Accidentelle,3759
+Foret,2022-07-09,2A,CONCA,0.04,Depot d'Ordures,3762
+Foret,2022-07-10,34,COURNONSEC,6.9233,Involontaire (particulier),3765
+Foret,2022-07-10,34,PUECHABON,0.0228,Malveillance,3766
+Foret,2022-07-10,7,VAUDEVANT,0.01,Malveillance,3769
+Foret,2022-07-10,13,MAUSSANE-LES-ALPILLES,0.25,Jet D'Objets Incandescents,3770
+Foret,2022-07-10,34,SAINT-ETIENNE-D'ALBAGNAN,0.015,Involontaire (particulier),3771
+Foret,2022-07-11,6,ROURE,0.2,Foudre,3775
+Foret,2022-07-11,34,HEREPIAN,0.1142,Depot d'Ordures,3776
+Foret,2022-07-11,2A,SOCCIA,0.1,Travaux Industriels/Publics,3777
+Foret,2022-07-11,48,SAINT-LAURENT-DE-TREVES,2.0,Travaux Agricoles,3778
+Foret,2022-07-11,13,ROVE (LE),0.35,Malveillance,3779
+Foret,2022-07-12,13,MARTIGUES,0.0004,Travaux Industriels/Publics,3784
+Foret,2022-07-12,13,AURIOL,0.03,Travaux Industriels/Publics,3785
+Foret,2022-07-12,34,SAINT-PARGOIRE,0.1969,Malveillance,3787
+Foret,2022-07-12,34,SAINT-PARGOIRE,0.1478,Malveillance,3788
+Foret,2022-07-13,13,ROVE (LE),0.005,Loisirs (Particuliers),3789
+Foret,2022-07-13,13,TRETS,0.4,Travaux Agricoles,3791
+Foret,2022-07-13,66,SAINT-ANDRE,2.0,Malveillance,3792
+Foret,2022-07-13,2B,CORTE,3.0,Malveillance,3793
+Foret,2022-07-14,30,NIMES,0.003,Reprise Incendie,3796
+Foret,2022-07-14,2B,CASTELLO-DI-ROSTINO,0.01,Conflit,3800
+Foret,2022-07-14,2B,MURO,0.6,Conflit,3802
+Foret,2022-07-14,13,GRAVESON,1451.53,Chemin De Fer,3804
+Foret,2022-07-14,2B,CASTELLO-DI-ROSTINO,1.5,Malveillance,3806
+Foret,2022-07-14,13,PENNES-MIRABEAU (LES),0.03,Jet D'Objets Incandescents,3808
+Foret,2022-07-15,83,TOURVES,0.05,Jet D'Objets Incandescents,3810
+Foret,2022-07-15,4,SAINT-ANDRE-LES-ALPES,0.025,Lignes Electriques,3811
+Foret,2022-07-15,2B,LINGUIZZETTA,0.2,Malveillance,3812
+Foret,2022-07-15,2A,BONIFACIO,0.0001,Malveillance,3815
+Foret,2022-07-15,2B,CASTELLO-DI-ROSTINO,2.0,Conflit,3816
+Foret,2022-07-15,30,ARPAILLARGUES-ET-AUREILLAC,0.01,Reprise Incendie,3818
+Foret,2022-07-15,13,BARBENTANE,0.1,Chemin De Fer,3819
+Foret,2022-07-15,13,MARTIGUES,0.0005,Loisirs (Particuliers),3820
+Foret,2022-07-16,66,CAUDIES-DE-FENOUILLEDES,0.2,Malveillance,3821
+Foret,2022-07-16,34,BOSC (LE),0.0905,Malveillance,3822
+Foret,2022-07-16,66,CAUDIES-DE-FENOUILLEDES,0.04,Malveillance,3823
+Foret,2022-07-16,30,CONQUEYRAC,0.0067,Jet D'Objets Incandescents,3824
+Foret,2022-07-16,48,SALELLES (LES),0.01,Travaux Agricoles,3825
+Foret,2022-07-16,48,LANUEJOLS,4.0,Travaux Agricoles,3826
+Foret,2022-07-16,34,CASTRIES,0.6219,Malveillance,3828
+Foret,2022-07-16,34,BOSC (LE),0.0905,Malveillance,3830
+Foret,2022-07-17,34,BOSC (LE),0.0297,Malveillance,3833
+Foret,2022-07-17,30,CONQUEYRAC,0.0005,Reprise Incendie,3834
+Foret,2022-07-17,13,ROVE (LE),0.0002,Malveillance,3838
+Foret,2022-07-17,2A,ALATA,0.1,Vehicules,3840
+Foret,2022-07-18,7,VALLON-PONT-D'ARC,73.24,Malveillance,3843
+Foret,2022-07-18,13,COUDOUX,0.001,Jet D'Objets Incandescents,3848
+Foret,2022-07-18,34,PORTIRAGNES,2.2317,Travaux Agricoles,3849
+Foret,2022-07-18,7,LUSSAS,2.0,Travaux (Particuliers),3851
+Foret,2022-07-19,66,TAULIS,0.03,Travaux (Particuliers),3855
+Foret,2022-07-19,48,SAINTE-ENIMIE,37.0,Involontaire (travaux),3856
+Foret,2022-07-19,2B,LINGUIZZETTA,0.05,Conflit,3858
+Foret,2022-07-19,2B,CALENZANA,5.0,Vehicules,3859
+Foret,2022-07-19,4,SISTERON,0.12,Foudre,3860
+Foret,2022-07-19,5,CHAUFFAYER,0.0045,Travaux (Particuliers),3861
+Foret,2022-07-19,4,SAINT-GENIEZ,21.0,Foudre,3862
+Foret,2022-07-19,34,FERRALS-LES-MONTAGNES,1.5933,Malveillance,3863
+Foret,2022-07-20,4,BRAS-D'ASSE,0.77,Travaux Forestiers,3868
+Foret,2022-07-20,34,PORTIRAGNES,11.5995,Travaux Agricoles,3869
+Foret,2022-07-20,5,EYGLIERS,0.06,Foudre,3870
+Foret,2022-07-20,48,BEDOUES,12.0,Travaux Agricoles,3871
+Foret,2022-07-20,13,MARTIGUES,0.05,Malveillance,3872
+Foret,2022-07-20,34,FRONTIGNAN,0.023,Malveillance,3873
+Foret,2022-07-20,34,FRONTIGNAN,0.0479,Malveillance,3875
+Foret,2022-07-20,83,SEILLONS-SOURCE-D'ARGENS,0.015,Malveillance,3877
+Foret,2022-07-20,13,MARTIGUES,0.01,Malveillance,3878
+Foret,2022-07-21,4,GREOUX-LES-BAINS,0.37,Malveillance,3879
+Foret,2022-07-21,2A,ZONZA,0.28,Malveillance,3880
+Foret,2022-07-21,34,SAINT-GENIES-DE-FONTEDIT,3.0135,Malveillance,3882
+Foret,2022-07-21,83,AUPS,0.002,Malveillance,3883
+Foret,2022-07-21,13,THOLONET (LE),0.016,Travaux (Particuliers),3884
+Foret,2022-07-21,2B,ALBERTACCE,4.0,Malveillance,3885
+Foret,2022-07-21,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.1023,Malveillance,3886
+Foret,2022-07-21,2B,MURATO,0.4,Malveillance,3887
+Foret,2022-07-21,2B,VOLPAJOLA,0.04,Malveillance,3888
+Foret,2022-07-22,2A,ALATA,0.0001,Malveillance,3889
+Foret,2022-07-22,13,SEPTEMES-LES-VALLONS,0.35,Malveillance,3892
+Foret,2022-07-22,13,PENNES-MIRABEAU (LES),0.05,Jet D'Objets Incandescents,3893
+Foret,2022-07-22,34,AIGNE,179.3324,Accidentelle,3894
+Foret,2022-07-22,66,PERPIGNAN,4.0,Malveillance,3895
+Foret,2022-07-22,34,FRONTIGNAN,0.6816,Malveillance,3896
+Foret,2022-07-22,34,FRONTIGNAN,0.3825,Malveillance,3897
+Foret,2022-07-22,7,LAURAC-EN-VIVARAIS,70.05,Malveillance,3898
+Foret,2022-07-22,13,CHATEAUNEUF-LES-MARTIGUES,0.005,Jet D'Objets Incandescents,3899
+Foret,2022-07-22,34,FELINES-MINERVOIS,0.0424,Foudre,3900
+Foret,2022-07-23,13,SAINT-MITRE-LES-REMPARTS,0.001,Malveillance,3902
+Foret,2022-07-23,2B,LINGUIZZETTA,0.15,Malveillance,3904
+Foret,2022-07-23,66,SERDINYA,97.37,Jet D'Objets Incandescents,3906
+Foret,2022-07-23,66,SANSA,2.5,Malveillance,3908
+Foret,2022-07-23,7,SAINT-ROMAIN-DE-LERPS,0.1,Vehicules,3910
+Foret,2022-07-24,34,LUNAS,0.0607,Malveillance,3912
+Foret,2022-07-24,34,LOUPIAN,1.0531,Jet D'Objets Incandescents,3914
+Foret,2022-07-24,34,BRISSAC,0.1529,Jet D'Objets Incandescents,3915
+Foret,2022-07-24,2B,CASTELLO-DI-ROSTINO,14.8,Malveillance,3916
+Foret,2022-07-24,48,ANTRENAS,2.0,Jet D'Objets Incandescents,3917
+Foret,2022-07-24,2B,AGHIONE,0.4,Malveillance,3918
+Foret,2022-07-24,30,SAINT-QUENTIN-LA-POTERIE,45.0,Malveillance,3919
+Foret,2022-07-24,2B,SANTO-PIETRO-DI-TENDA,0.05,Malveillance,3920
+Foret,2022-07-25,4,CERESTE,0.09,Lignes Electriques,3922
+Foret,2022-07-25,13,ROQUEVAIRE,0.04,Travaux (Particuliers),3923
+Foret,2022-07-25,30,SAINT-JEAN-DU-GARD,0.0142,Foudre,3927
+Foret,2022-07-25,34,MONTPEYROUX,0.7199,Foudre,3929
+Foret,2022-07-25,2B,SANTO-PIETRO-DI-VENACO,0.003,Malveillance,3930
+Foret,2022-07-25,13,FARE-LES-OLIVIERS (LA),0.4,Vehicules,3931
+Foret,2022-07-25,13,FARE-LES-OLIVIERS (LA),0.3,Depot d'Ordures,3932
+Foret,2022-07-25,7,VILLENEUVE-DE-BERG,0.8,Loisirs (Particuliers),3933
+Foret,2022-07-25,13,VELAUX,0.08,Vehicules,3934
+Foret,2022-07-26,13,FARE-LES-OLIVIERS (LA),0.2,Vehicules,3935
+Foret,2022-07-26,34,BOSC (LE),0.0834,Malveillance,3936
+Foret,2022-07-26,66,BAIXAS,1.5,Malveillance,3937
+Foret,2022-07-26,34,SAINT-BAUZILLE-DE-LA-SYLVE,951.8,Malveillance,3938
+Foret,2022-07-26,66,PERPIGNAN,1.0,Malveillance,3940
+Foret,2022-07-26,83,FLASSANS-SUR-ISSOLE,0.12,Jet D'Objets Incandescents,3941
+Foret,2022-07-26,13,AIX-EN-PROVENCE,0.05,Jet D'Objets Incandescents,3942
+Foret,2022-07-26,34,AIGUES-VIVES,0.0588,Reprise Incendie,3943
+Foret,2022-07-26,6,TOUR (LA),0.4,Foudre,3946
+Foret,2022-07-26,34,GRABELS,1.2341,Vehicules,3948
+Foret,2022-07-26,34,VALERGUES,0.3863,Malveillance,3949
+Foret,2022-07-26,34,VENDRES,13.856,Malveillance,3950
+Foret,2022-07-26,13,COUDOUX,0.05,Jet D'Objets Incandescents,3952
+Foret,2022-07-26,34,PUECHABON,15.4863,Malveillance,3953
+Foret,2022-07-27,13,SAINT-MITRE-LES-REMPARTS,0.01,Malveillance,3955
+Foret,2022-07-27,34,SAINT-JEAN-DE-LA-BLAQUIERE,0.0245,Pyromanie,3956
+Foret,2022-07-27,34,SAINT-JEAN-DE-LA-BLAQUIERE,5.8473,Malveillance,3957
+Foret,2022-07-27,34,SAINT-GUIRAUD,0.0588,Malveillance,3958
+Foret,2022-07-27,66,ESPIRA-DE-L'AGLY,3.0,Malveillance,3959
+Foret,2022-07-27,34,MURLES,0.0218,Depot d'Ordures,3960
+Foret,2022-07-27,4,LAUZET-UBAYE (LE),0.015,Foudre,3962
+Foret,2022-07-27,7,LUSSAS,1120.08,Pyromanie,3963
+Foret,2022-07-27,2A,BONIFACIO,0.03,Malveillance,3964
+Foret,2022-07-27,34,ROSIS,0.4869,Foudre,3967
+Foret,2022-07-27,13,CASSIS,0.29,Jet D'Objets Incandescents,3970
+Foret,2022-07-27,34,GRABELS,4.8226,Vehicules,3973
+Foret,2022-07-27,34,SAINT-NAZAIRE-DE-LADAREZ,0.1802,Malveillance,3975
+Foret,2022-07-28,7,SAINT-BARTHELEMY-LE-PLAIN,1.0,Chemin De Fer,3978
+Foret,2022-07-28,30,VERFEUIL,0.0082,Malveillance,3979
+Foret,2022-07-28,34,GRABELS,2.8776,Vehicules,3980
+Foret,2022-07-28,2B,VENACO,50.0,Malveillance,3981
+Foret,2022-07-28,34,RIVES (LES),29.19,Foudre,3982
+Foret,2022-07-28,2B,ALTIANI,0.6,Malveillance,3983
+Foret,2022-07-28,13,LANCON-PROVENCE,0.02,Depot d'Ordures,3986
+Foret,2022-07-28,2B,ALBERTACCE,10.9,Malveillance,3987
+Foret,2022-07-28,4,LAUZET-UBAYE (LE),0.015,Travaux Forestiers,3988
+Foret,2022-07-29,4,AUTHON,0.02,Foudre,3992
+Foret,2022-07-29,6,VILLENEUVE-D'ENTRAUNES,0.02,Foudre,3993
+Foret,2022-07-29,2B,PRUNO,0.0005,Malveillance,3995
+Foret,2022-07-29,66,NOHEDES,0.002,Foudre,3996
+Foret,2022-07-30,2B,BISINCHI,1.0,Malveillance,3999
+Foret,2022-07-30,2B,LINGUIZZETTA,0.006,Malveillance,4000
+Foret,2022-07-30,2A,FIGARI,0.0093,Malveillance,4001
+Foret,2022-07-30,2B,LINGUIZZETTA,0.001,Malveillance,4003
+Foret,2022-07-30,4,SIMIANE-LA-ROTONDE,4.27,Travaux Agricoles,4004
+Foret,2022-07-30,66,CALCE,132.2,Malveillance,4005
+Foret,2022-07-30,13,MARTIGUES,0.5536,Malveillance,4006
+Foret,2022-07-30,6,LIEUCHE,0.06,Foudre,4007
+Foret,2022-07-30,5,VILLAR-SAINT-PANCRACE,0.2835,Loisirs (Particuliers),4008
+Foret,2022-07-30,66,TRESSERRE,5.0,Lignes Electriques,4009
+Foret,2022-07-30,34,CASTELNAU-DE-GUERS,0.0575,Malveillance,4010
+Foret,2022-07-31,13,MARTIGUES,0.5,Vehicules,4011
+Foret,2022-07-31,13,JOUQUES,0.002,Malveillance,4013
+Foret,2022-07-31,83,TOULON,0.02,Jet D'Objets Incandescents,4014
+Foret,2022-07-31,83,MAZAUGUES,37.13,Travaux Agricoles,4015
+Foret,2022-07-31,30,AUBAIS,286.16,Malveillance,4016
+Foret,2022-07-31,13,SEPTEMES-LES-VALLONS,34.999,Vehicules,4017
+Foret,2022-07-31,6,LUCERAM,6.3,Vehicules,4019
+Foret,2022-07-31,13,PENNES-MIRABEAU (LES),1.0,Jet D'Objets Incandescents,4020
+Foret,2022-07-31,13,PENNES-MIRABEAU (LES),0.0035,Jet D'Objets Incandescents,4021
+Foret,2022-07-31,13,CABRIES,0.01,Vehicules,4024
+Foret,2022-08-01,2B,SANTO-PIETRO-DI-TENDA,3.0,Malveillance,4025
+Foret,2022-08-01,2B,SANTO-PIETRO-DI-TENDA,456.0,Malveillance,4026
+Foret,2022-08-01,7,ASTET,0.5,Vehicules,4027
+Foret,2022-08-01,13,MAUSSANE-LES-ALPILLES,0.0005,Travaux (Particuliers),4031
+Foret,2022-08-02,66,BAIXAS,3.0,Malveillance,4034
+Foret,2022-08-02,66,AMELIE-LES-BAINS-PALALDA,0.0071,Malveillance,4035
+Foret,2022-08-02,66,AMELIE-LES-BAINS-PALALDA,0.0089,Malveillance,4036
+Foret,2022-08-02,66,AMELIE-LES-BAINS-PALALDA,0.0173,Malveillance,4037
+Foret,2022-08-02,5,SAINT-EUSEBE-EN-CHAMPSAUR,1.313,Lignes Electriques,4038
+Foret,2022-08-02,34,CAYLAR (LE),1.2486,Jet D'Objets Incandescents,4040
+Foret,2022-08-02,34,HEREPIAN,0.0026,Conflit,4042
+Foret,2022-08-02,2B,LOZZI,0.04,Malveillance,4043
+Foret,2022-08-02,34,MONTAGNAC,13.0122,Malveillance,4045
+Foret,2022-08-02,2B,SAN-LORENZO,0.0005,Foudre,4046
+Foret,2022-08-02,66,SAINT-HIPPOLYTE,1.0,Malveillance,4047
+Foret,2022-08-02,2B,CORTE,2.3,Foudre,4050
+Foret,2022-08-02,13,CABRIES,5.0,Lignes Electriques,4051
+Foret,2022-08-02,2B,AITI,0.0005,Foudre,4052
+Foret,2022-08-02,13,GARDANNE,0.025,Travaux Agricoles,4053
+Foret,2022-08-02,13,GEMENOS,0.002,Jet D'Objets Incandescents,4054
+Foret,2022-08-02,48,SAINT-ETIENNE-VALLEE-FRANCAISE,15.0,Lignes Electriques,4055
+Foret,2022-08-02,66,TAUTAVEL,0.0591,Malveillance,4056
+Foret,2022-08-02,66,TAUTAVEL,0.0115,Malveillance,4057
+Foret,2022-08-02,66,TAUTAVEL,0.047,Malveillance,4058
+Foret,2022-08-02,66,TAUTAVEL,0.0547,Malveillance,4059
+Foret,2022-08-02,66,TAUTAVEL,0.1037,Malveillance,4060
+Foret,2022-08-03,2B,OLMETA-DI-TUDA,0.5,Malveillance,4062
+Foret,2022-08-03,13,EYGALIERES,0.05,Travaux Industriels/Publics,4063
+Foret,2022-08-03,2B,PATRIMONIO,0.15,Malveillance,4065
+Foret,2022-08-03,7,DEVESSET,0.1,Pyromanie,4066
+Foret,2022-08-03,66,TOULOUGES,2.0,Malveillance,4067
+Foret,2022-08-03,13,LAMBESC,1.73,Travaux (Particuliers),4068
+Foret,2022-08-03,4,AIGLUN,0.0005,Lignes Electriques,4069
+Foret,2022-08-05,83,CASTELLET (LE),2.9,Malveillance,4080
+Foret,2022-08-05,2B,ASCO,0.0001,Foudre,4081
+Foret,2022-08-05,48,BONDONS (LES),32.0,Foudre,4083
+Foret,2022-08-05,13,LANCON-PROVENCE,0.2993,Lignes Electriques,4085
+Foret,2022-08-06,2A,PIETROSELLA,0.0001,Travaux (Particuliers),4088
+Foret,2022-08-06,4,GREOUX-LES-BAINS,0.0166,Lignes Electriques,4090
+Foret,2022-08-06,4,ROUMOULES,0.05,Vehicules,4092
+Foret,2022-08-06,6,LANTOSQUE,0.1,Foudre,4093
+Foret,2022-08-06,34,SAINT-GENIES-DE-VARENSAL,0.0381,Malveillance,4094
+Foret,2022-08-06,34,VACQUIERES,32.1,Jet D'Objets Incandescents,4095
+Foret,2022-08-06,6,LUCERAM,0.15,Foudre,4097
+Foret,2022-08-06,6,AMIRAT,12.0,Foudre,4098
+Foret,2022-08-06,13,AUBAGNE,0.015,Malveillance,4099
+Foret,2022-08-06,13,ORGON,0.015,Vehicules,4100
+Foret,2022-08-06,34,SAINT-NAZAIRE-DE-LADAREZ,0.0458,Malveillance,4102
+Foret,2022-08-06,34,SAINT-NAZAIRE-DE-LADAREZ,0.158,Malveillance,4103
+Foret,2022-08-06,34,SAINT-NAZAIRE-DE-LADAREZ,0.1244,Malveillance,4104
+Foret,2022-08-06,34,CAUSSES-ET-VEYRAN,0.4802,Accidentelle,4105
+Foret,2022-08-07,6,BRIGUE (LA),2.0,Foudre,4107
+Foret,2022-08-07,2A,BOCOGNANO,0.5,Foudre,4108
+Foret,2022-08-07,66,PIA,9.0,Malveillance,4109
+Foret,2022-08-07,2B,MURACCIOLE,0.001,Foudre,4110
+Foret,2022-08-07,2B,MURO,0.02,Malveillance,4111
+Foret,2022-08-07,2B,VIVARIO,0.02,Foudre,4112
+Foret,2022-08-07,2A,PASTRICCIOLA,0.005,Foudre,4113
+Foret,2022-08-07,2A,COZZANO,5.1,Foudre,4114
+Foret,2022-08-07,2A,QUENZA,0.005,Foudre,4115
+Foret,2022-08-07,2A,ZONZA,0.0001,Foudre,4116
+Foret,2022-08-07,6,UTELLE,0.005,Foudre,4117
+Foret,2022-08-07,34,ROSIS,7.1168,Malveillance,4119
+Foret,2022-08-07,34,AVENE,36.29,Autres Installations,4120
+Foret,2022-08-07,2A,ZONZA,0.01,Foudre,4121
+Foret,2022-08-07,2B,CAMBIA,0.001,Foudre,4123
+Foret,2022-08-07,6,BREIL-SUR-ROYA,1.15,Foudre,4124
+Foret,2022-08-07,2B,ALBERTACCE,0.0005,Foudre,4125
+Foret,2022-08-07,2B,GHISONI,0.0001,Foudre,4127
+Foret,2022-08-08,66,CAUDIES-DE-FENOUILLEDES,1.0,Malveillance,4128
+Foret,2022-08-08,2B,ASCO,0.0005,Foudre,4129
+Foret,2022-08-08,2A,BOCOGNANO,0.1,Foudre,4130
+Foret,2022-08-08,2A,EVISA,0.005,Foudre,4132
+Foret,2022-08-08,48,MASSEGROS (LE),107.0,Accidentelle,4133
+Foret,2022-08-08,2A,OTA,0.005,Foudre,4134
+Foret,2022-08-08,2A,MURZO,0.01,Foudre,4135
+Foret,2022-08-08,2B,PIETROSO,0.0005,Foudre,4136
+Foret,2022-08-08,2A,LETIA,0.005,Foudre,4137
+Foret,2022-08-08,2B,CHISA,0.0005,Foudre,4138
+Foret,2022-08-09,7,SAINT-BARTHELEMY-LE-PLAIN,12.0,Chemin De Fer,4140
+Foret,2022-08-09,2B,GHISONACCIA,0.04,Malveillance,4141
+Foret,2022-08-09,2A,FIGARI,1.2,Malveillance,4143
+Foret,2022-08-09,2A,BONIFACIO,0.004,Malveillance,4144
+Foret,2022-08-09,6,CONSEGUDES,0.015,Foudre,4145
+Foret,2022-08-09,2A,SAN-GAVINO-DI-CARBINI,0.002,Foudre,4146
+Foret,2022-08-09,2A,PORTO-VECCHIO,0.0041,Malveillance,4147
+Foret,2022-08-10,2A,CALCATOGGIO,0.15,Depot d'Ordures,4149
+Foret,2022-08-10,30,SAINT-CHRISTOL-LES-ALES,0.2851,Malveillance,4150
+Foret,2022-08-10,34,CAUSSES-ET-VEYRAN,3.351,Malveillance,4151
+Foret,2022-08-10,48,SAINT-GEORGES-DE-LEVEJAC,0.015,Travaux Agricoles,4152
+Foret,2022-08-10,7,EMPURANY,12.0,Chemin De Fer,4153
+Foret,2022-08-10,6,LANTOSQUE,0.004,Foudre,4154
+Foret,2022-08-10,2A,ZONZA,0.05,Foudre,4155
+Foret,2022-08-10,2A,MURZO,0.0015,Foudre,4159
+Foret,2022-08-10,2A,PORTO-VECCHIO,0.001,Malveillance,4164
+Foret,2022-08-11,5,FAURIE (LA),0.2,Jet D'Objets Incandescents,4169
+Foret,2022-08-11,13,AURIOL,3.0,Foudre,4170
+Foret,2022-08-11,2A,PILA-CANALE,0.0001,Foudre,4171
+Foret,2022-08-11,83,SAINTE-ANASTASIE-SUR-ISSOLE,0.032,Foudre,4172
+Foret,2022-08-11,2A,BASTELICA,0.0001,Foudre,4173
+Foret,2022-08-11,2A,BASTELICA,0.001,Foudre,4174
+Foret,2022-08-11,2A,SERRA-DI-SCOPAMENE,0.0005,Depot d'Ordures,4175
+Foret,2022-08-12,7,LABLACHERE,0.1,Malveillance,4178
+Foret,2022-08-12,13,SALON-DE-PROVENCE,0.02,Vehicules,4179
+Foret,2022-08-12,5,AVANCON,0.59,Lignes Electriques,4181
+Foret,2022-08-12,13,FUVEAU,0.01,Vehicules,4182
+Foret,2022-08-12,13,SALON-DE-PROVENCE,0.005,Vehicules,4183
+Foret,2022-08-12,48,PIED-DE-BORNE,10.0,Lignes Electriques,4184
+Foret,2022-08-13,2A,SAN-GAVINO-DI-CARBINI,0.0003,Foudre,4185
+Foret,2022-08-13,2A,SOTTA,0.0005,Foudre,4186
+Foret,2022-08-13,2A,EVISA,0.0003,Foudre,4187
+Foret,2022-08-13,7,LAMASTRE,25.0,Malveillance,4189
+Foret,2022-08-13,83,FLAYOSC,0.28,Jet D'Objets Incandescents,4191
+Foret,2022-08-13,2B,OLETTA,4.0,Malveillance,4192
+Foret,2022-08-13,5,FURMEYER,0.016,Pyromanie,4193
+Foret,2022-08-13,30,AIGUEZE,0.6077,Foudre,4198
+Foret,2022-08-13,5,FURMEYER,0.0323,Pyromanie,4199
+Foret,2022-08-14,7,AILHON,1.0,Vehicules,4201
+Foret,2022-08-14,13,AURONS,0.003,Foudre,4203
+Foret,2022-08-14,13,PUYLOUBIER,0.001,Foudre,4206
+Foret,2022-08-14,4,CASTELLANE,0.0025,Foudre,4209
+Foret,2022-08-15,13,CIOTAT (LA),0.0002,Vehicules,4212
+Foret,2022-08-15,2A,ALATA,0.0005,Foudre,4213
+Foret,2022-08-15,83,CHATEAUVERT,0.002,Foudre,4214
+Foret,2022-08-15,34,TOUR-SUR-ORB (LA),0.2834,Malveillance,4215
+Foret,2022-08-15,2B,MANSO,0.0001,Foudre,4216
+Foret,2022-08-15,34,SERIGNAN,3.0275,Malveillance,4217
+Foret,2022-08-15,34,NEBIAN,0.3011,Malveillance,4218
+Foret,2022-08-15,5,UPAIX,0.62,Foudre,4219
+Foret,2022-08-15,7,LABLACHERE,1.5,Lignes Electriques,4220
+Foret,2022-08-16,2B,ALERIA,0.001,Foudre,4221
+Foret,2022-08-16,4,AIGLUN,0.044,Travaux (Particuliers),4222
+Foret,2022-08-16,4,SENEZ,0.17,Foudre,4223
+Foret,2022-08-16,83,SANARY-SUR-MER,0.64,Lignes Electriques,4224
+Foret,2022-08-17,13,TARASCON,0.012,Foudre,4226
+Foret,2022-08-17,13,SAINT-ETIENNE-DU-GRES,0.0004,Foudre,4228
+Foret,2022-08-17,4,CHATEAUNEUF-VAL-SAINT-DONAT,0.006,Foudre,4229
+Foret,2022-08-18,2A,VERO,0.0222,Foudre,4230
+Foret,2022-08-18,34,SOULIE (LE),0.0026,Foudre,4232
+Foret,2022-08-20,34,CLERMONT-L'HERAULT,0.2519,Malveillance,4236
+Foret,2022-08-21,4,MONTFURON,0.22,Jet D'Objets Incandescents,4241
+Foret,2022-08-21,2A,LETIA,0.02,Foudre,4242
+Foret,2022-08-22,13,SAINT-MARTIN-DE-CRAU,94.828,Malveillance,4244
+Foret,2022-08-23,2B,VEZZANI,0.001,Foudre,4246
+Foret,2022-08-23,34,TAUSSAC-LA-BILLIERE,0.0448,Malveillance,4247
+Foret,2022-08-23,34,LAMALOU-LES-BAINS,0.0812,Accidentelle,4248
+Foret,2022-08-23,13,SEPTEMES-LES-VALLONS,0.005,Depot d'Ordures,4249
+Foret,2022-08-23,2B,SORBO-OCAGNANO,0.1,Malveillance,4252
+Foret,2022-08-25,34,BOUSQUET-D'ORB (LE),0.0052,Malveillance,4255
+Foret,2022-08-25,2A,OTA,0.0001,Foudre,4256
+Foret,2022-08-25,13,AURIOL,2.48,Travaux Industriels/Publics,4257
+Foret,2022-08-26,83,BRIGNOLES,0.002,Foudre,4260
+Foret,2022-08-26,2B,ALBERTACCE,0.001,Foudre,4261
+Foret,2022-08-26,6,CLANS,0.04,Foudre,4263
+Foret,2022-08-27,2B,ANTISANTI,0.001,Foudre,4265
+Foret,2022-08-28,7,MONTPEZAT-SOUS-BAUZON,32.0,Malveillance,4266
+Foret,2022-08-28,4,CASTELLANE,0.0005,Foudre,4267
+Foret,2022-08-28,2A,CIAMANNACCE,0.001,Foudre,4268
+Foret,2022-08-28,2B,GHISONI,0.001,Foudre,4269
+Foret,2022-08-29,7,DESAIGNES,0.6,Foudre,4271
+Foret,2022-08-30,83,BAGNOLS-EN-FORET,0.02,Foudre,4273
+Foret,2022-09-01,7,BEAULIEU,8.0,Foudre,4278
+Foret,2022-09-01,13,FUVEAU,0.05,Malveillance,4279
+Foret,2022-09-01,7,MONTPEZAT-SOUS-BAUZON,0.02,Reprise Incendie,4280
+Foret,2022-09-01,2B,ALBERTACCE,1.2,Foudre,4281
