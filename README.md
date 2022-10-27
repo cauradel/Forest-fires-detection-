@@ -59,6 +59,17 @@ Dashboarding in Tableau : https://public.tableau.com/views/Projet_Final/Forestfi
 <img width="992" alt="Screenshot 2022-09-22 at 14 14 29" src="https://user-images.githubusercontent.com/77899183/192102371-dba16759-fb52-4f4e-bb4b-63db50c603de.png">
 
 
+Data Manipulation with SQL : 
+
+<img width="704" alt="Screenshot 2022-10-27 at 13 58 02" src="https://user-images.githubusercontent.com/77899183/198278696-f6bd6fd1-ccb6-4f8a-9b7b-16fa7007935d.png">
+<img width="691" alt="Screenshot 2022-10-27 at 13 58 10" src="https://user-images.githubusercontent.com/77899183/198278746-9fcade1c-5e2d-4506-99ed-21f12db0eced.png">
+<img width="743" alt="Screenshot 2022-10-27 at 13 58 24" src="https://user-images.githubusercontent.com/77899183/198278773-6b34da8f-4b06-45d2-80ab-bb2c390404ef.png">
+<img width="691" alt="Screenshot 2022-10-27 at 13 58 36" src="https://user-images.githubusercontent.com/77899183/198278803-d8d8dc94-cd15-4a84-84e4-b49a99c44270.png">
+<img width="696" alt="Screenshot 2022-10-27 at 13 58 50" src="https://user-images.githubusercontent.com/77899183/198278819-dc9b307e-0e11-4416-9e4c-e1f15f7f2691.png">
+
+
+
+
 
 
 Forecasting with Timeseries
